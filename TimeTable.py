@@ -4,32 +4,7 @@ from datetime import datetime
 import json
 import re
 
-
-
-st.set_page_config(layout="wide",page_icon=":bell:", page_title="KLEIT- TimeTable")
-
-
-# # --- USER AUTHENTICATION ---
-# names = ["hod_cse@kleit.ac.in", "hod_ece@kleit.ac.in","hod_eee@kleit.ac.in", "hod_mca@kleit.ac.in","hod_civ@kleit.ac.in", "hod_mec@kleit.ac.in"]
-# usernames = ["hod_cse@kleit.ac.in", "hod_ece@kleit.ac.in","hod_eee@kleit.ac.in", "hod_mca@kleit.ac.in","hod_civ@kleit.ac.in", "hod_mec@kleit.ac.in"]
-
-# # load hashed passwords
-# file_path = Path(__file__).parent / "hashed_pw.pkl"
-# with file_path.open("rb") as file:
-#     hashed_passwords = pickle.load(file)
-
-# authenticator = stauth.Authenticate(names, usernames, hashed_passwords,"sales_dashboard", "abcdef", cookie_expiry_days=30)
-
-# name, authentication_status, username = authenticator.login("Login", "main")
-
-# if authentication_status == False:
-#     st.error("Username/password is incorrect")
-
-# if authentication_status == None:
-#     st.warning("Please enter your username and password")
-
-
-
+st.set_page_config(page_icon=":bell:", page_title="KLEIT- TimeTable")
 
 st.markdown("""
 <style>
@@ -115,15 +90,52 @@ def getDeptClasses(deptName = 'All_DEPT',d_sem = 'ALL_SEM',d_div = 'ALL_DIV', ge
 def display(msg):
     st.markdown('<p class="big-font">'+msg+'</p>', unsafe_allow_html=True)
 
-if day == 6 :
-    st.header('Today is SUNDAY')
-else:
-    dept_c, sem_c, div_c, blank1, blank2, slot_c = st.columns(6)
-    dept_s = dept_c.selectbox('Department',Departments)
-    sem_s = sem_c.selectbox('Semister',sem)
-    div_s = div_c.selectbox('Division',divisions)
-    slot_s = slot_c.selectbox('Time slots',slots)
-    if slot_s == "On Going":
-        slot_s = current_time
-    # getDeptClasses(dept_s,sem_s,div_s,slot_s)
-    # display("CSE/3SEM/A/ADSL1")
+
+def check_password():
+    """Returns `True` if the user had a correct password."""
+
+    def password_entered():
+        """Checks whether a password entered by the user is correct."""
+        if (
+            st.session_state["username"] in st.secrets["passwords"]
+            and st.session_state["password"]
+            == st.secrets["passwords"][st.session_state["username"]]
+        ):
+            st.session_state["password_correct"] = True
+            del st.session_state["password"]  # don't store username + password
+            del st.session_state["username"]
+        else:
+            st.session_state["password_correct"] = False
+
+    if "password_correct" not in st.session_state:
+        # First run, show inputs for username + password.
+        st.text_input("Username", on_change=password_entered, key="username")
+        st.text_input(
+            "Password", type="password", on_change=password_entered, key="password"
+        )
+        return False
+    elif not st.session_state["password_correct"]:
+        # Password not correct, show input + error.
+        st.text_input("Username", on_change=password_entered, key="username")
+        st.text_input(
+            "Password", type="password", on_change=password_entered, key="password"
+        )
+        st.error("😕 User not known or password incorrect")
+        return False
+    else:
+        # Password correct.
+        return True
+
+if check_password():
+    if day == 6 :
+        st.header('Today is SUNDAY')
+    else:
+        dept_c, sem_c, div_c, blank1, blank2, slot_c = st.columns(6)
+        dept_s = dept_c.selectbox('Department',Departments)
+        sem_s = sem_c.selectbox('Semister',sem)
+        div_s = div_c.selectbox('Division',divisions)
+        slot_s = slot_c.selectbox('Time slots',slots)
+        if slot_s == "On Going":
+            slot_s = current_time
+        # getDeptClasses(dept_s,sem_s,div_s,slot_s)
+        # display("CSE/3SEM/A/ADSL1")
