@@ -3,17 +3,54 @@ import streamlit as st
 from datetime import datetime
 import json
 import re
+from pathlib import Path
 
-st.set_page_config(page_icon=":bell:", page_title="KLEIT- TimeTable")
+
+st.set_page_config(page_icon=":bell:", page_title="KLEIT- TimeTable",layout='wide')
+
+# from PIL import Image
+# image = Image.open('C:\\Users\\shrid\\OneDrive\\Documents\\Projects\\download.png')
+# st.image(image)
 
 st.markdown("""
 <style>
-.big-font {
+.dept {
     font-size:25px !important;
-    color: blue;
+    color: #474342;
+    style="white-space: pre-line"
 }
 </style>
 """, unsafe_allow_html=True)
+
+st.markdown("""
+<style>
+.sub {
+    font-size:25px !important;
+    color: #cf320a;
+}
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown("""
+<style>
+.faculty {
+    font-size:25px !important;
+    color: #524aed;
+    style="white-space: pre-line"
+}
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown("""
+<style>
+.by {
+    font-size:15px !important;
+    color: black;
+    style="white-space: pre-line"
+}
+</style>
+""", unsafe_allow_html=True)
+
 
 now = datetime.now()
 current_time = str(now.strftime("%H:%M") )
@@ -21,9 +58,9 @@ current_time = str(now.strftime("%H:%M") )
 days = ['MON','TUE','WED','THU','FRI','SAT','SUN']
 day = days[datetime.today().weekday()]
 
-Departments =["All_DEPT", "First Year", "CSE","ECE","EEE", "MCA", "CIV","MEC"]
-sem = ['ALL_SEM','3','5','7']
-divisions = ['ALL_DIV','A','B']
+Departments =["All_DEPT", "First_year", "CSE","ECE","EEE", "MCA", "CIV","MEC"]
+sem = ['ALL_SEM','3','5','7','C_Cycle','P_Cycle']
+divisions = ['ALL_DIV','A','B','C','D','E','F']
 
 slots = ["On Going","08:30", "09:30","10:30","11:00","12:00","13:00","13:30","14:30","15:30","16:30","17:30" ]
 
@@ -34,7 +71,10 @@ for i in range(len(time_slots) - 1):
         current_time = time_slots[i]
 # st.write(current_time)
 content = {}
-with open('C:\\Users\\shrid\\OneDrive\\Documents\\Projects\\TTP\\timeTable.json', 'r') as f:
+
+
+file_path = Path(__file__).parent / "timeTable.json"
+with file_path.open('r') as f:
         content = json.load(f)
 
 def getDeptClasses(deptName = 'All_DEPT',d_sem = 'ALL_SEM',d_div = 'ALL_DIV', getTime = current_time):
@@ -50,7 +90,7 @@ def getDeptClasses(deptName = 'All_DEPT',d_sem = 'ALL_SEM',d_div = 'ALL_DIV', ge
     if d_div != 'ALL_DIV':
         d_div = d_sem+d_div
 
-    st.subheader(deptName)
+    # st.subheader(deptName)
     if getTime < "08:30" or getTime > "17:30":
         st.header("Please come back in college hours ")
         return
@@ -59,83 +99,52 @@ def getDeptClasses(deptName = 'All_DEPT',d_sem = 'ALL_SEM',d_div = 'ALL_DIV', ge
             if dept_names == deptName or deptName == 'All_DEPT':
                 for sem,sem_class in dept_classes.items():
                     if ((sem == d_sem) or (d_sem == 'ALL_SEM') or (deptName == 'All_DEPT' and re.search(".*"+d_sem[8:],sem))):
-                        # st.write(d_sem)
                         for div,div_class in sem_class.items():
                             if div == d_div or d_div == 'ALL_DIV' or (re.search(".*"+d_div[4:],div) or (deptName == 'All_DEPT' and re.search(".*"+d_div[8:],div))):
-                                
                                 if(deptName == 'All_DEPT' and d_sem == 'ALL_SEM' and d_div != 'ALL_DIV'):
                                     if re.search(".*"+d_div[4:],div):
                                         faculty = div_class['FACULTY']
                                         lh = div_class['LH']
                                         for d_day,day_map in div_class.items():
-                                            # st.write(d_day,day)
                                             if d_day == day:
                                                 sub_code = day_map[getTime]
                                                 cl_now = faculty[sub_code][0]
                                                 faculty = faculty[sub_code][0]
-                                                st.write(cl_now)
+
+                                                sem = sem.replace(dept_names,'')
+                                                div = div.replace(dept_names+sem,'')
+                                                display = dept_names+'/'+sem+'/'+div
+                                                st.markdown('<span class="dept">'+display+'</span>', unsafe_allow_html=True)
+                                                st.markdown('<span class="sub">'+cl_now+'</span>'+'<span class="by">'+".........By:........"+'</span>'+'<span class="faculty">'+faculty+'</span>', unsafe_allow_html=True)
+                                            
                                 else:
-                                    # st.write(div,d_div)
+                                    # st.write(div_class)
                                     faculty = div_class['FACULTY']
                                     lh = div_class['LH']
                                     for d_day,day_map in div_class.items():
-                                        # st.write(d_day,d_div)
                                         if d_day == day:
                                             sub_code = day_map[getTime]
                                             cl_now = faculty[sub_code][0]
                                             faculty = faculty[sub_code][0]
-                                            st.write(cl_now)
+
+                                            sem = sem.replace(dept_names,'')
+                                            div = div.replace(dept_names+sem,'')
+                                            display = dept_names+'/'+sem+'/'+div
+                                            st.markdown('<span class="dept">'+display+'</span>', unsafe_allow_html=True)
+                                            st.markdown('<span class="sub">'+cl_now+'</span>'+'<span class="by">'+".........By:........"+'</span>'+'<span class="faculty">'+faculty+'</span>', unsafe_allow_html=True)
+                                            # st.markdown('<span class="faculty">'+faculty+'</span>', unsafe_allow_html=True)
+                                            # st.write(cl_now)
     return cl_now
 
-def display(msg):
-    st.markdown('<p class="big-font">'+msg+'</p>', unsafe_allow_html=True)
+if day == 6 :
+    st.header('Today is SUNDAY')
+else:
+    dept_c, sem_c, div_c, blank1, blank2, slot_c = st.columns(6)
+    dept_s = dept_c.selectbox('Department',Departments)
 
-
-def check_password():
-    """Returns `True` if the user had a correct password."""
-
-    def password_entered():
-        """Checks whether a password entered by the user is correct."""
-        if (
-            st.session_state["username"] in st.secrets["passwords"]
-            and st.session_state["password"]
-            == st.secrets["passwords"][st.session_state["username"]]
-        ):
-            st.session_state["password_correct"] = True
-            del st.session_state["password"]  # don't store username + password
-            del st.session_state["username"]
-        else:
-            st.session_state["password_correct"] = False
-
-    if "password_correct" not in st.session_state:
-        # First run, show inputs for username + password.
-        st.text_input("Username", on_change=password_entered, key="username")
-        st.text_input(
-            "Password", type="password", on_change=password_entered, key="password"
-        )
-        return False
-    elif not st.session_state["password_correct"]:
-        # Password not correct, show input + error.
-        st.text_input("Username", on_change=password_entered, key="username")
-        st.text_input(
-            "Password", type="password", on_change=password_entered, key="password"
-        )
-        st.error("😕 User not known or password incorrect")
-        return False
-    else:
-        # Password correct.
-        return True
-
-if check_password():
-    if day == 6 :
-        st.header('Today is SUNDAY')
-    else:
-        dept_c, sem_c, div_c, blank1, blank2, slot_c = st.columns(6)
-        dept_s = dept_c.selectbox('Department',Departments)
-        sem_s = sem_c.selectbox('Semister',sem)
-        div_s = div_c.selectbox('Division',divisions)
-        slot_s = slot_c.selectbox('Time slots',slots)
-        if slot_s == "On Going":
-            slot_s = current_time
-        # getDeptClasses(dept_s,sem_s,div_s,slot_s)
-        # display("CSE/3SEM/A/ADSL1")
+    sem_s = sem_c.selectbox('Semister',sem)
+    div_s = div_c.selectbox('Division',divisions)
+    slot_s = slot_c.selectbox('Time slots',slots)
+    if slot_s == "On Going":
+        slot_s = current_time
+    getDeptClasses(dept_s,sem_s,div_s,slot_s)

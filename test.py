@@ -1,12 +1,14 @@
 from faulthandler import disable
 import json
+from time import time
 import streamlit as st
 from streamlit_option_menu import option_menu
+from pathlib import Path
 
 st.set_page_config(layout="wide")
 
 st.markdown(""" <style> div.stButton > button:first-child {background-color: #7aa19a;margin-left:40%;color:white;font-size:30px;height:3em;width:25%;border-radius:10px 10px10px 10px;}""", unsafe_allow_html=True)
-st.markdown("""<style> .big-font { font-size:30px !important; color: #546b67} </style>""", unsafe_allow_html=True)
+st.markdown("""<style> .big-font { font-size:18px !important; color: red} </style>""", unsafe_allow_html=True)
 
 subjectCode = ['Not_Entered','BREAK','LUNCH',]
 subjectName= ['Not_Entered','BREAK','LUNCH',]
@@ -18,6 +20,7 @@ wednesday = {}
 thursday = {}
 friday = {}
 saturday = {}
+hod_name  = ''
 
 subject_faculty_map = {"lunch":"lunch"}
 
@@ -32,7 +35,6 @@ def subMapping(sec,subjectCode = subjectCode ,subjectName = subjectName,facultyN
     columns[0][0].text('Subject Code')
     columns[0][1].text('Subjecct Name')
     columns[0][2].text('Faculty Name')
-
 
     subjectCode.append(columns[1][0].text_input('sub1'))
     subjectCode.append(columns[2][0].text_input('sub2'))
@@ -73,14 +75,16 @@ def subMapping(sec,subjectCode = subjectCode ,subjectName = subjectName,facultyN
     subject_faculty_map = {subjectCode[i]: [subjectName[i], facultyName[i]] for i in range(len(subjectCode))}
     subject_faculty_map = {"FACULTY": subject_faculty_map}
     
-
     st.error("!!! Must save before entering time table")
     map_submitted = st.form_submit_button("SAVE")
+    if map_submitted:
+      st.success('Subject Mapping for CIV/5/A DIV is saved')
+      st.success('NOW you can enter the time table below:point_down::point_down::point_down:')
 
 def timeTable(page_title,dd):
   # with st.form("Time Table"):
     dd = [i for i in dd if i]
-    st.header(page_title + ' Time Table')
+    st.header(page_title + 'Time Table')
     n_rows = 10
     n_cols = 11
 
@@ -172,7 +176,7 @@ def timeTable(page_title,dd):
     days.append(columns[5][0].text('FRI'))
     days.append(columns[6][0].text('SAT'))
 
-    columns[7][0].markdown('<p class="big-font">Room No.</p>', unsafe_allow_html=True)
+    columns[7][0].markdown('<p class="big-font">L.H No.</p>', unsafe_allow_html=True)
     lh = columns[7][1].text_input('LH No.')
     day_map = {"LH":lh,"MON": monday,"TUE": tuesday,"WED": wednesday,"THU": thursday,"FRI": friday,"SAT": saturday,}
     day_map.update(subject_faculty_map)
@@ -186,31 +190,6 @@ def timeTable(page_title,dd):
       placeholder.button('SUBMIT',disabled=True,key=2)
       clearAllVariables()
       updateJson(dept_sem_div,day_map)
-      # with open('C:\\Users\\shrid\\OneDrive\\Documents\\Projects\\TTP\\timeTable.json', 'r+') as f:
-      #   content = json.load(f)
-      #   for title,depts in content.items():
-      #     if dept_sem_div[0] in depts:
-      #       st.write("inside Dept" + dept_sem_div[0])
-      #       for dept_names,dept_classes in depts.items():
-      #         if dept_sem_div[0] + dept_sem_div[1]+"SEM" in dept_classes:
-      #           st.write("inside sem" + dept_sem_div[0]+ dept_sem_div[1]+"SEM")
-      #           for sem,sem_class in dept_classes.items():
-      #             if dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2] in sem_class:
-      #               continue
-      #             else:
-      #               st.write("updating the "+dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2]," class in ", dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"])
-      #               timeTableJson ={dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2]:day_map}
-      #               dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"].update(timeTableJson)
-      #               break
-      #         else:
-      #           timeTableJson = {dept_sem_div[0] + dept_sem_div[1]+"SEM":{dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2]:day_map}}
-      #           depts[dept_sem_div[0]].update(timeTableJson)
-      #     else:
-      #       timeTableJson = {dept_sem_div[0] : {dept_sem_div[0] + dept_sem_div[1]+"SEM":{dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2]:day_map}}}
-      #       # content['DEPT'].update(timeTableJson)
-      #   f.seek(0)
-      #   json.dump(content,f,indent=4)
-      st.success('Submitted Successfully')
 
 def innerOptionMenu(sections):
   selected_tab = option_menu(
@@ -242,27 +221,44 @@ def clearAllVariables():
 
 def updateJson(dept_sem_div,day_map):
   updated = 0
-  with open('C:\\Users\\shrid\\OneDrive\\Documents\\Projects\\TTP\\timeTable.json', 'r+') as f:
+  file_path = Path(__file__).parent / "timeTable.json"
+  with file_path.open('r+') as f:
     content = json.load(f)
     for title,depts in content.items():
       if dept_sem_div[0] in depts:
-        # st.write("inside Dept1" + dept_sem_div[0])
         for dept_names,dept_classes in depts.items():
           if dept_sem_div[0] + dept_sem_div[1]+"SEM" in dept_classes:
             # st.write("inside sem" + dept_sem_div[0]+ dept_sem_div[1]+"SEM")
+            prasent = []
             for sem,sem_class in dept_classes.items():
-              if dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2] in sem_class:
-                return
-              elif updated == 0:
-                # st.write('inner1 elif')
-                # st.write("updating the 1"+dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2]," class in ", dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"])
-                timeTableJson ={dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2]:day_map}
-                dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"].update(timeTableJson)
-                f.seek(0)
-                json.dump(content,f,indent=4)
-                # st.write(dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"])
-                updated = 1
-                return
+              ss = list(sem_class.keys())  
+              prasent = prasent + ss
+            if dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2] in prasent:
+              # key = dept_sem_div[0] + dept_sem_div[1]+'SEM'+dept_sem_div[2]
+              # del dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"][key]
+              # st.write("dept name ",dept_sem_div[0])
+
+              # if dept_sem_div[0] == 'CSE' or dept_sem_div[0] == 'ECE' or dept_sem_div[0] == 'MEC' or dept_sem_div[0] == 'First_year':
+
+              # timeTableJson ={dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2]:day_map}
+              # dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"][key] = timeTableJson
+              # dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"].update(timeTableJson)
+              
+              # f.seek(0)
+              # json.dump(content,f,indent=4)
+              # st.success('Submitted Successfully')
+              # updated = 1
+              st.error('Sorry you have already updated the this section for modification please contact admin')
+              return
+            elif updated == 0:
+              # st.write('inner1 elif')
+              timeTableJson ={dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2]:day_map}
+              dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"].update(timeTableJson)
+              f.seek(0)
+              json.dump(content,f,indent=4)
+              st.success('Submitted Successfully')
+              updated = 1
+              return
     
     if updated == 0:
       for title,depts in content.items():
@@ -272,11 +268,11 @@ def updateJson(dept_sem_div,day_map):
             if dept_sem_div[0] + dept_sem_div[1]+"SEM" in dept_classes:
               break
             elif updated == 0:
-              # st.write('middle2 elif')
               timeTableJson = {dept_sem_div[0] + dept_sem_div[1]+"SEM":{dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2]:day_map}}
               depts[dept_sem_div[0]].update(timeTableJson)
               f.seek(0)
               json.dump(content,f,indent=4)
+              st.success('Submitted Successfully')
               updated = 1
               return
 
@@ -285,34 +281,66 @@ def updateJson(dept_sem_div,day_map):
         if dept_sem_div[0] in depts:
           break
         elif updated == 0:
-          # st.write('outer3 elif')
           timeTableJson = {dept_sem_div[0] : {dept_sem_div[0] + dept_sem_div[1]+"SEM":{dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2]:day_map}}}
           content['DEPT'].update(timeTableJson)
           f.seek(0)
           json.dump(content,f,indent=4)
+          st.success('Submitted Successfully')
           updated = 1
           return
-    
-    # f.seek(0)
-    # json.dump(content,f,indent=4)
 
+def check_password():
+    """Returns `True` if the user had a correct password."""
+    def password_entered():
+        """Checks whether a password entered by the user is correct."""
+        if (
+            st.session_state["username"] in st.secrets["passwords"]
+            and st.session_state["password"]
+            == st.secrets["passwords"][st.session_state["username"]]
+        ):
+            st.session_state["password_correct"] = True
+            del st.session_state["password"]  # don't store username + password
+            del st.session_state["username"]
+        else:
+            st.session_state["password_correct"] = False
 
-selectedDept = option_menu(
-              menu_title=None,  # required
-              options=["CSE", "First_year", "ECE","EEE", "MCA", "CIV","MEC"],  # required
-              icons=["cpu", "house", "motherboard","motherboard-fill","laptop","bricks","airplane-fill"],  # optional
-              menu_icon="cast",  # optional
-              default_index=0,  # optional
-              orientation="horizontal",
-          )
+    if "password_correct" not in st.session_state:
+        # First run, show inputs for username + password.
+        st.text_input("Username", on_change=password_entered, key="username")
+        st.text_input(
+            "Password", type="password", on_change=password_entered, key="password"
+        )
+        return False
+    elif not st.session_state["password_correct"]:
+        # Password not correct, show input + error.
+        st.text_input("Username", on_change=password_entered, key="username")
+        st.text_input(
+            "Password", type="password", on_change=password_entered, key="password"
+        )
+        st.error("😕 User not known or password incorrect")
+        return False
+    else:
+        # Password correct.
+        # st.write(st.secrets["passwords"])
+        return True
 
-if (selectedDept == "CSE") | (selectedDept == "ECE") | (selectedDept == "MEC"):
-  sections=[selectedDept+"/3/A", selectedDept+"/3/B", selectedDept+"/5/A",selectedDept+"/5/B", selectedDept+"/7/A", selectedDept+"/7/B",]
-elif(selectedDept == "EEE") | (selectedDept == "MCA") | (selectedDept == "CIV"):
-  sections=[selectedDept+"/3/A",selectedDept+"/5/A",selectedDept+"/7/A",]
-elif (selectedDept == "First_year"):
-  sections=[selectedDept+"/A",selectedDept+"/B",selectedDept+" C",selectedDept+"/D",selectedDept+"/E",selectedDept+" F",]
+if check_password():
+  # st.subheader('welcome '+hod_name)
+  selectedDept = option_menu(
+                menu_title=None,  # required
+                options=["CSE", "First_year", "ECE","EEE", "MCA", "CIV","MEC"],  # required
+                icons=["cpu", "house", "motherboard","motherboard-fill","laptop","bricks","airplane-fill"],  # optional
+                menu_icon="cast",  # optional
+                default_index=0,  # optional
+                orientation="horizontal",
+            )
+  if (selectedDept == "CSE") | (selectedDept == "ECE") | (selectedDept == "MEC"):
+    sections=[selectedDept+"/3/A", selectedDept+"/3/B", selectedDept+"/5/A",selectedDept+"/5/B", selectedDept+"/7/A", selectedDept+"/7/B",]
+  elif(selectedDept == "EEE") | (selectedDept == "MCA") | (selectedDept == "CIV"):
+    sections=[selectedDept+"/3/A",selectedDept+"/5/A",selectedDept+"/7/A",]
+  elif (selectedDept == "First_year"):
+    sections=["First_year/C_Cycle/A","First_year/C_Cycle/B","First_year/C_Cycle/C","First_year/P_Cycle/D","First_year/P_Cycle/E","First_year/P_Cycle/F",]
 
-selected_section = innerOptionMenu(sections)
-subMapping(selected_section +' DIV')
-timeTable(selected_section, subjectCode)
+  selected_section = innerOptionMenu(sections)
+  subMapping(selected_section +' DIV')
+  timeTable(selected_section, subjectCode)
