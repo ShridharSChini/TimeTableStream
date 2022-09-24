@@ -27,12 +27,12 @@ subject_faculty_map = {"lunch":"lunch"}
 def subMapping(sec,subjectCode = subjectCode ,subjectName = subjectName,facultyName = facultyName):
   with st.form("subMapping",clear_on_submit= True):
     st.subheader(sec + " Subject Mapping")
-    n_rows = 10
+    n_rows = 16
     n_cols = 4
 
     columns = [st.columns(n_cols) for n_row in range(n_rows)]
 
-    columns[0][0].text('Subject Code')
+    columns[0][0].text('Subject Initial')
     columns[0][1].text('Subjecct Name')
     columns[0][2].text('Faculty Name')
 
@@ -45,6 +45,13 @@ def subMapping(sec,subjectCode = subjectCode ,subjectName = subjectName,facultyN
     subjectCode.append(columns[7][0].text_input('sub7'))
     subjectCode.append(columns[8][0].text_input('sub8'))
     subjectCode.append(columns[9][0].text_input('sub9'))
+    subjectCode.append(columns[10][0].text_input('sub10'))
+    subjectCode.append(columns[11][0].text_input('sub11'))
+    subjectCode.append(columns[12][0].text_input('sub12'))
+    subjectCode.append(columns[13][0].text_input('sub13'))
+    subjectCode.append(columns[14][0].text_input('sub14'))
+    subjectCode.append(columns[15][0].text_input('sub15'))
+
 
     subjectName.append(columns[1][1].text_input('name_sub1'))
     subjectName.append(columns[2][1].text_input('name_sub2'))
@@ -55,6 +62,13 @@ def subMapping(sec,subjectCode = subjectCode ,subjectName = subjectName,facultyN
     subjectName.append(columns[7][1].text_input('name_sub7'))
     subjectName.append(columns[8][1].text_input('name_sub8'))
     subjectName.append(columns[9][1].text_input('name_sub9'))
+    subjectName.append(columns[10][1].text_input('name_sub10'))
+    subjectName.append(columns[11][1].text_input('name_sub11'))
+    subjectName.append(columns[12][1].text_input('name_sub12'))
+    subjectName.append(columns[13][1].text_input('name_sub13'))
+    subjectName.append(columns[14][1].text_input('name_sub14'))
+    subjectName.append(columns[15][1].text_input('name_sub15'))
+
 
     facultyName.append(columns[1][2].text_input('faculty_1'))
     facultyName.append(columns[2][2].text_input('faculty_2'))
@@ -65,7 +79,12 @@ def subMapping(sec,subjectCode = subjectCode ,subjectName = subjectName,facultyN
     facultyName.append(columns[7][2].text_input('faculty_7'))
     facultyName.append(columns[8][2].text_input('faculty_8'))
     facultyName.append(columns[9][2].text_input('faculty_9'))
-
+    facultyName.append(columns[10][2].text_input('faculty_10'))
+    facultyName.append(columns[11][2].text_input('faculty_11'))
+    facultyName.append(columns[12][2].text_input('faculty_12'))
+    facultyName.append(columns[13][2].text_input('faculty_13'))
+    facultyName.append(columns[14][2].text_input('faculty_14'))
+    facultyName.append(columns[15][2].text_input('faculty_15'))
 
     subjectCode = [i for i in subjectCode if i]
     subjectName = [i for i in subjectName if i]
@@ -78,7 +97,6 @@ def subMapping(sec,subjectCode = subjectCode ,subjectName = subjectName,facultyN
     st.error("!!! Must save before entering time table")
     map_submitted = st.form_submit_button("SAVE")
     if map_submitted:
-      st.success('Subject Mapping for CIV/5/A DIV is saved')
       st.success('NOW you can enter the time table below:point_down::point_down::point_down:')
 
 def timeTable(page_title,dd):
@@ -235,15 +253,11 @@ def updateJson(dept_sem_div,day_map):
               prasent = prasent + ss
             if dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2] in prasent:
               # key = dept_sem_div[0] + dept_sem_div[1]+'SEM'+dept_sem_div[2]
-              # del dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"][key]
-              # st.write("dept name ",dept_sem_div[0])
+              # # del dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"][key]
+              # st.write('UPdating ',dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"][key],'with',day_map)
+              # dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"][key] = day_map
 
-              # if dept_sem_div[0] == 'CSE' or dept_sem_div[0] == 'ECE' or dept_sem_div[0] == 'MEC' or dept_sem_div[0] == 'First_year':
 
-              # timeTableJson ={dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2]:day_map}
-              # dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"][key] = timeTableJson
-              # dept_classes[dept_sem_div[0] + dept_sem_div[1]+"SEM"].update(timeTableJson)
-              
               # f.seek(0)
               # json.dump(content,f,indent=4)
               # st.success('Submitted Successfully')
@@ -299,6 +313,7 @@ def check_password():
             == st.secrets["passwords"][st.session_state["username"]]
         ):
             st.session_state["password_correct"] = True
+            st.write(st.session_state["username"])
             del st.session_state["password"]  # don't store username + password
             del st.session_state["username"]
         else:
@@ -324,8 +339,9 @@ def check_password():
         # st.write(st.secrets["passwords"])
         return True
 
+
+# check_password()
 if check_password():
-  # st.subheader('welcome '+hod_name)
   selectedDept = option_menu(
                 menu_title=None,  # required
                 options=["CSE", "First_year", "ECE","EEE", "MCA", "CIV","MEC"],  # required
@@ -335,12 +351,15 @@ if check_password():
                 orientation="horizontal",
             )
   if (selectedDept == "CSE") | (selectedDept == "ECE") | (selectedDept == "MEC"):
-    sections=[selectedDept+"/3/A", selectedDept+"/3/B", selectedDept+"/5/A",selectedDept+"/5/B", selectedDept+"/7/A", selectedDept+"/7/B",]
+    # sections=[selectedDept+"/3/A", selectedDept+"/3/B", selectedDept+"/5/A",selectedDept+"/5/B", selectedDept+"/7/A", selectedDept+"/7/B",]
+    sections=[selectedDept+"/4/A", selectedDept+"/4/B", selectedDept+"/6/A",selectedDept+"/6/B", selectedDept+"/8/A", selectedDept+"/8/B",]
   elif(selectedDept == "EEE") | (selectedDept == "MCA") | (selectedDept == "CIV"):
-    sections=[selectedDept+"/3/A",selectedDept+"/5/A",selectedDept+"/7/A",]
+    # sections=[selectedDept+"/3/A",selectedDept+"/5/A",selectedDept+"/7/A",]
+    sections=[selectedDept+"/4/A",selectedDept+"/6/A",selectedDept+"/8/A",]
+
   elif (selectedDept == "First_year"):
     sections=["First_year/C_Cycle/A","First_year/C_Cycle/B","First_year/C_Cycle/C","First_year/P_Cycle/D","First_year/P_Cycle/E","First_year/P_Cycle/F",]
 
-  selected_section = innerOptionMenu(sections)
-  subMapping(selected_section +' DIV')
-  timeTable(selected_section, subjectCode)
+#   selected_section = innerOptionMenu(sections)
+#   subMapping(selected_section +' DIV')
+#   timeTable(selected_section, subjectCode)
