@@ -72,7 +72,7 @@ for i in range(len(time_slots) - 1):
 content = {}
 
 
-file_path = Path(__file__).parent / "test.json"
+file_path = Path(__file__).parent / "timeTable.json"
 with file_path.open('r') as f:
         content = json.load(f)
 
