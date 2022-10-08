@@ -1,8 +1,10 @@
+from turtle import title
 import streamlit as st
 from datetime import datetime
 import json
 import re
 from pathlib import Path
+
 
 st.set_page_config(page_icon=":bell:", page_title="KLEIT- TimeTable",layout='wide')
 
@@ -57,8 +59,8 @@ days = ['Today','MON','TUE','WED','THU','FRI','SAT','SUN']
 day = days[datetime.today().weekday() + 1]
 
 Departments =["All_DEPT", "First_year", "CSE","ECE","EEE", "MCA", "CIV","MEC"]
-# sem = ['ALL_SEM','3','5','7','C_Cycle','P_Cycle']
-sem = ['ALL_SEM','4','6','8','C_Cycle','P_Cycle']
+sem = ['ALL_SEM','3','5','7','C_Cycle','P_Cycle']
+# sem = ['ALL_SEM','4','6','8','C_Cycle','P_Cycle']
 divisions = ['ALL_DIV','A','B','C','D','E','F']
 
 slots = ["On Going","08:30", "09:30","10:30","11:00","12:00","13:00","13:30","14:30","15:30","16:30","17:30" ]
@@ -108,7 +110,7 @@ def getDeptClasses(deptName = 'All_DEPT',d_sem = 'ALL_SEM',d_div = 'ALL_DIV', ge
                                             if d_day == day_r:
                                                 sub_code = day_map[getTime]
                                                 cl_now = faculty[sub_code][0]
-                                                faculty = faculty[sub_code][0]
+                                                faculty = faculty[sub_code][1]
 
                                                 sem = sem.replace(dept_names,'')
                                                 div = div.replace(dept_names+sem,'')
@@ -124,7 +126,7 @@ def getDeptClasses(deptName = 'All_DEPT',d_sem = 'ALL_SEM',d_div = 'ALL_DIV', ge
                                         if d_day == day_r:
                                             sub_code = day_map[getTime]
                                             cl_now = faculty[sub_code][0]
-                                            faculty = faculty[sub_code][0]
+                                            faculty = faculty[sub_code][1]
 
                                             sem = sem.replace(dept_names,'')
                                             div = div.replace(dept_names+sem,'')

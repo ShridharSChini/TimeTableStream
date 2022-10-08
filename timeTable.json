@@ -1,6 +1,5 @@
 {
     "DEPT": {
-        
         "CSE": {
             "CSE7SEM": {
                 "CSE7SEMA": {
@@ -113,6 +112,635 @@
                         "AIMLL": [
                             "Artificial Intelligence & Machine Learning Laboratory",
                             "Dr.Rajesh Yakkundimath"
+                        ]
+                    }
+                },
+                "CSE7SEMB": {
+                    "LH": "Lecture Hall No: 3",
+                    "MON": {
+                        "08:30": "Not_Entered",
+                        "09:30": "BDA",
+                        "10:30": "BREAK",
+                        "11:00": "AIML",
+                        "12:00": "OE",
+                        "13:00": "LUNCH",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "TUE": {
+                        "08:30": "Not_Entered",
+                        "09:30": "PE2",
+                        "10:30": "BREAK",
+                        "11:00": "AIML",
+                        "12:00": "OE",
+                        "13:00": "LUNCH",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "BDA",
+                        "09:30": "PE3",
+                        "10:30": "BREAK",
+                        "11:00": "PE2",
+                        "12:00": "OE",
+                        "13:00": "LUNCH",
+                        "13:30": "PWS",
+                        "14:30": "PWS",
+                        "15:30": "PWS",
+                        "16:30": "Not_Entered"
+                    },
+                    "THU": {
+                        "08:30": "PE2",
+                        "09:30": "PE3",
+                        "10:30": "BREAK",
+                        "11:00": "AIML",
+                        "12:00": "OE",
+                        "13:00": "LUNCH",
+                        "13:30": "AIML Lab",
+                        "14:30": "AIML Lab",
+                        "15:30": "AIML Lab",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "PE3",
+                        "10:30": "BREAK",
+                        "11:00": "AIML",
+                        "12:00": "PE2",
+                        "13:00": "LUNCH",
+                        "13:30": "BDA",
+                        "14:30": "AIML Lab",
+                        "15:30": "AIML Lab",
+                        "16:30": "AIML Lab"
+                    },
+                    "SAT": {
+                        "08:30": "PE3",
+                        "09:30": "BDA",
+                        "10:30": "BREAK",
+                        "11:00": "AIML Lab",
+                        "12:00": "AIML Lab",
+                        "13:00": "LUNCH",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "AIML": [
+                            "Artificial Intelligence & Machine Learning",
+                            "Dr.Rajesh Yakkundimath"
+                        ],
+                        "BDA": [
+                            "Big Data Analytics",
+                            "Dr. Geeta R. Baramgoudar"
+                        ],
+                        "PE2": [
+                            "User Interface Design(PE2) / Software Archit. & Design Patterns (PE2)",
+                            "Mrs. Shobha C. Hiremath / Mrs.Vijeeta Patil"
+                        ],
+                        "PE3": [
+                            "Cryptography(PE3) / Digital Image Processing (PE3) / Robotics Process Auto. Design & Dev (PE3)/Natural Language Processing (PE3)",
+                            "Dr. Yerriswamy T/Mr. Mahantesh S. Sajjan/Mr. Balachandra G.C."
+                        ],
+                        "OE": [
+                            "Python Application Programming(OE) / Introduction to Artificial Intelligence Open(OE)  /Introduction to Dot Net",
+                            "Mr. Girish B. Saunshi/Dr. Yerriswamy T/Mr. Mahantesh S. Sajjan"
+                        ],
+                        "AIML Lab": [
+                            "Artificial Intelligence & Machine Learning Laboratory",
+                            "Mr.Shridhar S. Chini"
+                        ],
+                        "PWS": [
+                            "Project Work Phase\u2013I + Project work Seminar",
+                            "Mr. Mahantesh S. Sajjan"
+                        ]
+                    }
+                }
+            }
+        },
+        "MEC": {
+            "MEC7SEM": {
+                "MEC7SEMA": {
+                    "LH": "",
+                    "MON": {
+                        "08:30": "Not_Entered",
+                        "09:30": "CE",
+                        "10:30": "BREAK",
+                        "11:00": "AM/MECH",
+                        "12:00": "EE/AE",
+                        "13:00": "LUNCH",
+                        "13:30": "OR/TQM",
+                        "14:30": "DESIGN B1/CIM B2",
+                        "15:30": "DESIGN B1/CIM B2",
+                        "16:30": "DESIGN B1/CIM B2"
+                    },
+                    "TUE": {
+                        "08:30": "Not_Entered",
+                        "09:30": "CADM",
+                        "10:30": "BREAK",
+                        "11:00": "CE",
+                        "12:00": "EE/AE",
+                        "13:00": "LUNCH",
+                        "13:30": "DESIGN B2/CIM B3",
+                        "14:30": "DESIGN B2/CIM B3",
+                        "15:30": "DESIGN B2/CIM B3",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "OR/TQM",
+                        "10:30": "BREAK",
+                        "11:00": "AM/MECH",
+                        "12:00": "EE/AE",
+                        "13:00": "LUNCH",
+                        "13:30": "DESIGN B3/CIM B1",
+                        "14:30": "DESIGN B3/CIM B1",
+                        "15:30": "ASSOCIATION WORK",
+                        "16:30": "ASSOCIATION WORK"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "AM/MECH",
+                        "10:30": "BREAK",
+                        "11:00": "CADM",
+                        "12:00": "OR/TQM",
+                        "13:00": "LUNCH",
+                        "13:30": "PROJECT WORK",
+                        "14:30": "PROJECT WORK",
+                        "15:30": "PROJECT WORK",
+                        "16:30": "PROJECT WORK"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "CADM",
+                        "10:30": "BREAK",
+                        "11:00": "OR/TQM",
+                        "12:00": "CE",
+                        "13:00": "LUNCH",
+                        "13:30": "TUTORIAL",
+                        "14:30": "TUTORIAL",
+                        "15:30": "TUTORIAL",
+                        "16:30": "TUTORIAL"
+                    },
+                    "SAT": {
+                        "08:30": "Not_Entered",
+                        "09:30": "CE",
+                        "10:30": "BREAK",
+                        "11:00": "AM/MECH",
+                        "12:00": "CADM",
+                        "13:00": "LUNCH",
+                        "13:30": "PROJECT WORK",
+                        "14:30": "PROJECT WORK",
+                        "15:30": "PROJECT WORK",
+                        "16:30": "PROJECT WORK"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "CE": [
+                            "CE",
+                            "SCS"
+                        ],
+                        "CADM": [
+                            "CADM",
+                            "SSH"
+                        ],
+                        "OR/TQM": [
+                            "OR/TQM",
+                            "VGG/SNT"
+                        ],
+                        "AM/MECH": [
+                            "AM/MECH",
+                            "ACK/VGG"
+                        ],
+                        "EE/AE": [
+                            "EE/AE",
+                            "VS/VRH"
+                        ],
+                        "DESIGN B1/CIM B2": [
+                            "DESIGN B1/CIM B2",
+                            "BHK/VS"
+                        ],
+                        "DESIGN B2/CIM B3": [
+                            "DESIGN B2/CIM B3",
+                            "BHK/VS"
+                        ],
+                        "DESIGN B3/CIM B1": [
+                            "DESIGN B3/CIM B1",
+                            "BHK/VS"
+                        ],
+                        "ASSOCIATION WORK": [
+                            "ASSOCIATION WORK",
+                            "BHK/VS"
+                        ],
+                        "TUTORIAL": [
+                            "TUTORIAL",
+                            "BHK/VS"
+                        ],
+                        "PROJECT WORK": [
+                            "PROJECT WORK",
+                            "BHK/VS"
+                        ]
+                    }
+                },
+                "MEC7SEMB": {
+                    "LH": "CVCL203(ME-LH-4)",
+                    "MON": {
+                        "08:30": "Not_Entered",
+                        "09:30": "CADM",
+                        "10:30": "BREAK",
+                        "11:00": "AM/MECH",
+                        "12:00": "EE/AE",
+                        "13:00": "LUNCH",
+                        "13:30": "OR/TQM",
+                        "14:30": "PROJECT WORK",
+                        "15:30": "PROJECT WORK",
+                        "16:30": "PROJECT WORK"
+                    },
+                    "TUE": {
+                        "08:30": "Not_Entered",
+                        "09:30": "CE",
+                        "10:30": "BREAK",
+                        "11:00": "CADM",
+                        "12:00": "EE/AE",
+                        "13:00": "LUNCH",
+                        "13:30": "PROJECT WORK",
+                        "14:30": "PROJECT WORK",
+                        "15:30": "PROJECT WORK",
+                        "16:30": "PROJECT WORK"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "OR/TQM",
+                        "10:30": "BREAK",
+                        "11:00": "AM/MECH",
+                        "12:00": "EE/AE",
+                        "13:00": "LUNCH",
+                        "13:30": "TUTORIAL",
+                        "14:30": "ASSOCIATION ACTIVITY",
+                        "15:30": "ASSOCIATION ACTIVITY",
+                        "16:30": "ASSOCIATION ACTIVITY"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "AM/MECH",
+                        "10:30": "BREAK",
+                        "11:00": "CE",
+                        "12:00": "OR/TQM",
+                        "13:00": "LUNCH",
+                        "13:30": "DESIGN B1/ CIM B2",
+                        "14:30": "DESIGN B1/ CIM B2",
+                        "15:30": "DESIGN B1/ CIM B2",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "CE",
+                        "10:30": "BREAK",
+                        "11:00": "OR/TQM",
+                        "12:00": "CADM",
+                        "13:00": "LUNCH",
+                        "13:30": "DESIGN B2/ CIM B3",
+                        "14:30": "DESIGN B2/ CIM B3",
+                        "15:30": "DESIGN B2/ CIM B3",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "Not_Entered",
+                        "09:30": "CADM",
+                        "10:30": "BREAK",
+                        "11:00": "AM/MECH",
+                        "12:00": "CE",
+                        "13:00": "LUNCH",
+                        "13:30": "DESIGN B3/ CIM B1",
+                        "14:30": "DESIGN B3/ CIM B1",
+                        "15:30": "DESIGN B3/ CIM B1",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "CE": [
+                            "CE",
+                            "SCS"
+                        ],
+                        "CADM": [
+                            "CADM",
+                            "VS"
+                        ],
+                        "OR/TQM": [
+                            "OR/TQM",
+                            "VGG/SNT"
+                        ],
+                        "AM/MECH": [
+                            "AM/MECH",
+                            "ACK/VGG"
+                        ],
+                        "EE/AE": [
+                            "EE/AE",
+                            "VS/VRH"
+                        ],
+                        "DESIGN B1/ CIM B2": [
+                            "DESIGN B1/ CIM B2",
+                            "ASR/ACK"
+                        ],
+                        "DESIGN B2/ CIM B3": [
+                            "DESIGN B2/ CIM B3",
+                            "ASR/ACK"
+                        ],
+                        "DESIGN B3/ CIM B1": [
+                            "DESIGN B3/ CIM B1",
+                            "ASR/ACK"
+                        ],
+                        "PROJECT WORK": [
+                            "PROJECT WORK",
+                            "ASR/ACK"
+                        ],
+                        "ASSOCIATION ACTIVITY": [
+                            "ASSOCIATION ACTIVITY",
+                            "ASR/ACK"
+                        ],
+                        "TUTORIAL": [
+                            "TUTORIAL",
+                            "ASR/ACK"
+                        ],
+                        "CVCL203(ME-LH-4)": [
+                            "CVCL203(ME-LH-4)",
+                            "CVCL203(ME-LH-4)"
+                        ]
+                    }
+                }
+            }
+        },
+        "ECE": {
+            "ECE7SEM": {
+                "ECE7SEMA": {
+                    "LH": "EC LH2",
+                    "MON": {
+                        "08:30": "Not_Entered",
+                        "09:30": "PE3",
+                        "10:30": "Not_Entered",
+                        "11:00": "PE2",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "CCNLAB/VLSILAB",
+                        "14:30": "CCNLAB/VLSILAB",
+                        "15:30": "CCNLAB/VLSILAB",
+                        "16:30": "Not_Entered"
+                    },
+                    "TUE": {
+                        "08:30": "Not_Entered",
+                        "09:30": "PE2",
+                        "10:30": "Not_Entered",
+                        "11:00": "PE3",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "CCNLAB/VLSILAB",
+                        "14:30": "CCNLAB/VLSILAB",
+                        "15:30": "CCNLAB/VLSILAB",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "PE2",
+                        "10:30": "Not_Entered",
+                        "11:00": "VLSI",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "CCNLAB/VLSILAB",
+                        "14:30": "CCNLAB/VLSILAB",
+                        "15:30": "CCNLAB/VLSILAB",
+                        "16:30": "Not_Entered"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "PE3",
+                        "10:30": "Not_Entered",
+                        "11:00": "CCN",
+                        "12:00": "PE2",
+                        "13:00": "Not_Entered",
+                        "13:30": "VLSI",
+                        "14:30": "PWP",
+                        "15:30": "PWP",
+                        "16:30": "PWP"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "VLSI",
+                        "10:30": "Not_Entered",
+                        "11:00": "PE3",
+                        "12:00": "CCN",
+                        "13:00": "Not_Entered",
+                        "13:30": "CCN",
+                        "14:30": "PWP",
+                        "15:30": "PWP",
+                        "16:30": "PWP"
+                    },
+                    "SAT": {
+                        "08:30": "Not_Entered",
+                        "09:30": "CCN",
+                        "10:30": "Not_Entered",
+                        "11:00": "VLSI",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "CCN": [
+                            "Computer Communication Networks",
+                            "Mr. SanthoshH.S."
+                        ],
+                        "VLSI": [
+                            "Very Large-Scale Integration",
+                            "Mr. Rakesh H. M."
+                        ],
+                        "PE2": [
+                            "Real Time Systems/Satellite Communication",
+                            "Mrs. Aishwarya G. P./Mr. Chetan S."
+                        ],
+                        "PE3": [
+                            "IOT and Wireless Sensor Networks/Automotive Electronics",
+                            "Ms. Supriya P./Mr. Kotresh B. K."
+                        ],
+                        "CCNLAB/VLSILAB": [
+                            "Computer Communication Networks Lab/VLSI Lab",
+                            "Dr. Ashish Patil/New Faculty"
+                        ],
+                        "PWP": [
+                            "Project Work Phase\u2013I",
+                            "Dr. R L Itagi"
+                        ],
+                        "S1": [
+                            "Seminar",
+                            "Dr. Ashish Patil"
+                        ]
+                    }
+                },
+                "ECE7SEMB": {
+                    "LH": "EC LH3",
+                    "MON": {
+                        "08:30": "Not_Entered",
+                        "09:30": "PE3",
+                        "10:30": "Not_Entered",
+                        "11:00": "PE2",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "CCN",
+                        "14:30": "VLSI",
+                        "15:30": "PWP",
+                        "16:30": "PWP"
+                    },
+                    "TUE": {
+                        "08:30": "Not_Entered",
+                        "09:30": "PE2",
+                        "10:30": "Not_Entered",
+                        "11:00": "PE3",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "VLSI",
+                        "14:30": "CCN",
+                        "15:30": "PWP",
+                        "16:30": "PWP"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "PE2",
+                        "10:30": "Not_Entered",
+                        "11:00": "CCN",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "PWP",
+                        "14:30": "PWP",
+                        "15:30": "PWP",
+                        "16:30": "Not_Entered"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "PE3",
+                        "10:30": "Not_Entered",
+                        "11:00": "VLSI",
+                        "12:00": "PE2",
+                        "13:00": "Not_Entered",
+                        "13:30": "CCLLAB/VLSILAB",
+                        "14:30": "CCLLAB/VLSILAB",
+                        "15:30": "CCLLAB/VLSILAB",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "CCN",
+                        "10:30": "Not_Entered",
+                        "11:00": "PE3",
+                        "12:00": "VLSI",
+                        "13:00": "Not_Entered",
+                        "13:30": "CCLLAB/VLSILAB",
+                        "14:30": "CCLLAB/VLSILAB",
+                        "15:30": "CCLLAB/VLSILAB",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "Not_Entered",
+                        "09:30": "CCLLAB/VLSILAB",
+                        "10:30": "Not_Entered",
+                        "11:00": "CCLLAB/VLSILAB",
+                        "12:00": "CCLLAB/VLSILAB",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "CCN": [
+                            "Computer Communication Networks",
+                            "Mr.Santhosh H.S."
+                        ],
+                        "VLSI": [
+                            "Very Large Scale Integration",
+                            "Mr. Rakesh H. M."
+                        ],
+                        "PE2": [
+                            "Real Time Systems/Satellite Communication",
+                            "Mrs. Aishwarya G. P./Mr. Chetan S."
+                        ],
+                        "PE3": [
+                            "IOT and Wireless Sensor Networks/Automotive Electronics",
+                            "Ms. Supriya P/Mr. Kotresh B. K."
+                        ],
+                        "CCLLAB/VLSILAB": [
+                            "Computer Communication Networks Lab/VLSI Lab",
+                            "Mr. Chetan S./Mr.  Rakesh H. M."
+                        ],
+                        "PWP": [
+                            "Project Work Phase\u2013I ",
+                            "Dr. R L Itagi"
+                        ],
+                        "S-1": [
+                            "Seminar",
+                            "Dr. Ashish Patil"
                         ]
                     }
                 }

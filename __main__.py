@@ -313,7 +313,6 @@ def check_password():
             == st.secrets["passwords"][st.session_state["username"]]
         ):
             st.session_state["password_correct"] = True
-            st.write(st.session_state["username"])
             del st.session_state["password"]  # don't store username + password
             del st.session_state["username"]
         else:
@@ -339,8 +338,6 @@ def check_password():
         # st.write(st.secrets["passwords"])
         return True
 
-
-# check_password()
 if check_password():
   selectedDept = option_menu(
                 menu_title=None,  # required
@@ -351,15 +348,15 @@ if check_password():
                 orientation="horizontal",
             )
   if (selectedDept == "CSE") | (selectedDept == "ECE") | (selectedDept == "MEC"):
-    # sections=[selectedDept+"/3/A", selectedDept+"/3/B", selectedDept+"/5/A",selectedDept+"/5/B", selectedDept+"/7/A", selectedDept+"/7/B",]
-    sections=[selectedDept+"/4/A", selectedDept+"/4/B", selectedDept+"/6/A",selectedDept+"/6/B", selectedDept+"/8/A", selectedDept+"/8/B",]
+    sections=[selectedDept+"/3/A", selectedDept+"/3/B", selectedDept+"/5/A",selectedDept+"/5/B", selectedDept+"/7/A", selectedDept+"/7/B",]
+    # sections=[selectedDept+"/4/A", selectedDept+"/4/B", selectedDept+"/6/A",selectedDept+"/6/B", selectedDept+"/8/A", selectedDept+"/8/B",]
   elif(selectedDept == "EEE") | (selectedDept == "MCA") | (selectedDept == "CIV"):
-    # sections=[selectedDept+"/3/A",selectedDept+"/5/A",selectedDept+"/7/A",]
-    sections=[selectedDept+"/4/A",selectedDept+"/6/A",selectedDept+"/8/A",]
+    sections=[selectedDept+"/3/A",selectedDept+"/5/A",selectedDept+"/7/A",]
+    # sections=[selectedDept+"/4/A",selectedDept+"/6/A",selectedDept+"/8/A",]
 
   elif (selectedDept == "First_year"):
     sections=["First_year/C_Cycle/A","First_year/C_Cycle/B","First_year/C_Cycle/C","First_year/P_Cycle/D","First_year/P_Cycle/E","First_year/P_Cycle/F",]
 
-#   selected_section = innerOptionMenu(sections)
-#   subMapping(selected_section +' DIV')
-#   timeTable(selected_section, subjectCode)
+  selected_section = innerOptionMenu(sections)
+  subMapping(selected_section +' DIV')
+  timeTable(selected_section, subjectCode)
