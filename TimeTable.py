@@ -1,9 +1,9 @@
-from turtle import title
 import streamlit as st
 from datetime import datetime
 import json
 import re
 from pathlib import Path
+import pandas as pd
 
 
 st.set_page_config(page_icon=":bell:", page_title="KLEIT- TimeTable",layout='wide')
@@ -73,6 +73,8 @@ for i in range(len(time_slots) - 1):
 # st.write(current_time)
 content = {}
 
+df = pd.DataFrame(columns=['Dept.', 'SEM', 'DIV','LH','SUBJECT NAME','FACULTY NAME'])
+row = 0
 
 file_path = Path(__file__).parent / "timeTable.json"
 with file_path.open('r') as f:
@@ -90,6 +92,7 @@ def getDeptClasses(deptName = 'All_DEPT',d_sem = 'ALL_SEM',d_div = 'ALL_DIV', ge
 
     if d_div != 'ALL_DIV':
         d_div = d_sem+d_div
+
 
     # st.subheader(deptName)
     if getTime < "08:30" or getTime > "17:30":
@@ -114,9 +117,22 @@ def getDeptClasses(deptName = 'All_DEPT',d_sem = 'ALL_SEM',d_div = 'ALL_DIV', ge
 
                                                 sem = sem.replace(dept_names,'')
                                                 div = div.replace(dept_names+sem,'')
-                                                display = dept_names+'/'+sem+'/'+div+'/'+lh
-                                                st.markdown('<span class="dept">'+display+'</span>', unsafe_allow_html=True)
-                                                st.markdown('<span class="sub">'+cl_now+'</span>'+'<span class="by">'+".........By:........"+'</span>'+'<span class="faculty">'+faculty+'</span>', unsafe_allow_html=True)
+                                                div_title = dept_names+'/'+sem+'/'+div+'/'+lh
+                                                # st.markdown('<span class="dept">'+div_title+'</span>', unsafe_allow_html=True)
+                                                
+                                                global row
+                                                if '/' in cl_now:
+                                                    subs = re.split(r'/|\\',cl_now)
+                                                    facs = re.split(r'/|\\',cl_now)
+                                                    for (s,f) in zip(subs,facs):
+                                                        df.loc[row] = [dept_names,sem,div,lh,s,f]            
+                                                        row = row + 1
+                                                        # dept_names,sem,div,lh = '','','',''
+                                                else:
+                                                    df.loc[row] = [dept_names,sem,div,lh,cl_now,faculty]            
+                                                    row = row + 1
+                                                # st.dataframe(df)
+                                                # st.markdown('<span class="sub">'+cl_now+'</span>'+'<span class="by">'+".........By:........"+'</span>'+'<span class="faculty">'+faculty+'</span>', unsafe_allow_html=True)
                                             
                                 else:
                                     # st.write(div_class)
@@ -130,11 +146,26 @@ def getDeptClasses(deptName = 'All_DEPT',d_sem = 'ALL_SEM',d_div = 'ALL_DIV', ge
 
                                             sem = sem.replace(dept_names,'')
                                             div = div.replace(dept_names+sem,'')
-                                            display = dept_names+'/'+sem+'/'+div+'/'+lh
-                                            st.markdown('<span class="dept">'+display+'</span>', unsafe_allow_html=True)
-                                            st.markdown('<span class="sub">'+cl_now+'</span>'+'<span class="by">'+".........By:........"+'</span>'+'<span class="faculty">'+faculty+'</span>', unsafe_allow_html=True)
+                                            div_title = dept_names+'/'+sem+'/'+div+'/'+lh
+                                            # st.markdown('<span class="dept">'+div_title+'</span>', unsafe_allow_html=True)
+                                            
+                                            if '/' in cl_now:
+                                                    subs = re.split(r'/|\\',cl_now)
+                                                    facs = re.split(r'/|\\',cl_now)
+                                                    for (s,f) in zip(subs,facs):
+                                                        df.loc[row] = [dept_names,sem,div,lh,s,f]            
+                                                        row = row + 1
+                                                        # dept_names,sem,div,lh = '','','',''
+                                                    
+                                            else:
+                                                df.loc[row] = [dept_names,sem,div,lh,cl_now,faculty]            
+                                                row = row + 1
+                                            # st.dataframe(df)
+                                            # st.markdown('<span class="sub">'+cl_now+'</span>'+'<span class="by">'+".........By:........"+'</span>'+'<span class="faculty">'+faculty+'</span>', unsafe_allow_html=True)
                                             # st.markdown('<span class="faculty">'+faculty+'</span>', unsafe_allow_html=True)
                                             # st.write(cl_now)
+    st.dataframe(df,use_container_width=True)
+    # st.dataframe(df)
     return cl_now
 
 if day == 6 :
