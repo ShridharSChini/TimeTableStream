@@ -1,3 +1,4 @@
+from turtle import goto, title
 import streamlit as st
 from datetime import datetime
 import json
@@ -165,7 +166,7 @@ def getDeptClasses(deptName = 'All_DEPT',d_sem = 'ALL_SEM',d_div = 'ALL_DIV', ge
                                             # st.markdown('<span class="faculty">'+faculty+'</span>', unsafe_allow_html=True)
                                             # st.write(cl_now)
     st.dataframe(df,use_container_width=True)
-    # st.dataframe(df)
+    # st.dataframe(df,500)
     return cl_now
 
 if day == 6 :
