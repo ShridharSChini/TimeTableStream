@@ -506,6 +506,290 @@
                         ]
                     }
                 }
+            },
+            "MEC5SEM": {
+                "MEC5SEMA": {
+                    "LH": "MECL001(LH-1)",
+                    "MON": {
+                        "08:30": "DOM",
+                        "09:30": "M&E",
+                        "10:30": "BREAK",
+                        "11:00": "FPE",
+                        "12:00": "DME-1",
+                        "13:00": "LUNCH",
+                        "13:30": "OM",
+                        "14:30": "FM B1/EC B2 LAB",
+                        "15:30": "FM B1/EC B2 LAB",
+                        "16:30": "FM B1/EC B2 LAB"
+                    },
+                    "TUE": {
+                        "08:30": "OM",
+                        "09:30": "DME-1",
+                        "10:30": "BREAK",
+                        "11:00": "TM",
+                        "12:00": "FPE",
+                        "13:00": "LUNCH",
+                        "13:30": "DOM",
+                        "14:30": "FM B2/EC B1 LAB",
+                        "15:30": "FM B2/EC B1 LAB",
+                        "16:30": "FM B2/EC B1 LAB"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "DOM",
+                        "10:30": "BREAK",
+                        "11:00": "OM",
+                        "12:00": "TM",
+                        "13:00": "LUNCH",
+                        "13:30": "M&E",
+                        "14:30": "Association Activity",
+                        "15:30": "Association Activity",
+                        "16:30": "Association Activity"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "FPE",
+                        "12:00": "DME-1",
+                        "13:00": "LUNCH",
+                        "13:30": "M&E",
+                        "14:30": "TM",
+                        "15:30": "ES",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "FPE",
+                        "12:00": "DOM",
+                        "13:00": "LUNCH",
+                        "13:30": "TM",
+                        "14:30": "Tutorial",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "Not_Entered",
+                        "09:30": "OM",
+                        "10:30": "BREAK",
+                        "11:00": "DME-1",
+                        "12:00": "M&E",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "M&E": [
+                            "M&E",
+                            "SNT"
+                        ],
+                        "DME-1": [
+                            "DME-1",
+                            "Dr.BHK"
+                        ],
+                        "DOM": [
+                            "DOM",
+                            "Dr.ASR"
+                        ],
+                        "TM": [
+                            "TM",
+                            "MGP"
+                        ],
+                        "FPE": [
+                            "FPE",
+                            "PSG"
+                        ],
+                        "OM": [
+                            "OM",
+                            "SHB"
+                        ],
+                        "FM B1/EC B2 LAB": [
+                            "FM B1/EC B2 LAB",
+                            "PSG/VGG"
+                        ],
+                        "FM B2/EC B1 LAB": [
+                            "FM B2/EC B1 LAB",
+                            "PSG/VGG"
+                        ],
+                        "TEA BREAK": [
+                            "TEA BREAK",
+                            "TEA BREAK"
+                        ],
+                        "Association Activity": [
+                            "Association Activity",
+                            "Association Activity"
+                        ],
+                        "Tutorial": [
+                            "Tutorial",
+                            "Tutorial"
+                        ],
+                        "ES": [
+                            "ES",
+                            "SK"
+                        ],
+                        "MECL001(LH-1)": [
+                            "MECL001(LH-1)",
+                            "MECL001(LH-1)"
+                        ],
+                        "Shrinivas .N.T": [
+                            "Shrinivas .N.T",
+                            "Shrinivas .N.T"
+                        ]
+                    }
+                },
+                "MEC5SEMB": {
+                    "LH": "MECL002(LH-2)",
+                    "MON": {
+                        "08:30": "TM",
+                        "09:30": "DME-1",
+                        "10:30": "BREAK",
+                        "11:00": "DOM",
+                        "12:00": "M&E",
+                        "13:00": "LUNCH",
+                        "13:30": "FPE",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "TUE": {
+                        "08:30": "FPE",
+                        "09:30": "M&E",
+                        "10:30": "BREAK",
+                        "11:00": "OM",
+                        "12:00": "DME-1",
+                        "13:00": "LUNCH",
+                        "13:30": "TM",
+                        "14:30": "Tutorial",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "OM",
+                        "10:30": "BREAK",
+                        "11:00": "FPE",
+                        "12:00": "M&E",
+                        "13:00": "LUNCH",
+                        "13:30": "DOM",
+                        "14:30": "Association Activity",
+                        "15:30": "Association Activity",
+                        "16:30": "Association Activity"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "DME-1",
+                        "10:30": "BREAK",
+                        "11:00": "OM",
+                        "12:00": "DOM",
+                        "13:00": "LUNCH",
+                        "13:30": "M&E",
+                        "14:30": "FM B1/ EC B2 LAB",
+                        "15:30": "FM B1/ EC B2 LAB",
+                        "16:30": "ES"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "DME-1",
+                        "12:00": "TM",
+                        "13:00": "LUNCH",
+                        "13:30": "OM",
+                        "14:30": "FM B2/ EC B1 LAB",
+                        "15:30": "FM B2/ EC B1 LAB",
+                        "16:30": "FM B2/ EC B1 LAB"
+                    },
+                    "SAT": {
+                        "08:30": "Not_Entered",
+                        "09:30": "TM",
+                        "10:30": "BREAK",
+                        "11:00": "DOM",
+                        "12:00": "FPE",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "M&E": [
+                            "M&E",
+                            "SNT"
+                        ],
+                        "DME-1": [
+                            "DME-1",
+                            "Dr.BHK"
+                        ],
+                        "DOM": [
+                            "DOM",
+                            "Dr.ASR"
+                        ],
+                        "TM": [
+                            "TM",
+                            "SSH"
+                        ],
+                        "FPE": [
+                            "FPE",
+                            "SMG"
+                        ],
+                        "OM": [
+                            "OM",
+                            "SHB"
+                        ],
+                        "FM B1/ EC B2 LAB": [
+                            "FM B1/ EC B2 LAB",
+                            "SMG/SSH"
+                        ],
+                        "FM B2/ EC B1 LAB": [
+                            "FM B2/ EC B1 LAB",
+                            "SMG/SSH"
+                        ],
+                        "ES": [
+                            "ES",
+                            "SK"
+                        ],
+                        "TEA BREAK": [
+                            "TEA BREAK",
+                            "TEA BREAK"
+                        ],
+                        "Tutorial": [
+                            "Tutorial",
+                            "Tutorial"
+                        ],
+                        "Association Activity": [
+                            "Association Activity",
+                            "Association Activity"
+                        ]
+                    }
+                }
             }
         },
         "ECE": {
@@ -741,6 +1025,250 @@
                         "S-1": [
                             "Seminar",
                             "Dr. Ashish Patil"
+                        ]
+                    }
+                }
+            }
+        },
+        "EEE": {
+            "EEE5SEM": {
+                "EEE5SEMA": {
+                    "LH": "",
+                    "MON": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "S&S",
+                        "12:00": "MC",
+                        "13:00": "LUNCH",
+                        "13:30": "EMD",
+                        "14:30": "M&E",
+                        "15:30": "PE",
+                        "16:30": "HVE"
+                    },
+                    "TUE": {
+                        "08:30": "Not_Entered",
+                        "09:30": "MC Lab/PE Lab",
+                        "10:30": "BREAK",
+                        "11:00": "MC Lab/PE Lab",
+                        "12:00": "MC Lab/PE Lab",
+                        "13:00": "LUNCH",
+                        "13:30": "PE",
+                        "14:30": "S&S",
+                        "15:30": "MC",
+                        "16:30": "M&E"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "MC Lab/PE Lab",
+                        "10:30": "BREAK",
+                        "11:00": "MC Lab/PE Lab",
+                        "12:00": "MC Lab/PE Lab",
+                        "13:00": "LUNCH",
+                        "13:30": "PE",
+                        "14:30": "S&S",
+                        "15:30": "MC",
+                        "16:30": "M&E"
+                    },
+                    "THU": {
+                        "08:30": "EMD",
+                        "09:30": "PE",
+                        "10:30": "BREAK",
+                        "11:00": "HVE",
+                        "12:00": "S&S",
+                        "13:00": "LUNCH",
+                        "13:30": "MC Lab/PE Lab",
+                        "14:30": "MC Lab/PE Lab",
+                        "15:30": "MC Lab/PE Lab",
+                        "16:30": "MC Lab/PE Lab"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "Not_Entered",
+                        "11:00": "PE",
+                        "12:00": "MC",
+                        "13:00": "LUNCH",
+                        "13:30": "M&E",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "S&S",
+                        "09:30": "PE",
+                        "10:30": "MC",
+                        "11:00": "EMD",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "M&E": [
+                            "Management and entrepreneurship",
+                            "Mr.Mallikarjun G. H."
+                        ],
+                        "MC": [
+                            "Microcontroller",
+                            "Dr.Kumarswamy.V"
+                        ],
+                        "PE": [
+                            "Power Electronics",
+                            "Mr. Prakash M.N."
+                        ],
+                        "S&S": [
+                            "Signals and Systems",
+                            "Mrs. Sarita U."
+                        ],
+                        "EMD": [
+                            "Electrical Machine Design ",
+                            "Dr.Prakash Kerur"
+                        ],
+                        "HVE": [
+                            "High Voltage Engineering ",
+                            "Dr. Vinoda S."
+                        ],
+                        "MC Lab/PE Lab": [
+                            "Microcontroller Laboratory/Power Electronics Laboratory",
+                            "Dr. Kumarswamy.V/Mr. Prakash M.N."
+                        ],
+                        "EVS": [
+                            "Environmental Studies",
+                            "Sujay K"
+                        ]
+                    }
+                }
+            },
+            "EEE7SEM": {
+                "EEE7SEMA": {
+                    "LH": "",
+                    "MON": {
+                        "08:30": "AIT",
+                        "09:30": "PSA-II",
+                        "10:30": "BREAK",
+                        "11:00": "PSP",
+                        "12:00": "EV/EECA",
+                        "13:00": "LUNCH",
+                        "13:30": "Not_Entered",
+                        "14:30": "Pro Ph-I",
+                        "15:30": "Pro Ph-I",
+                        "16:30": "Pro Ph-I"
+                    },
+                    "TUE": {
+                        "08:30": "PSA-II",
+                        "09:30": "PSP",
+                        "10:30": "BREAK",
+                        "11:00": "AIT",
+                        "12:00": "EV/EECA",
+                        "13:00": "LUNCH",
+                        "13:30": "SWE/MST",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "Not_Entered",
+                        "11:00": "PSA-II",
+                        "12:00": "EV/EECA",
+                        "13:00": "LUNCH",
+                        "13:30": "PSS Lab/HV  Lab",
+                        "14:30": "PSS Lab/HV  Lab",
+                        "15:30": "PSS Lab/HV  Lab",
+                        "16:30": "PSS Lab/HV  Lab"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "PSS Lab/HV  Lab",
+                        "10:30": "BREAK",
+                        "11:00": "PSS Lab/HV  Lab",
+                        "12:00": "PSS Lab/HV  Lab",
+                        "13:00": "LUNCH",
+                        "13:30": "PSP",
+                        "14:30": "AIT",
+                        "15:30": "SWE/MST",
+                        "16:30": "SWE/MST"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "PSS Lab/HV  Lab",
+                        "10:30": "BREAK",
+                        "11:00": "PSS Lab/HV  Lab",
+                        "12:00": "PSS Lab/HV  Lab",
+                        "13:00": "BREAK",
+                        "13:30": "AIT",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "Not_Entered",
+                        "11:00": "PSA-II",
+                        "12:00": "SWE/MST",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "PSA-II": [
+                            "Power System Analysis - 2 ",
+                            "Mr.Mallikarjun G. H."
+                        ],
+                        "PSP": [
+                            "Power System Protection ",
+                            "Dr.Prakash Kerur"
+                        ],
+                        "SWE/MST": [
+                            "Solar and Wind Energy /Micro and Nano Scale Sensors and Transducers. ",
+                            "Mr. Prakash M.N./Mrs. Sarita U."
+                        ],
+                        "AIT": [
+                            "AI Techniques for Electrical and hybrid Electric Vehicles",
+                            "Mr.Manjunath R."
+                        ],
+                        "EV/EECA": [
+                            "Electric Vehicles/Electrical Energy Conservation and Auditing ",
+                            "Dr. Vinoda S./Mr. V.M. Soppimath"
+                        ],
+                        "PSS Lab/HV  Lab": [
+                            "Power system Simulation  Laboratory  /Relay and HV  Laboratory",
+                            "Mr. Mallikarjun G. H./Dr.Prakash Kerur"
+                        ],
+                        "Pro Ph-I": [
+                            "Project Phase \u2013 I ",
+                            "Mr. Prakash M.N."
                         ]
                     }
                 }
