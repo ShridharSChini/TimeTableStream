@@ -124,7 +124,7 @@ def getDeptClasses(deptName = 'All_DEPT',d_sem = 'ALL_SEM',d_div = 'ALL_DIV', ge
                                                 global row
                                                 if '/' in cl_now:
                                                     subs = re.split(r'/|\\',cl_now)
-                                                    facs = re.split(r'/|\\',cl_now)
+                                                    facs = re.split(r'/|\\',faculty)
                                                     for (s,f) in zip(subs,facs):
                                                         df.loc[row] = [dept_names,sem,div,lh,s,f]            
                                                         row = row + 1
@@ -152,7 +152,7 @@ def getDeptClasses(deptName = 'All_DEPT',d_sem = 'ALL_SEM',d_div = 'ALL_DIV', ge
                                             
                                             if '/' in cl_now:
                                                     subs = re.split(r'/|\\',cl_now)
-                                                    facs = re.split(r'/|\\',cl_now)
+                                                    facs = re.split(r'/|\\',faculty)
                                                     for (s,f) in zip(subs,facs):
                                                         df.loc[row] = [dept_names,sem,div,lh,s,f]            
                                                         row = row + 1
