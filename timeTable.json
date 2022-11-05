@@ -232,6 +232,534 @@
                         ]
                     }
                 }
+            },
+            "CSE3SEM": {
+                "CSE3SEMA": {
+                    "LH": "LH 1",
+                    "MON": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "TFN",
+                        "12:00": "COA",
+                        "13:00": "LUNCH",
+                        "13:30": "ADE",
+                        "14:30": "BK",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "TUE": {
+                        "08:30": "Not_Entered",
+                        "09:30": "TFN",
+                        "10:30": "BREAK",
+                        "11:00": "DSA",
+                        "12:00": "COA",
+                        "13:00": "LUNCH",
+                        "13:30": "SCR",
+                        "14:30": "SCR",
+                        "15:30": "BK",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "DSA",
+                        "10:30": "BREAK",
+                        "11:00": "TFN",
+                        "12:00": "ADE",
+                        "13:00": "LUNCH",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "ADE",
+                        "12:00": "DSA",
+                        "13:00": "LUNCH",
+                        "13:30": "OOPJ/DSAL/ADEL",
+                        "14:30": "OOPJ/DSAL/ADEL",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "DSA",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "Not_Entered",
+                        "12:00": "Not_Entered",
+                        "13:00": "LUNCH",
+                        "13:30": "OOPJ/DSAL/ADEL",
+                        "14:30": "OOPJ/DSAL/ADEL",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "OOPJ/DSAL/ADEL",
+                        "09:30": "OOPJ/DSAL/ADEL",
+                        "10:30": "BREAK",
+                        "11:00": "COA",
+                        "12:00": "AEC",
+                        "13:00": "LUNCH",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "TFN": [
+                            "Transform Calculus, Fourier Series and Numerical Techniques",
+                            "Dr. Veeresh Hosmath"
+                        ],
+                        "DSA": [
+                            "Data Structures and Applications",
+                            "Mrs. Vijeeta Patil"
+                        ],
+                        "ADE": [
+                            "Analog and Digital Electronics",
+                            "Mrs. Swati M. Sajjan"
+                        ],
+                        "COA": [
+                            "Computer Organization and Architecture",
+                            "Mrs. Kavita Mainalli"
+                        ],
+                        "OOPJ/DSAL/ADEL": [
+                            "Object Oriented Programming with JAVA Laboratory/Data Structures and Applications Laboratory/Analog and Digital Electronics Laboratory",
+                            "Mr. Girish B. Saunshi/Mrs. Vijeeta Patil/Mrs. Swati M. Sajjan"
+                        ],
+                        "SCR": [
+                            "Social Connect and Responsibility",
+                            "Dr. Yerriswamy T"
+                        ],
+                        "SK": [
+                            "Samskrutika Kannada",
+                            "Mrs. Girija"
+                        ],
+                        "BK": [
+                            "Balake Kannada",
+                            "Mrs. Girija"
+                        ],
+                        "AEC": [
+                            "Ability Enhancement Course - III",
+                            "Mr.Pradeep Surasura"
+                        ]
+                    }
+                },
+                "CSE3SEMB": {
+                    "LH": "LH 4",
+                    "MON": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "TFN",
+                        "12:00": "ADE",
+                        "13:00": "LUNCH",
+                        "13:30": "OOPJ/DSAL/ADEL",
+                        "14:30": "OOPJ/DSAL/ADEL",
+                        "15:30": "kk",
+                        "16:30": "Not_Entered"
+                    },
+                    "TUE": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "DSA",
+                        "12:00": "TFN",
+                        "13:00": "LUNCH",
+                        "13:30": "COA",
+                        "14:30": "kk",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "ADE",
+                        "10:30": "BREAK",
+                        "11:00": "TFN",
+                        "12:00": "COA",
+                        "13:00": "LUNCH",
+                        "13:30": "OOPJ/DSAL/ADEL",
+                        "14:30": "OOPJ/DSAL/ADEL",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "ADE",
+                        "10:30": "BREAK",
+                        "11:00": "COA",
+                        "12:00": "DSA",
+                        "13:00": "LUNCH",
+                        "13:30": "SCR",
+                        "14:30": "SCR",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "ADE",
+                        "09:30": "COA",
+                        "10:30": "BREAK",
+                        "11:00": "TFN",
+                        "12:00": "DSA",
+                        "13:00": "LUNCH",
+                        "13:30": "Extra Classes",
+                        "14:30": "Mentorship",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "AEC",
+                        "09:30": "DSA",
+                        "10:30": "BREAK",
+                        "11:00": "OOPJ/DSAL/ADEL",
+                        "12:00": "OOPJ/DSAL/ADEL",
+                        "13:00": "LUNCH",
+                        "13:30": "DEPT Activity",
+                        "14:30": "DEPT Activity",
+                        "15:30": "DEPT Activity",
+                        "16:30": "DEPT Activity"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "Extra Classes": [
+                            "Extra Classes",
+                            "Extra Classes"
+                        ],
+                        "Mentorship": [
+                            "Mentorship",
+                            "Mentorship"
+                        ],
+                        "DEPT Activity": [
+                            "DEPT Activity",
+                            "DEPT Activity"
+                        ],
+                        "TFN": [
+                            "Transform Calculus, Fourier Series and Numerical Techniques",
+                            "Dr. Veeresh Hosmath"
+                        ],
+                        "DSA": [
+                            "Data Structures and Applications",
+                            "Mrs. Vijeeta Patil"
+                        ],
+                        "ADE": [
+                            "Analog and Digital Electronics",
+                            "Mrs. Swati M. Sajjan"
+                        ],
+                        "COA": [
+                            "Computer Organization and Architecture",
+                            "Mrs. Kavita Mainalli"
+                        ],
+                        "OOPJ/DSAL/ADEL": [
+                            "Object Oriented Programming with JAVA Laboratory/Data Structures and Applications Laboratory/Analog and Digital Electronics Laboratory",
+                            "Mrs. Kavita Mainalli/2 Dr.Geeta R.B/Mrs. Swati M. Sajjan"
+                        ],
+                        "SCR": [
+                            "Social Connect and Responsibility",
+                            "Dr. Yerriswamy T."
+                        ],
+                        "kk": [
+                            "Samskrutika Kannada",
+                            "Mrs. Girija"
+                        ],
+                        "AEC": [
+                            "Ability Enhancement Course - III",
+                            "Mr.Pradeep Surasura"
+                        ]
+                    }
+                }
+            },
+            "CSE5SEM": {
+                "CSE5SEMA": {
+                    "LH": "LH 5",
+                    "MON": {
+                        "08:30": "Not_Entered",
+                        "09:30": "CN LAB/DBMS LAB",
+                        "10:30": "BREAK",
+                        "11:00": "CN LAB/DBMS LAB",
+                        "12:00": "CN LAB/DBMS LAB",
+                        "13:00": "LUNCH",
+                        "13:30": "ATCI",
+                        "14:30": "ADP",
+                        "15:30": "DBMS",
+                        "16:30": "HSMC"
+                    },
+                    "TUE": {
+                        "08:30": "UP",
+                        "09:30": "ATCI",
+                        "10:30": "BREAK",
+                        "11:00": "CNS",
+                        "12:00": "DBMS",
+                        "13:00": "LUNCH",
+                        "13:30": "CN LAB/DBMS LAB",
+                        "14:30": "CN LAB/DBMS LAB",
+                        "15:30": "CN LAB/DBMS LAB",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "ADP",
+                        "09:30": "CNS",
+                        "10:30": "BREAK",
+                        "11:00": "UP",
+                        "12:00": "ATCI",
+                        "13:00": "LUNCH",
+                        "13:30": "CN LAB/DBMS LAB",
+                        "14:30": "CN LAB/DBMS LAB",
+                        "15:30": "CN LAB/DBMS LAB",
+                        "16:30": "Not_Entered"
+                    },
+                    "THU": {
+                        "08:30": "ADP",
+                        "09:30": "ATCI",
+                        "10:30": "BREAK",
+                        "11:00": "CNS",
+                        "12:00": "UP",
+                        "13:00": "LUNCH",
+                        "13:30": "Extra Classes",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "ADP",
+                        "10:30": "BREAK",
+                        "11:00": "UP",
+                        "12:00": "DBMS",
+                        "13:00": "LUNCH",
+                        "13:30": "Mentorship",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "CNS",
+                        "09:30": "DBMS",
+                        "10:30": "BREAK",
+                        "11:00": "ME",
+                        "12:00": "ME",
+                        "13:00": "LUNCH",
+                        "13:30": "DEPT Activity",
+                        "14:30": "DEPT Activity",
+                        "15:30": "DEPT Activity",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "Extra Classes": [
+                            "Extra Classes",
+                            "Extra Classes"
+                        ],
+                        "Mentorship": [
+                            "Mentorship",
+                            "Mentorship"
+                        ],
+                        "DEPT Activity": [
+                            "DEPT Activity",
+                            "DEPT Activity"
+                        ],
+                        "ME": [
+                            "Management and Entrepreneurship for IT Industry",
+                            "Mrs. Farzana"
+                        ],
+                        "CNS": [
+                            "Computer Networks and Security",
+                            "Mr. Balachandra G. Chikkoppa"
+                        ],
+                        "DBMS": [
+                            "Data Base Management System",
+                            "Mr. Pradeep N. Surasura"
+                        ],
+                        "ATCI": [
+                            "Automate Theory and Computability",
+                            "Mr. Vishwanath S. Kamatar"
+                        ],
+                        "ADP": [
+                            "Application Development using Python",
+                            "5 Mr.Shridhar S. Chini"
+                        ],
+                        "UP": [
+                            "Unix Programming",
+                            "Mrs. Shanta S. Kallur"
+                        ],
+                        "CN LAB/DBMS LAB": [
+                            "Computer Network Laboratory/ DBMS Laboratory with Mini Project",
+                            "New Faculty/ Mr. Pradeep N. Surasura"
+                        ],
+                        "HSMC": [
+                            "Environmental Studies",
+                            "Mr. Sujay C.V. "
+                        ]
+                    }
+                },
+                "CSE5SEMB": {
+                    "LH": "LH 2",
+                    "MON": {
+                        "08:30": "Not_Entered",
+                        "09:30": "ATCI",
+                        "10:30": "BREAK",
+                        "11:00": "UP",
+                        "12:00": "CNS",
+                        "13:00": "LUNCH",
+                        "13:30": "DBMS",
+                        "14:30": "ADP",
+                        "15:30": "HSMC",
+                        "16:30": "Not_Entered"
+                    },
+                    "TUE": {
+                        "08:30": "Not_Entered",
+                        "09:30": "DBMS",
+                        "10:30": "BREAK",
+                        "11:00": "ATCI",
+                        "12:00": "UP",
+                        "13:00": "LUNCH",
+                        "13:30": "ADP",
+                        "14:30": "Extra Classes",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "ATCI",
+                        "09:30": "UP",
+                        "10:30": "BREAK",
+                        "11:00": "DBMS",
+                        "12:00": "CNS",
+                        "13:00": "LUNCH",
+                        "13:30": "ADP",
+                        "14:30": "Mentorship",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "DBMS",
+                        "10:30": "BREAK",
+                        "11:00": "ATCI",
+                        "12:00": "CNS",
+                        "13:00": "LUNCH",
+                        "13:30": "CN LAB/ DBMS LAB",
+                        "14:30": "CN LAB/ DBMS LAB",
+                        "15:30": "CN LAB/ DBMS LAB",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "ADP",
+                        "10:30": "BREAK",
+                        "11:00": "CNS",
+                        "12:00": "UP",
+                        "13:00": "LUNCH",
+                        "13:30": "CN LAB/ DBMS LAB",
+                        "14:30": "CN LAB/ DBMS LAB",
+                        "15:30": "CN LAB/ DBMS LAB",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "ME",
+                        "09:30": "ME",
+                        "10:30": "BREAK",
+                        "11:00": "CN LAB/ DBMS LAB",
+                        "12:00": "CN LAB/ DBMS LAB",
+                        "13:00": "LUNCH",
+                        "13:30": "CN LAB/ DBMS LAB",
+                        "14:30": "DEPT Activity",
+                        "15:30": "DEPT Activity",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "Extra Classes": [
+                            "Extra Classes",
+                            "Extra Classes"
+                        ],
+                        "Mentorship": [
+                            "Mentorship",
+                            "Mentorship"
+                        ],
+                        "DEPT Activity": [
+                            "DEPT Activity",
+                            "DEPT Activity"
+                        ],
+                        "ME": [
+                            "Management and Entrepreneurship for IT Industry",
+                            "Mrs. Farzana"
+                        ],
+                        "CNS": [
+                            "Computer Networks and Security",
+                            "Dr. Shreedhar Allagi"
+                        ],
+                        "DBMS": [
+                            "Data Base Management System",
+                            "Mr. Pradeep N. Surasura"
+                        ],
+                        "ATCI": [
+                            "Automate Theory and Computability",
+                            "Mr. Vishwanath S. Kamatar"
+                        ],
+                        "ADP": [
+                            "Application Development using Python",
+                            "Mr. Girish B. Saunshi"
+                        ],
+                        "UP": [
+                            "Unix Programming",
+                            "Dr. Manohar M. Madgi"
+                        ],
+                        "CN LAB/ DBMS LAB": [
+                            "Computer Network Laboratory/DBMS Laboratory with Mini Project",
+                            "Mrs. Shobha C. Hiremath/ Mr. Vishwanath S. Kamatar"
+                        ],
+                        "HSMC": [
+                            "Environmental Studies",
+                            "Mr. Sujay C.V"
+                        ]
+                    }
+                }
             }
         },
         "MEC": {
