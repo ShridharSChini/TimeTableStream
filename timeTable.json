@@ -1553,6 +1553,290 @@
                         ]
                     }
                 }
+            },
+            "MEC5SEM": {
+                "MEC5SEMA": {
+                    "LH": "MECL001(LH-1)",
+                    "MON": {
+                        "08:30": "DOM",
+                        "09:30": "M&E",
+                        "10:30": "BREAK",
+                        "11:00": "FPE",
+                        "12:00": "DME-1",
+                        "13:00": "LUNCH",
+                        "13:30": "OM",
+                        "14:30": "FM B1/EC B2 LAB",
+                        "15:30": "FM B1/EC B2 LAB",
+                        "16:30": "FM B1/EC B2 LAB"
+                    },
+                    "TUE": {
+                        "08:30": "OM",
+                        "09:30": "DME-1",
+                        "10:30": "BREAK",
+                        "11:00": "TM",
+                        "12:00": "FPE",
+                        "13:00": "LUNCH",
+                        "13:30": "DOM",
+                        "14:30": "FM B2/EC B1 LAB",
+                        "15:30": "FM B2/EC B1 LAB",
+                        "16:30": "FM B2/EC B1 LAB"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "DOM",
+                        "10:30": "BREAK",
+                        "11:00": "OM",
+                        "12:00": "TM",
+                        "13:00": "LUNCH",
+                        "13:30": "M&E",
+                        "14:30": "Association Activity",
+                        "15:30": "Association Activity",
+                        "16:30": "Association Activity"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "FPE",
+                        "12:00": "DME-1",
+                        "13:00": "LUNCH",
+                        "13:30": "M&E",
+                        "14:30": "TM",
+                        "15:30": "ES",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "FPE",
+                        "12:00": "DOM",
+                        "13:00": "LUNCH",
+                        "13:30": "TM",
+                        "14:30": "Tutorial",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "Not_Entered",
+                        "09:30": "OM",
+                        "10:30": "BREAK",
+                        "11:00": "DME-1",
+                        "12:00": "M&E",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "M&E": [
+                            "M&E",
+                            "SNT"
+                        ],
+                        "DME-1": [
+                            "DME-1",
+                            "Dr.BHK"
+                        ],
+                        "DOM": [
+                            "DOM",
+                            "Dr.ASR"
+                        ],
+                        "TM": [
+                            "TM",
+                            "MGP"
+                        ],
+                        "FPE": [
+                            "FPE",
+                            "PSG"
+                        ],
+                        "OM": [
+                            "OM",
+                            "SHB"
+                        ],
+                        "FM B1/EC B2 LAB": [
+                            "FM B1/EC B2 LAB",
+                            "PSG/VGG"
+                        ],
+                        "FM B2/EC B1 LAB": [
+                            "FM B2/EC B1 LAB",
+                            "PSG/VGG"
+                        ],
+                        "TEA BREAK": [
+                            "TEA BREAK",
+                            "TEA BREAK"
+                        ],
+                        "Association Activity": [
+                            "Association Activity",
+                            "Association Activity"
+                        ],
+                        "Tutorial": [
+                            "Tutorial",
+                            "Tutorial"
+                        ],
+                        "ES": [
+                            "ES",
+                            "SK"
+                        ],
+                        "MECL001(LH-1)": [
+                            "MECL001(LH-1)",
+                            "MECL001(LH-1)"
+                        ],
+                        "Shrinivas .N.T": [
+                            "Shrinivas .N.T",
+                            "Shrinivas .N.T"
+                        ]
+                    }
+                },
+                "MEC5SEMB": {
+                    "LH": "MECL002(LH-2)",
+                    "MON": {
+                        "08:30": "TM",
+                        "09:30": "DME-1",
+                        "10:30": "BREAK",
+                        "11:00": "DOM",
+                        "12:00": "M&E",
+                        "13:00": "LUNCH",
+                        "13:30": "FPE",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "TUE": {
+                        "08:30": "FPE",
+                        "09:30": "M&E",
+                        "10:30": "BREAK",
+                        "11:00": "OM",
+                        "12:00": "DME-1",
+                        "13:00": "LUNCH",
+                        "13:30": "TM",
+                        "14:30": "Tutorial",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "OM",
+                        "10:30": "BREAK",
+                        "11:00": "FPE",
+                        "12:00": "M&E",
+                        "13:00": "LUNCH",
+                        "13:30": "DOM",
+                        "14:30": "Association Activity",
+                        "15:30": "Association Activity",
+                        "16:30": "Association Activity"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "DME-1",
+                        "10:30": "BREAK",
+                        "11:00": "OM",
+                        "12:00": "DOM",
+                        "13:00": "LUNCH",
+                        "13:30": "M&E",
+                        "14:30": "FM B1/ EC B2 LAB",
+                        "15:30": "FM B1/ EC B2 LAB",
+                        "16:30": "ES"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "DME-1",
+                        "12:00": "TM",
+                        "13:00": "LUNCH",
+                        "13:30": "OM",
+                        "14:30": "FM B2/ EC B1 LAB",
+                        "15:30": "FM B2/ EC B1 LAB",
+                        "16:30": "FM B2/ EC B1 LAB"
+                    },
+                    "SAT": {
+                        "08:30": "Not_Entered",
+                        "09:30": "TM",
+                        "10:30": "BREAK",
+                        "11:00": "DOM",
+                        "12:00": "FPE",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "M&E": [
+                            "M&E",
+                            "SNT"
+                        ],
+                        "DME-1": [
+                            "DME-1",
+                            "Dr.BHK"
+                        ],
+                        "DOM": [
+                            "DOM",
+                            "Dr.ASR"
+                        ],
+                        "TM": [
+                            "TM",
+                            "SSH"
+                        ],
+                        "FPE": [
+                            "FPE",
+                            "SMG"
+                        ],
+                        "OM": [
+                            "OM",
+                            "SHB"
+                        ],
+                        "FM B1/ EC B2 LAB": [
+                            "FM B1/ EC B2 LAB",
+                            "SMG/SSH"
+                        ],
+                        "FM B2/ EC B1 LAB": [
+                            "FM B2/ EC B1 LAB",
+                            "SMG/SSH"
+                        ],
+                        "ES": [
+                            "ES",
+                            "SK"
+                        ],
+                        "TEA BREAK": [
+                            "TEA BREAK",
+                            "TEA BREAK"
+                        ],
+                        "Tutorial": [
+                            "Tutorial",
+                            "Tutorial"
+                        ],
+                        "Association Activity": [
+                            "Association Activity",
+                            "Association Activity"
+                        ]
+                    }
+                }
             }
         },
         "ECE": {
