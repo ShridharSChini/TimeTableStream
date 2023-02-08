@@ -314,7 +314,9 @@ def check_password():
         ):
             st.session_state["password_correct"] = True
             del st.session_state["password"]  # don't store username + password
-            del st.session_state["username"]
+            st.session_state['user'] = st.session_state["username"]
+
+            # del st.session_state["username"]
         else:
             st.session_state["password_correct"] = False
 
@@ -339,14 +341,22 @@ def check_password():
         return True
 
 if check_password():
-  selectedDept = option_menu(
-                menu_title=None,  # required
-                options=["CSE", "First_year", "ECE","EEE", "MCA", "CIV","MEC"],  # required
-                icons=["cpu", "house", "motherboard","motherboard-fill","laptop","bricks","airplane-fill"],  # optional
-                menu_icon="cast",  # optional
-                default_index=0,  # optional
-                orientation="horizontal",
-            )
+
+  st.write("Welcome ",st.session_state["user"])
+
+  dept = st.session_state["user"]
+  dept = dept[-3:]
+  dept = dept.upper()
+  # st.write(dept.upper())
+  selectedDept = dept
+  # selectedDept = option_menu(
+  #               menu_title=None,  # required
+  #               options=["CSE", "First_year", "ECE","EEE", "MCA", "CIV","MEC"],  # required
+  #               icons=["cpu", "house", "motherboard","motherboard-fill","laptop","bricks","airplane-fill"],  # optional
+  #               menu_icon="cast",  # optional
+  #               default_index=0,  # optional
+  #               orientation="horizontal",
+  #           )
   if (selectedDept == "CSE") | (selectedDept == "ECE") | (selectedDept == "MEC"):
     sections=[selectedDept+"/3/A", selectedDept+"/3/B", selectedDept+"/5/A",selectedDept+"/5/B", selectedDept+"/7/A", selectedDept+"/7/B",]
     # sections=[selectedDept+"/4/A", selectedDept+"/4/B", selectedDept+"/6/A",selectedDept+"/6/B", selectedDept+"/8/A", selectedDept+"/8/B",]
