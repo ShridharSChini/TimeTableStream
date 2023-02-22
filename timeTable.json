@@ -1,129 +1,16 @@
 {
     "DEPT": {
         "CSE": {
-            "CSE7SEM": {
-                "CSE7SEMA": {
-                    "LH": "6",
+            "CSE8SEM": {
+                "CSE8SEMA": {
+                    "LH": "LH1",
                     "MON": {
                         "08:30": "Not_Entered",
-                        "09:30": "AIML",
-                        "10:30": "BREAK",
-                        "11:00": "BDA",
-                        "12:00": "OE",
-                        "13:00": "LUNCH",
-                        "13:30": "AIMLL",
-                        "14:30": "AIMLL",
-                        "15:30": "AIMLL",
-                        "16:30": "Not_Entered"
-                    },
-                    "TUE": {
-                        "08:30": "Not_Entered",
-                        "09:30": "PE2",
-                        "10:30": "BREAK",
-                        "11:00": "BDA",
-                        "12:00": "OE",
-                        "13:00": "LUNCH",
-                        "13:30": "AIMLL",
-                        "14:30": "AIMLL",
-                        "15:30": "AIMLL",
-                        "16:30": "Not_Entered"
-                    },
-                    "WED": {
-                        "08:30": "AIML",
-                        "09:30": "PE3",
-                        "10:30": "BREAK",
-                        "11:00": "PE2",
-                        "12:00": "OE",
-                        "13:00": "LUNCH",
-                        "13:30": "AIMLL",
-                        "14:30": "AIMLL",
-                        "15:30": "AIMLL",
-                        "16:30": "Not_Entered"
-                    },
-                    "THU": {
-                        "08:30": "PE2",
-                        "09:30": "PE3",
-                        "10:30": "BREAK",
-                        "11:00": "BDA",
-                        "12:00": "OE",
-                        "13:00": "LUNCH",
-                        "13:30": "AIML",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "PE3",
-                        "10:30": "BREAK",
-                        "11:00": "BDA",
-                        "12:00": "PE2",
-                        "13:00": "LUNCH",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "SAT": {
-                        "08:30": "PE3",
-                        "09:30": "AIML",
-                        "10:30": "BREAK",
+                        "09:30": "Not_Entered",
+                        "10:30": "Not_Entered",
                         "11:00": "Not_Entered",
                         "12:00": "Not_Entered",
-                        "13:00": "LUNCH",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "AIML": [
-                            "Artificial Intelligence & Machine Learning",
-                            "Dr.Rajesh Yakkundimath"
-                        ],
-                        "BDA": [
-                            "Big Data Analytics",
-                            "Mrs. Malathi S.Y"
-                        ],
-                        "PE2": [
-                            "User Interface Design(PE2) / Software Archit. & Design Patterns (PE2)",
-                            "Mrs. Shobha C. Hiremath / Mrs.Vijeeta Patil"
-                        ],
-                        "PE3": [
-                            "Cryptography(PE3) / Digital Image Processing (PE3)/ Robotics Process Auto. Design & Dev (PE3)/ Natural Language Processing (PE3)",
-                            "Dr. Yerriswamy T./ Mr. Mahantesh S. Sajjan/Mr. Balachandra G.C./Dr. Geeta R. Baramgoudar"
-                        ],
-                        "OE": [
-                            "Python Application Programming / Introduction to Artificial Intelligence Open(OE)/ Introduction to Dot Net",
-                            "Mr. Girish B. Saunshi /Dr. Yerriswamy T. /Mr. Mahantesh S. Sajjan"
-                        ],
-                        "AIMLL": [
-                            "Artificial Intelligence & Machine Learning Laboratory",
-                            "Dr.Rajesh Yakkundimath"
-                        ]
-                    }
-                },
-                "CSE7SEMB": {
-                    "LH": "Lecture Hall No: 3",
-                    "MON": {
-                        "08:30": "Not_Entered",
-                        "09:30": "BDA",
-                        "10:30": "BREAK",
-                        "11:00": "AIML",
-                        "12:00": "OE",
-                        "13:00": "LUNCH",
+                        "13:00": "Not_Entered",
                         "13:30": "Not_Entered",
                         "14:30": "Not_Entered",
                         "15:30": "Not_Entered",
@@ -131,177 +18,167 @@
                     },
                     "TUE": {
                         "08:30": "Not_Entered",
-                        "09:30": "PE2",
-                        "10:30": "BREAK",
-                        "11:00": "AIML",
-                        "12:00": "OE",
-                        "13:00": "LUNCH",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "WED": {
-                        "08:30": "BDA",
-                        "09:30": "PE3",
-                        "10:30": "BREAK",
-                        "11:00": "PE2",
-                        "12:00": "OE",
-                        "13:00": "LUNCH",
-                        "13:30": "PWS",
-                        "14:30": "PWS",
-                        "15:30": "PWS",
-                        "16:30": "Not_Entered"
-                    },
-                    "THU": {
-                        "08:30": "PE2",
-                        "09:30": "PE3",
-                        "10:30": "BREAK",
-                        "11:00": "AIML",
-                        "12:00": "OE",
-                        "13:00": "LUNCH",
-                        "13:30": "AIML Lab",
-                        "14:30": "AIML Lab",
-                        "15:30": "AIML Lab",
-                        "16:30": "Not_Entered"
-                    },
-                    "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "PE3",
-                        "10:30": "BREAK",
-                        "11:00": "AIML",
-                        "12:00": "PE2",
-                        "13:00": "LUNCH",
-                        "13:30": "BDA",
-                        "14:30": "AIML Lab",
-                        "15:30": "AIML Lab",
-                        "16:30": "AIML Lab"
-                    },
-                    "SAT": {
-                        "08:30": "PE3",
-                        "09:30": "BDA",
-                        "10:30": "BREAK",
-                        "11:00": "AIML Lab",
-                        "12:00": "AIML Lab",
-                        "13:00": "LUNCH",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "AIML": [
-                            "Artificial Intelligence & Machine Learning",
-                            "Dr.Rajesh Yakkundimath"
-                        ],
-                        "BDA": [
-                            "Big Data Analytics",
-                            "Dr. Geeta R. Baramgoudar"
-                        ],
-                        "PE2": [
-                            "User Interface Design(PE2) / Software Archit. & Design Patterns (PE2)",
-                            "Mrs. Shobha C. Hiremath / Mrs.Vijeeta Patil"
-                        ],
-                        "PE3": [
-                            "Cryptography(PE3) / Digital Image Processing (PE3) / Robotics Process Auto. Design & Dev (PE3)/Natural Language Processing (PE3)",
-                            "Dr. Yerriswamy T/Mr. Mahantesh S. Sajjan/Mr. Balachandra G.C."
-                        ],
-                        "OE": [
-                            "Python Application Programming(OE) / Introduction to Artificial Intelligence Open(OE)  /Introduction to Dot Net",
-                            "Mr. Girish B. Saunshi/Dr. Yerriswamy T/Mr. Mahantesh S. Sajjan"
-                        ],
-                        "AIML Lab": [
-                            "Artificial Intelligence & Machine Learning Laboratory",
-                            "Mr.Shridhar S. Chini"
-                        ],
-                        "PWS": [
-                            "Project Work Phase\u2013I + Project work Seminar",
-                            "Mr. Mahantesh S. Sajjan"
-                        ]
-                    }
-                }
-            },
-            "CSE3SEM": {
-                "CSE3SEMA": {
-                    "LH": "LH 1",
-                    "MON": {
-                        "08:30": "Not_Entered",
                         "09:30": "Not_Entered",
-                        "10:30": "BREAK",
-                        "11:00": "TFN",
-                        "12:00": "COA",
-                        "13:00": "LUNCH",
-                        "13:30": "ADE",
-                        "14:30": "BK",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "TUE": {
-                        "08:30": "Not_Entered",
-                        "09:30": "TFN",
-                        "10:30": "BREAK",
-                        "11:00": "DSA",
-                        "12:00": "COA",
-                        "13:00": "LUNCH",
-                        "13:30": "SCR",
-                        "14:30": "SCR",
-                        "15:30": "BK",
-                        "16:30": "Not_Entered"
-                    },
-                    "WED": {
-                        "08:30": "Not_Entered",
-                        "09:30": "DSA",
-                        "10:30": "BREAK",
-                        "11:00": "TFN",
-                        "12:00": "ADE",
-                        "13:00": "LUNCH",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "BREAK",
-                        "11:00": "ADE",
-                        "12:00": "DSA",
-                        "13:00": "LUNCH",
-                        "13:30": "OOPJ/DSAL/ADEL",
-                        "14:30": "OOPJ/DSAL/ADEL",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "FRI": {
-                        "08:30": "DSA",
-                        "09:30": "Not_Entered",
-                        "10:30": "BREAK",
+                        "10:30": "Not_Entered",
                         "11:00": "Not_Entered",
                         "12:00": "Not_Entered",
-                        "13:00": "LUNCH",
-                        "13:30": "OOPJ/DSAL/ADEL",
-                        "14:30": "OOPJ/DSAL/ADEL",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "Not_Entered",
+                        "11:00": "Not_Entered",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "Not_Entered",
+                        "11:00": "Not_Entered",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "SAN / NoSQL",
+                        "09:30": "SAN / NoSQL",
+                        "10:30": "BREAK",
+                        "11:00": "IOT",
+                        "12:00": "IOT",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
                         "15:30": "Not_Entered",
                         "16:30": "Not_Entered"
                     },
                     "SAT": {
-                        "08:30": "OOPJ/DSAL/ADEL",
-                        "09:30": "OOPJ/DSAL/ADEL",
+                        "08:30": "SAN / NoSQL",
+                        "09:30": "IOT",
                         "10:30": "BREAK",
-                        "11:00": "COA",
-                        "12:00": "AEC",
+                        "11:00": "SAN / NoSQL",
+                        "12:00": "IOT",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "IOT": [
+                            "Internet of Things",
+                            "Mrs. Vijeeta Patil"
+                        ],
+                        "SAN / NoSQL": [
+                            "Storage Area Networks (P4) / NoSQL Database (P4)",
+                            "Mrs. Shanta Kallur / Mr. Shridhar Chini"
+                        ],
+                        "PW": [
+                            "Project Work Phase ",
+                            "Mr. Mahantesh Sajjan"
+                        ],
+                        "TS": [
+                            "Technical Seminar",
+                            "Mr. Vishwanath K."
+                        ],
+                        "IN": [
+                            "Internship",
+                            "Mr. Balachandra C."
+                        ]
+                    }
+                },
+                "CSE8SEMB": {
+                    "LH": "LH2",
+                    "MON": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "Not_Entered",
+                        "11:00": "Not_Entered",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "TUE": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "Not_Entered",
+                        "11:00": "Not_Entered",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "Not_Entered",
+                        "11:00": "Not_Entered",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "Not_Entered",
+                        "11:00": "Not_Entered",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "SAN/NoSQL",
+                        "09:30": "SAN/NoSQL",
+                        "10:30": "BREAK",
+                        "11:00": "IOT",
+                        "12:00": "IOT",
+                        "13:00": "LUNCH",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "SAN/NoSQL",
+                        "09:30": "IOT",
+                        "10:30": "BREAK",
+                        "11:00": "SAN/NoSQL",
+                        "12:00": "IOT",
                         "13:00": "LUNCH",
                         "13:30": "Not_Entered",
                         "14:30": "Not_Entered",
@@ -321,520 +198,103 @@
                             "LUNCH",
                             "LUNCH"
                         ],
-                        "TFN": [
-                            "Transform Calculus, Fourier Series and Numerical Techniques",
-                            "Dr. Veeresh Hosmath"
+                        "IOT": [
+                            "Internet of Things",
+                            "Mrs. Shobha Hiremath"
                         ],
-                        "DSA": [
-                            "Data Structures and Applications",
-                            "Mrs. Vijeeta Patil"
+                        "SAN/NoSQL": [
+                            "Storage Area Networks / NoSQL Database ",
+                            "Mrs. Shanta Kallur / Mr. Shridhar Chini"
                         ],
-                        "ADE": [
-                            "Analog and Digital Electronics",
-                            "Mrs. Swati M. Sajjan"
+                        "PW": [
+                            "Project Work Phase ",
+                            "Mr. Mahantesh Sajjan"
                         ],
-                        "COA": [
-                            "Computer Organization and Architecture",
-                            "Mrs. Kavita Mainalli"
+                        "TS": [
+                            "Technical Seminar",
+                            "Mr. Vishwanath K."
                         ],
-                        "OOPJ/DSAL/ADEL": [
-                            "Object Oriented Programming with JAVA Laboratory/Data Structures and Applications Laboratory/Analog and Digital Electronics Laboratory",
-                            "Mr. Girish B. Saunshi/Mrs. Vijeeta Patil/Mrs. Swati M. Sajjan"
-                        ],
-                        "SCR": [
-                            "Social Connect and Responsibility",
-                            "Dr. Yerriswamy T"
-                        ],
-                        "SK": [
-                            "Samskrutika Kannada",
-                            "Mrs. Girija"
-                        ],
-                        "BK": [
-                            "Balake Kannada",
-                            "Mrs. Girija"
-                        ],
-                        "AEC": [
-                            "Ability Enhancement Course - III",
-                            "Mr.Pradeep Surasura"
-                        ]
-                    }
-                },
-                "CSE3SEMB": {
-                    "LH": "LH 4",
-                    "MON": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "BREAK",
-                        "11:00": "TFN",
-                        "12:00": "ADE",
-                        "13:00": "LUNCH",
-                        "13:30": "OOPJ/DSAL/ADEL",
-                        "14:30": "OOPJ/DSAL/ADEL",
-                        "15:30": "kk",
-                        "16:30": "Not_Entered"
-                    },
-                    "TUE": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "BREAK",
-                        "11:00": "DSA",
-                        "12:00": "TFN",
-                        "13:00": "LUNCH",
-                        "13:30": "COA",
-                        "14:30": "kk",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "WED": {
-                        "08:30": "Not_Entered",
-                        "09:30": "ADE",
-                        "10:30": "BREAK",
-                        "11:00": "TFN",
-                        "12:00": "COA",
-                        "13:00": "LUNCH",
-                        "13:30": "OOPJ/DSAL/ADEL",
-                        "14:30": "OOPJ/DSAL/ADEL",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "ADE",
-                        "10:30": "BREAK",
-                        "11:00": "COA",
-                        "12:00": "DSA",
-                        "13:00": "LUNCH",
-                        "13:30": "SCR",
-                        "14:30": "SCR",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "FRI": {
-                        "08:30": "ADE",
-                        "09:30": "COA",
-                        "10:30": "BREAK",
-                        "11:00": "TFN",
-                        "12:00": "DSA",
-                        "13:00": "LUNCH",
-                        "13:30": "Extra Classes",
-                        "14:30": "Mentorship",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "SAT": {
-                        "08:30": "AEC",
-                        "09:30": "DSA",
-                        "10:30": "BREAK",
-                        "11:00": "OOPJ/DSAL/ADEL",
-                        "12:00": "OOPJ/DSAL/ADEL",
-                        "13:00": "LUNCH",
-                        "13:30": "DEPT Activity",
-                        "14:30": "DEPT Activity",
-                        "15:30": "DEPT Activity",
-                        "16:30": "DEPT Activity"
-                    },
-                    "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "Extra Classes": [
-                            "Extra Classes",
-                            "Extra Classes"
-                        ],
-                        "Mentorship": [
-                            "Mentorship",
-                            "Mentorship"
-                        ],
-                        "DEPT Activity": [
-                            "DEPT Activity",
-                            "DEPT Activity"
-                        ],
-                        "TFN": [
-                            "Transform Calculus, Fourier Series and Numerical Techniques",
-                            "Dr. Veeresh Hosmath"
-                        ],
-                        "DSA": [
-                            "Data Structures and Applications",
-                            "Mrs. Vijeeta Patil"
-                        ],
-                        "ADE": [
-                            "Analog and Digital Electronics",
-                            "Mrs. Swati M. Sajjan"
-                        ],
-                        "COA": [
-                            "Computer Organization and Architecture",
-                            "Mrs. Kavita Mainalli"
-                        ],
-                        "OOPJ/DSAL/ADEL": [
-                            "Object Oriented Programming with JAVA Laboratory/Data Structures and Applications Laboratory/Analog and Digital Electronics Laboratory",
-                            "Mrs. Kavita Mainalli/2 Dr.Geeta R.B/Mrs. Swati M. Sajjan"
-                        ],
-                        "SCR": [
-                            "Social Connect and Responsibility",
-                            "Dr. Yerriswamy T."
-                        ],
-                        "kk": [
-                            "Samskrutika Kannada",
-                            "Mrs. Girija"
-                        ],
-                        "AEC": [
-                            "Ability Enhancement Course - III",
-                            "Mr.Pradeep Surasura"
-                        ]
-                    }
-                }
-            },
-            "CSE5SEM": {
-                "CSE5SEMA": {
-                    "LH": "LH 5",
-                    "MON": {
-                        "08:30": "Not_Entered",
-                        "09:30": "CN LAB/DBMS LAB",
-                        "10:30": "BREAK",
-                        "11:00": "CN LAB/DBMS LAB",
-                        "12:00": "CN LAB/DBMS LAB",
-                        "13:00": "LUNCH",
-                        "13:30": "ATCI",
-                        "14:30": "ADP",
-                        "15:30": "DBMS",
-                        "16:30": "HSMC"
-                    },
-                    "TUE": {
-                        "08:30": "UP",
-                        "09:30": "ATCI",
-                        "10:30": "BREAK",
-                        "11:00": "CNS",
-                        "12:00": "DBMS",
-                        "13:00": "LUNCH",
-                        "13:30": "CN LAB/DBMS LAB",
-                        "14:30": "CN LAB/DBMS LAB",
-                        "15:30": "CN LAB/DBMS LAB",
-                        "16:30": "Not_Entered"
-                    },
-                    "WED": {
-                        "08:30": "ADP",
-                        "09:30": "CNS",
-                        "10:30": "BREAK",
-                        "11:00": "UP",
-                        "12:00": "ATCI",
-                        "13:00": "LUNCH",
-                        "13:30": "CN LAB/DBMS LAB",
-                        "14:30": "CN LAB/DBMS LAB",
-                        "15:30": "CN LAB/DBMS LAB",
-                        "16:30": "Not_Entered"
-                    },
-                    "THU": {
-                        "08:30": "ADP",
-                        "09:30": "ATCI",
-                        "10:30": "BREAK",
-                        "11:00": "CNS",
-                        "12:00": "UP",
-                        "13:00": "LUNCH",
-                        "13:30": "Extra Classes",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "ADP",
-                        "10:30": "BREAK",
-                        "11:00": "UP",
-                        "12:00": "DBMS",
-                        "13:00": "LUNCH",
-                        "13:30": "Mentorship",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "SAT": {
-                        "08:30": "CNS",
-                        "09:30": "DBMS",
-                        "10:30": "BREAK",
-                        "11:00": "ME",
-                        "12:00": "ME",
-                        "13:00": "LUNCH",
-                        "13:30": "DEPT Activity",
-                        "14:30": "DEPT Activity",
-                        "15:30": "DEPT Activity",
-                        "16:30": "Not_Entered"
-                    },
-                    "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "Extra Classes": [
-                            "Extra Classes",
-                            "Extra Classes"
-                        ],
-                        "Mentorship": [
-                            "Mentorship",
-                            "Mentorship"
-                        ],
-                        "DEPT Activity": [
-                            "DEPT Activity",
-                            "DEPT Activity"
-                        ],
-                        "ME": [
-                            "Management and Entrepreneurship for IT Industry",
-                            "Mrs. Farzana"
-                        ],
-                        "CNS": [
-                            "Computer Networks and Security",
-                            "Mr. Balachandra G. Chikkoppa"
-                        ],
-                        "DBMS": [
-                            "Data Base Management System",
-                            "Mr. Pradeep N. Surasura"
-                        ],
-                        "ATCI": [
-                            "Automate Theory and Computability",
-                            "Mr. Vishwanath S. Kamatar"
-                        ],
-                        "ADP": [
-                            "Application Development using Python",
-                            "5 Mr.Shridhar S. Chini"
-                        ],
-                        "UP": [
-                            "Unix Programming",
-                            "Mrs. Shanta S. Kallur"
-                        ],
-                        "CN LAB/DBMS LAB": [
-                            "Computer Network Laboratory/ DBMS Laboratory with Mini Project",
-                            "New Faculty/ Mr. Pradeep N. Surasura"
-                        ],
-                        "HSMC": [
-                            "Environmental Studies",
-                            "Mr. Sujay C.V. "
-                        ]
-                    }
-                },
-                "CSE5SEMB": {
-                    "LH": "LH 2",
-                    "MON": {
-                        "08:30": "Not_Entered",
-                        "09:30": "ATCI",
-                        "10:30": "BREAK",
-                        "11:00": "UP",
-                        "12:00": "CNS",
-                        "13:00": "LUNCH",
-                        "13:30": "DBMS",
-                        "14:30": "ADP",
-                        "15:30": "HSMC",
-                        "16:30": "Not_Entered"
-                    },
-                    "TUE": {
-                        "08:30": "Not_Entered",
-                        "09:30": "DBMS",
-                        "10:30": "BREAK",
-                        "11:00": "ATCI",
-                        "12:00": "UP",
-                        "13:00": "LUNCH",
-                        "13:30": "ADP",
-                        "14:30": "Extra Classes",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "WED": {
-                        "08:30": "ATCI",
-                        "09:30": "UP",
-                        "10:30": "BREAK",
-                        "11:00": "DBMS",
-                        "12:00": "CNS",
-                        "13:00": "LUNCH",
-                        "13:30": "ADP",
-                        "14:30": "Mentorship",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "DBMS",
-                        "10:30": "BREAK",
-                        "11:00": "ATCI",
-                        "12:00": "CNS",
-                        "13:00": "LUNCH",
-                        "13:30": "CN LAB/ DBMS LAB",
-                        "14:30": "CN LAB/ DBMS LAB",
-                        "15:30": "CN LAB/ DBMS LAB",
-                        "16:30": "Not_Entered"
-                    },
-                    "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "ADP",
-                        "10:30": "BREAK",
-                        "11:00": "CNS",
-                        "12:00": "UP",
-                        "13:00": "LUNCH",
-                        "13:30": "CN LAB/ DBMS LAB",
-                        "14:30": "CN LAB/ DBMS LAB",
-                        "15:30": "CN LAB/ DBMS LAB",
-                        "16:30": "Not_Entered"
-                    },
-                    "SAT": {
-                        "08:30": "ME",
-                        "09:30": "ME",
-                        "10:30": "BREAK",
-                        "11:00": "CN LAB/ DBMS LAB",
-                        "12:00": "CN LAB/ DBMS LAB",
-                        "13:00": "LUNCH",
-                        "13:30": "CN LAB/ DBMS LAB",
-                        "14:30": "DEPT Activity",
-                        "15:30": "DEPT Activity",
-                        "16:30": "Not_Entered"
-                    },
-                    "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "Extra Classes": [
-                            "Extra Classes",
-                            "Extra Classes"
-                        ],
-                        "Mentorship": [
-                            "Mentorship",
-                            "Mentorship"
-                        ],
-                        "DEPT Activity": [
-                            "DEPT Activity",
-                            "DEPT Activity"
-                        ],
-                        "ME": [
-                            "Management and Entrepreneurship for IT Industry",
-                            "Mrs. Farzana"
-                        ],
-                        "CNS": [
-                            "Computer Networks and Security",
-                            "Dr. Shreedhar Allagi"
-                        ],
-                        "DBMS": [
-                            "Data Base Management System",
-                            "Mr. Pradeep N. Surasura"
-                        ],
-                        "ATCI": [
-                            "Automate Theory and Computability",
-                            "Mr. Vishwanath S. Kamatar"
-                        ],
-                        "ADP": [
-                            "Application Development using Python",
-                            "Mr. Girish B. Saunshi"
-                        ],
-                        "UP": [
-                            "Unix Programming",
-                            "Dr. Manohar M. Madgi"
-                        ],
-                        "CN LAB/ DBMS LAB": [
-                            "Computer Network Laboratory/DBMS Laboratory with Mini Project",
-                            "Mrs. Shobha C. Hiremath/ Mr. Vishwanath S. Kamatar"
-                        ],
-                        "HSMC": [
-                            "Environmental Studies",
-                            "Mr. Sujay C.V"
+                        "IN": [
+                            "Internship",
+                            "Mr. Balachandra C."
                         ]
                     }
                 }
             }
         },
         "MEC": {
-            "MEC3SEM": {
-                "MEC3SEMA": {
-                    "LH": "CVCL001",
+            "MEC8SEM": {
+                "MEC8SEMA": {
+                    "LH": "",
                     "MON": {
-                        "08:30": "M-III",
-                        "09:30": "MCFJ",
-                        "10:30": "TEA BREAK",
-                        "11:00": "MDGD&T  B1 LAB",
-                        "12:00": "MDGD&T  B1 LAB",
-                        "13:00": "LUNCH",
+                        "08:30": "Not_Entered",
+                        "09:30": "EE",
+                        "10:30": "TEA  BREAK",
+                        "11:00": "CMT/ AE",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
                         "13:30": "Not_Entered",
                         "14:30": "Not_Entered",
                         "15:30": "Not_Entered",
                         "16:30": "Not_Entered"
                     },
                     "TUE": {
-                        "08:30": "TD",
-                        "09:30": "MDGD&T",
-                        "10:30": "TEA BREAK",
-                        "11:00": "MCFJ",
-                        "12:00": "M-III",
+                        "08:30": "Not_Entered",
+                        "09:30": "EE",
+                        "10:30": "TEA  BREAK",
+                        "11:00": "CMT/ AE",
+                        "12:00": "Not_Entered",
                         "13:00": "LUNCH",
-                        "13:30": "ASSOCIATION ACTIVITY",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
+                        "13:30": "PROJECT WORK",
+                        "14:30": "PROJECT WORK",
+                        "15:30": "PROJECT WORK",
                         "16:30": "Not_Entered"
                     },
                     "WED": {
                         "08:30": "Not_Entered",
                         "09:30": "Not_Entered",
-                        "10:30": "TEA BREAK",
-                        "11:00": "MDGD&T  B1 LAB",
-                        "12:00": "MDGD&T  B1 LAB",
-                        "13:00": "LUNCH",
-                        "13:30": "TD",
-                        "14:30": "MCFJ",
-                        "15:30": "MSE",
+                        "10:30": "TEA  BREAK",
+                        "11:00": "EE",
+                        "12:00": "CMT/ AE",
+                        "13:00": "L U N C H",
+                        "13:30": "Association Activity",
+                        "14:30": "Association Activity",
+                        "15:30": "Not_Entered",
                         "16:30": "Not_Entered"
                     },
                     "THU": {
                         "08:30": "Not_Entered",
                         "09:30": "Not_Entered",
-                        "10:30": "TEA BREAK",
-                        "11:00": "MSE  B1 LAB ",
-                        "12:00": "MSE  B1 LAB ",
-                        "13:00": "LUNCH",
-                        "13:30": "TD",
-                        "14:30": "M-III",
-                        "15:30": "MSE",
+                        "10:30": "TEA  BREAK",
+                        "11:00": "EE",
+                        "12:00": "CMT/ AE",
+                        "13:00": "L U N C H",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
                         "16:30": "Not_Entered"
                     },
                     "FRI": {
-                        "08:30": "CIP",
-                        "09:30": "SCR",
-                        "10:30": "TEA BREAK",
-                        "11:00": "MCFJ B1 LAB",
-                        "12:00": "MCFJ B1 LAB",
-                        "13:00": "LUNCH",
-                        "13:30": "MSE",
-                        "14:30": "M-III",
-                        "15:30": "PYT",
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "PROJECT WORK",
+                        "11:00": "PROJECT WORK",
+                        "12:00": "PROJECT WORK",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
                         "16:30": "Not_Entered"
                     },
                     "SAT": {
-                        "08:30": "CIP",
-                        "09:30": "MCFJ",
-                        "10:30": "TEA BREAK",
-                        "11:00": "TD",
-                        "12:00": "MSE",
-                        "13:00": "LUNCH",
-                        "13:30": "PYTHON  B1 LAB",
-                        "14:30": "PYTHON  B1 LAB",
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "PROJECT WORK",
+                        "11:00": "PROJECT WORK",
+                        "12:00": "PROJECT WORK",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
                         "15:30": "Not_Entered",
                         "16:30": "Not_Entered"
                     },
@@ -851,17 +311,382 @@
                             "LUNCH",
                             "LUNCH"
                         ],
-                        "Extra Classes": [
-                            "Extra Classes",
-                            "Extra Classes"
+                        "EE": [
+                            "Enery Engineering",
+                            "Sushruth.S.H"
                         ],
-                        "Mentorship": [
-                            "Mentorship",
-                            "Mentorship"
+                        "CMT/ AE": [
+                            "CNC Machine Tools/Automobile Engineering",
+                            "Dr.Basukumar H K/Dr.V.R.Hiremath"
                         ],
-                        "DEPT Activity": [
-                            "DEPT Activity",
-                            "DEPT Activity"
+                        "TEA  BREAK": [
+                            "TEA  BREAK",
+                            "TEA  BREAK"
+                        ],
+                        "L U N C H": [
+                            "L U N C H",
+                            "L U N C H"
+                        ],
+                        "PROJECT WORK": [
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Association Activity": [
+                            "Association Activity",
+                            "Association Activity"
+                        ]
+                    }
+                },
+                "MEC8SEMB": {
+                    "LH": "CVCL203(ME-LH-4)",
+                    "MON": {
+                        "08:30": "Not_Entered",
+                        "09:30": "EE",
+                        "10:30": "TEA  BREAK",
+                        "11:00": "CMT/ AE ",
+                        "12:00": "Not_Entered",
+                        "13:00": "L U N C H",
+                        "13:30": "PROJECT WORK",
+                        "14:30": "PROJECT WORK",
+                        "15:30": "PROJECT WORK",
+                        "16:30": "Not_Entered"
+                    },
+                    "TUE": {
+                        "08:30": "Not_Entered",
+                        "09:30": "EE",
+                        "10:30": "TEA  BREAK",
+                        "11:00": "CMT/ AE ",
+                        "12:00": "Not_Entered",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "TEA  BREAK",
+                        "11:00": "EE",
+                        "12:00": "CMT/ AE ",
+                        "13:00": "L U N C H",
+                        "13:30": "Association Activity",
+                        "14:30": "Association Activity",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "TEA  BREAK",
+                        "11:00": "EE",
+                        "12:00": "CMT/ AE ",
+                        "13:00": "LUNCH",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "PROJECT WORK",
+                        "11:00": "PROJECT WORK",
+                        "12:00": "PROJECT WORK",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "PROJECT WORK",
+                        "11:00": "PROJECT WORK",
+                        "12:00": "PROJECT WORK",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "EE": [
+                            "Enery Engineering",
+                            "Vishwanath Savadatti"
+                        ],
+                        "CMT/ AE ": [
+                            "CNC Machine Tools/Automobile Engineering",
+                            "Dr.Basukumar H K/Dr.V.R.Hiremath"
+                        ],
+                        "TEA  BREAK": [
+                            "TEA  BREAK",
+                            "TEA  BREAK"
+                        ],
+                        "PROJECT WORK": [
+                            "PROJECT WORK",
+                            "PROJECT WORK"
+                        ],
+                        "Association Activity": [
+                            "Association Activity",
+                            "Association Activity"
+                        ],
+                        "L U N C H": [
+                            "L U N C H",
+                            "L U N C H"
+                        ]
+                    }
+                }
+            },
+            "MEC3SEM": {
+                "MEC3SEMLE": {
+                    "LH": "CVCL204(LH-3)",
+                    "MON": {
+                        "08:30": "M-III",
+                        "09:30": "MSE",
+                        "10:30": "BREAK",
+                        "11:00": "TD",
+                        "12:00": "MCFJ",
+                        "13:00": "LUNCH",
+                        "13:30": "MDGD&T B1 / MSE  B2/ MCFJ B3 LAB",
+                        "14:30": "MDGD&T B1 / MSE  B2/ MCFJ B3 LAB",
+                        "15:30": "PYT B1LAB",
+                        "16:30": "PYT B1LAB"
+                    },
+                    "TUE": {
+                        "08:30": "M-III",
+                        "09:30": "MSE",
+                        "10:30": "BREAK",
+                        "11:00": "MCFJ",
+                        "12:00": "TD",
+                        "13:00": "LUNCH",
+                        "13:30": "ASSOSIATION ACTIVITY",
+                        "14:30": "ASSOSIATION ACTIVITY",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "PYT B2 LAB",
+                        "09:30": "PYT B2 LAB",
+                        "10:30": "BREAK",
+                        "11:00": "MDGD&T B2 / MSE  B3/ MCFJ B1",
+                        "12:00": "MDGD&T B2 / MSE  B3/ MCFJ B1",
+                        "13:00": "LUNCH",
+                        "13:30": "M-III",
+                        "14:30": "MCFJ",
+                        "15:30": "Dip-Mat",
+                        "16:30": "Not_Entered"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "MDGD&T B3 / MSE  B1/ MCFJ B2 LABMDGD&T B3 / MSE  B1/ MCFJ B2 LAB",
+                        "12:00": "MDGD&T B3 / MSE  B1/ MCFJ B2 LABMDGD&T B3 / MSE  B1/ MCFJ B2 LAB",
+                        "13:00": "LUNCH",
+                        "13:30": "TD",
+                        "14:30": "MSE",
+                        "15:30": "Dip-Mat",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "CIP",
+                        "09:30": "SCR",
+                        "10:30": "BREAK",
+                        "11:00": "PYT B3 LAB",
+                        "12:00": "PYT B3 LAB",
+                        "13:00": "LUNCH",
+                        "13:30": "M-III",
+                        "14:30": "MCFJ",
+                        "15:30": "Dip-Mat",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "CIP",
+                        "09:30": "MSE",
+                        "10:30": "BREAK",
+                        "11:00": "TD",
+                        "12:00": "TD TUTORIAL",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "M-III": [
+                            "Transform Calculus, Fourier Series And Numerical Techniques",
+                            "Dr.K.Betageri"
+                        ],
+                        "Dip-Mat": [
+                            "Diploma-Mathematics",
+                            "Bhuvaneshwari.R.H"
+                        ],
+                        "MCFJ": [
+                            "Metal casting, Forming and Joining Processes",
+                            "Anilkumar.C.K"
+                        ],
+                        "MSE": [
+                            "Material Science and Engineering",
+                            "Dr.V.R.Hiremath"
+                        ],
+                        "TD": [
+                            "Thermodynamics",
+                            "Pradeep.S.G"
+                        ],
+                        "TD TUTORIAL": [
+                            "Thermodynamics",
+                            "Pradeep.S.G"
+                        ],
+                        "SCR": [
+                            "Social Connect and Responsibility",
+                            "Srinivas.N.T"
+                        ],
+                        "CIP": [
+                            "Constitution of India and Professional Ethics",
+                            "L.D.Kulkarni"
+                        ],
+                        "PYT B3 LAB": [
+                            "Introduction to PYTHON",
+                            "Vishwanath Savadatti"
+                        ],
+                        "MDGD&T B1 / MSE  B2/ MCFJ B3 LAB": [
+                            "MDGD&T B1 / MSE  B2/ MCFJ B3 LAB",
+                            "MDGD&T B1 / MSE  B2/ MCFJ B3 LAB"
+                        ],
+                        "PYT B1LAB": [
+                            "PYT B1LAB",
+                            "PYT B1LAB"
+                        ],
+                        "ASSOSIATION ACTIVITY": [
+                            "ASSOSIATION ACTIVITY",
+                            "ASSOSIATION ACTIVITY"
+                        ],
+                        "PYT B2 LAB": [
+                            "PYT B2 LAB",
+                            "PYT B2 LAB"
+                        ],
+                        "MDGD&T B2 / MSE  B3/ MCFJ B1": [
+                            "MDGD&T B2 / MSE  B3/ MCFJ B1",
+                            "MDGD&T B2 / MSE  B3/ MCFJ B1"
+                        ],
+                        "MDGD&T B3 / MSE  B1/ MCFJ B2 LABMDGD&T B3 / MSE  B1/ MCFJ B2 LAB": [
+                            "MDGD&T B3 / MSE  B1/ MCFJ B2 LAB",
+                            "MDGD&T B3 / MSE  B1/ MCFJ B2 LAB"
+                        ]
+                    }
+                },
+                "MEC3SEMA": {
+                    "LH": "MECL002(LH-2)",
+                    "MON": {
+                        "08:30": "M-III",
+                        "09:30": "MCFJ",
+                        "10:30": "BREAK",
+                        "11:00": "PYTHON  B1 LAB",
+                        "12:00": "PYTHON  B1 LAB",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "TUE": {
+                        "08:30": "Not_Entered",
+                        "09:30": "MDGD&T",
+                        "10:30": "MDGD&T",
+                        "11:00": "MDGD&T",
+                        "12:00": "M-III",
+                        "13:00": "LUNCH",
+                        "13:30": "ASSOSIATION ACTIVITY",
+                        "14:30": "ASSOSIATION ACTIVITY",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "WED": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "TD",
+                        "12:00": "TD",
+                        "13:00": "LUNCH",
+                        "13:30": "MCFJ B1 LAB",
+                        "14:30": "MCFJ B1 LAB",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "THU": {
+                        "08:30": "Not_Entered",
+                        "09:30": "MSE",
+                        "10:30": "BREAK",
+                        "11:00": "MINI PROJECT",
+                        "12:00": "MINI PROJECT",
+                        "13:00": "LUNCH",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FRI": {
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "BREAK",
+                        "11:00": "MSE  B1 LAB",
+                        "12:00": "MSE  B1 LAB",
+                        "13:00": "LUNCH",
+                        "13:30": "MINI PROJECT",
+                        "14:30": "MINI PROJECT",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "SAT": {
+                        "08:30": "Not_Entered",
+                        "09:30": "MCFJ",
+                        "10:30": "BREAK",
+                        "11:00": "MINI PROJECT",
+                        "12:00": "MINI PROJECT",
+                        "13:00": "Not_Entered",
+                        "13:30": "Not_Entered",
+                        "14:30": "Not_Entered",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
+                    },
+                    "FACULTY": {
+                        "Not_Entered": [
+                            "Not_Entered",
+                            "Not_Entered"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
                         ],
                         "M-III": [
                             "Transform Calculus, Fourier Series And Numerical Techniques",
@@ -895,973 +720,105 @@
                             "Introduction to PYTHON",
                             "Vishwanath Savadatti"
                         ],
-                        "MDGD&T  B1 LAB": [
-                            "MDGD&T   LAB",
-                            "Shivaprakash M. V"
+                        "PYTHON  B1 LAB": [
+                            "PYTHON  B1 LAB",
+                            "PYTHON  B1 LAB"
                         ],
-                        "MSE  B1 LAB ": [
-                            "MSE   LAB ",
-                            "Dr.V.R.Hiremath"
+                        "MDGD&T B1 LAB": [
+                            "MDGD&T B1 LAB",
+                            "MDGD&T B1 LAB"
+                        ],
+                        "ASSOSIATION ACTIVITY": [
+                            "ASSOSIATION ACTIVITY",
+                            "ASSOSIATION ACTIVITY"
                         ],
                         "MCFJ B1 LAB": [
-                            "MCFJ  LAB",
-                            "Anilkumar.C.K"
-                        ],
-                        "PYTHON  B1 LAB": [
-                            "PYTHON   LAB",
-                            "Vishwanath Savadatti"
-                        ],
-                        "ASSOCIATION ACTIVITY": [
-                            "ASSOCIATION ACTIVITY",
-                            "ASSOCIATION ACTIVITY"
-                        ],
-                        "TEA BREAK": [
-                            "TEA BREAK",
-                            "TEA BREAK"
-                        ]
-                    }
-                }
-            },
-            "MEC5SEM": {
-                "MEC5SEMA": {
-                    "LH": "",
-                    "MON": {
-                        "08:30": "DOM",
-                        "09:30": "M&E",
-                        "10:30": "TEA BREAK",
-                        "11:00": "FPE",
-                        "12:00": "DME-I",
-                        "13:00": "LUNCH",
-                        "13:30": "OM",
-                        "14:30": "FM B1/EC B2 LAB",
-                        "15:30": "FM B1/EC B2 LAB",
-                        "16:30": "FM B1/EC B2 LAB"
-                    },
-                    "TUE": {
-                        "08:30": "OM",
-                        "09:30": "DME-I",
-                        "10:30": "TEA BREAK",
-                        "11:00": "TM",
-                        "12:00": "FPE",
-                        "13:00": "LUNCH",
-                        "13:30": "DOM",
-                        "14:30": "FM B2/EC B1 LAB",
-                        "15:30": "FM B2/EC B1 LAB",
-                        "16:30": "FM B2/EC B1 LAB"
-                    },
-                    "WED": {
-                        "08:30": "Not_Entered",
-                        "09:30": "DOM",
-                        "10:30": "TEA BREAK",
-                        "11:00": "OM",
-                        "12:00": "TM",
-                        "13:00": "LUNCH",
-                        "13:30": "M&E",
-                        "14:30": "ASSOCIATION ACTIVITY",
-                        "15:30": "ASSOCIATION ACTIVITY",
-                        "16:30": "ASSOCIATION ACTIVITY"
-                    },
-                    "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "TEA BREAK",
-                        "11:00": "FPE",
-                        "12:00": "DME-I",
-                        "13:00": "LUNCH",
-                        "13:30": "M&E",
-                        "14:30": "TM",
-                        "15:30": "ES",
-                        "16:30": "Not_Entered"
-                    },
-                    "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "TEA BREAK",
-                        "11:00": "FPE",
-                        "12:00": "DOM",
-                        "13:00": "LUNCH",
-                        "13:30": "TM",
-                        "14:30": "Tutorial",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "SAT": {
-                        "08:30": "Not_Entered",
-                        "09:30": "OM",
-                        "10:30": "TEA BREAK",
-                        "11:00": "DME-I",
-                        "12:00": "M&E",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "Extra Classes": [
-                            "Extra Classes",
-                            "Extra Classes"
-                        ],
-                        "Mentorship": [
-                            "Mentorship",
-                            "Mentorship"
-                        ],
-                        "DEPT Activity": [
-                            "DEPT Activity",
-                            "DEPT Activity"
-                        ],
-                        "M&E": [
-                            "Management and Economics",
-                            "Shrinivas N.T"
-                        ],
-                        "DME-I": [
-                            "Design of Machine Elements - I",
-                            "Dr.Basukumar H K"
-                        ],
-                        "DOM": [
-                            "Dynamics of Machines",
-                            "Dr. Anand S.Reddy"
-                        ],
-                        "TM": [
-                            "Turbo Machines",
-                            "Manjunath.G.Prasad"
-                        ],
-                        "FPE": [
-                            "Fluid Power Engineering",
-                            "Pradeep.S.G"
-                        ],
-                        "OM": [
-                            "Operations Management",
-                            "Shridhar.H.B"
-                        ],
-                        "FM B1/EC B2 LAB": [
-                            "FM /EC  LAB",
-                            "Pradeep.S.G/Veeresh,G.Gunjalli"
-                        ],
-                        "FM B2/EC B1 LAB": [
-                            "FM /EC  LAB",
-                            "Pradeep.S.G/Veeresh,G.Gunjalli"
-                        ],
-                        "ES": [
-                            "Environmental Studies",
-                            "Sujay K"
-                        ],
-                        "TEA BREAK": [
-                            "TEA BREAK",
-                            "TEA BREAK"
-                        ],
-                        "L U N C H": [
-                            "L U N C H",
-                            "L U N C H"
-                        ],
-                        "ASSOCIATION ACTIVITY": [
-                            "ASSOCIATION ACTIVITY",
-                            "ASSOCIATION ACTIVITY"
-                        ],
-                        "Tutorial": [
-                            "Tutorial",
-                            "Tutorial"
-                        ],
-                        "Shrinivas N.T": [
-                            "Shrinivas N.T",
-                            "Shrinivas N.T"
-                        ]
-                    }
-                },
-                "MEC5SEMB": {
-                    "LH": "",
-                    "MON": {
-                        "08:30": "TM",
-                        "09:30": "DME-I",
-                        "10:30": "TEA BREAK",
-                        "11:00": "DOM",
-                        "12:00": "M&E",
-                        "13:00": "LUNCH",
-                        "13:30": "FPE",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "TUE": {
-                        "08:30": "FPE",
-                        "09:30": "M&E",
-                        "10:30": "TEA BREAK",
-                        "11:00": "OM",
-                        "12:00": "DME-I",
-                        "13:00": "LUNCH",
-                        "13:30": "TM",
-                        "14:30": "Tutorial",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "WED": {
-                        "08:30": "Not_Entered",
-                        "09:30": "OM",
-                        "10:30": "TEA BREAK",
-                        "11:00": "FPE",
-                        "12:00": "M&E",
-                        "13:00": "LUNCH",
-                        "13:30": "DOM",
-                        "14:30": "ASSOCIATION ACTIVITY",
-                        "15:30": "ASSOCIATION ACTIVITY",
-                        "16:30": "ASSOCIATION ACTIVITY"
-                    },
-                    "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "DME-I",
-                        "10:30": "TEA BREAK",
-                        "11:00": "OM",
-                        "12:00": "DOM",
-                        "13:00": "LUNCH",
-                        "13:30": "M&E",
-                        "14:30": "FM B1/EC B2 LAB",
-                        "15:30": "FM B1/EC B2 LAB",
-                        "16:30": "ES"
-                    },
-                    "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "TEA BREAK",
-                        "11:00": "DME-I",
-                        "12:00": "TM",
-                        "13:00": "LUNCH",
-                        "13:30": "OM",
-                        "14:30": "FM B2/EC B1 LAB",
-                        "15:30": "FM B2/EC B1 LAB",
-                        "16:30": "FM B2/EC B1 LAB"
-                    },
-                    "SAT": {
-                        "08:30": "Not_Entered",
-                        "09:30": "TM",
-                        "10:30": "TEA BREAK",
-                        "11:00": "DOM",
-                        "12:00": "FPE",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "Extra Classes": [
-                            "Extra Classes",
-                            "Extra Classes"
-                        ],
-                        "Mentorship": [
-                            "Mentorship",
-                            "Mentorship"
-                        ],
-                        "DEPT Activity": [
-                            "DEPT Activity",
-                            "DEPT Activity"
-                        ],
-                        "M&E": [
-                            "Management and Economics",
-                            "Shrinivas N.T"
-                        ],
-                        "DME-I": [
-                            "Design of Machine Elements - I",
-                            "Dr. Basukumar H K"
-                        ],
-                        "DOM": [
-                            "Dynamics of Machines",
-                            "Dr. Anand S.Reddy"
-                        ],
-                        "TM": [
-                            "Turbo Machines",
-                            "Sushruth.S.H"
-                        ],
-                        "FPE": [
-                            "Fluid Power Engineering",
-                            "Sucheet.M.G"
-                        ],
-                        "OM": [
-                            "Operations Management",
-                            "Shridhar.H.B"
-                        ],
-                        "FM B1/EC B2 LAB": [
-                            "FM /EC  LAB",
-                            "Sucheet.M.G/Sushruth.S.H"
-                        ],
-                        "FM B2/EC B1 LAB": [
-                            "FM /EC  LAB",
-                            "Sucheet.M.G/Sushruth.S.H"
-                        ],
-                        "ES": [
-                            "Environmental Studies",
-                            "Sujay K"
-                        ],
-                        "TEA BREAK": [
-                            "TEA BREAK",
-                            "TEA BREAK"
-                        ],
-                        "L U N C H": [
-                            "L U N C H",
-                            "L U N C H"
-                        ],
-                        "Tutorial": [
-                            "Tutorial",
-                            "Tutorial"
-                        ],
-                        "ASSOCIATION ACTIVITY": [
-                            "ASSOCIATION ACTIVITY",
-                            "ASSOCIATION ACTIVITY"
-                        ],
-                        "Shridhar.H.B": [
-                            "Shridhar.H.B",
-                            "Shridhar.H.B"
-                        ]
-                    }
-                }
-            },
-            "MEC7SEM": {
-                "MEC7SEMA": {
-                    "LH": "CVCL202(ME-LH-5)",
-                    "MON": {
-                        "08:30": "Not_Entered",
-                        "09:30": "CE",
-                        "10:30": "TEA BREAK",
-                        "11:00": "AM/MECH",
-                        "12:00": "EE /AE",
-                        "13:00": "LUNCH",
-                        "13:30": "OR/TQM",
-                        "14:30": "DESIGN B1/CIM B2",
-                        "15:30": "DESIGN B1/CIM B2",
-                        "16:30": "DESIGN B1/CIM B2"
-                    },
-                    "TUE": {
-                        "08:30": "Not_Entered",
-                        "09:30": "CADM",
-                        "10:30": "TEA BREAK",
-                        "11:00": "CE",
-                        "12:00": "EE /AE",
-                        "13:00": "LUNCH",
-                        "13:30": "DESIGN B2/CIM B3",
-                        "14:30": "DESIGN B2/CIM B3",
-                        "15:30": "DESIGN B2/CIM B3",
-                        "16:30": "DESIGN B2/CIM B3"
-                    },
-                    "WED": {
-                        "08:30": "Not_Entered",
-                        "09:30": "OR/TQM",
-                        "10:30": "TEA BREAK",
-                        "11:00": "AM/MECH",
-                        "12:00": "EE /AE",
-                        "13:00": "LUNCH",
-                        "13:30": "DESIGN B3/CIM B1",
-                        "14:30": "DESIGN B3/CIM B1",
-                        "15:30": "ASSOSIATION ACTIVITY",
-                        "16:30": "ASSOSIATION ACTIVITY"
-                    },
-                    "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "AM/MECH",
-                        "10:30": "TEA BREAK",
-                        "11:00": "CADM",
-                        "12:00": "OR/TQM",
-                        "13:00": "LUNCH",
-                        "13:30": "Project Work",
-                        "14:30": "Project Work",
-                        "15:30": "Project Work",
-                        "16:30": "Project Work"
-                    },
-                    "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "CADM",
-                        "10:30": "TEA BREAK",
-                        "11:00": "OR/TQM",
-                        "12:00": "CE",
-                        "13:00": "LUNCH",
-                        "13:30": "Tutorial",
-                        "14:30": "Tutorial",
-                        "15:30": "Tutorial",
-                        "16:30": "Tutorial"
-                    },
-                    "SAT": {
-                        "08:30": "Not_Entered",
-                        "09:30": "CE",
-                        "10:30": "TEA BREAK",
-                        "11:00": "AM/MECH",
-                        "12:00": "CADM",
-                        "13:00": "LUNCH",
-                        "13:30": "Project Work",
-                        "14:30": "Project Work",
-                        "15:30": "Project Work",
-                        "16:30": "Project Work"
-                    },
-                    "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "Extra Classes": [
-                            "Extra Classes",
-                            "Extra Classes"
-                        ],
-                        "Mentorship": [
-                            "Mentorship",
-                            "Mentorship"
-                        ],
-                        "DEPT Activity": [
-                            "DEPT Activity",
-                            "DEPT Activity"
-                        ],
-                        "CE": [
-                            "Control Engineering",
-                            "Dr.S.C.Sajjan"
-                        ],
-                        "CADM": [
-                            "Computer Aided Design and manufacturing.",
-                            "Sushrut S. H"
-                        ],
-                        "OR/TQM": [
-                            "Operations Research/  Total quality management",
-                            "Veeresh.G.Gunjalli /Srinivas.N.T"
-                        ],
-                        "AM/MECH": [
-                            "Additive Manufacturing/ Mechatronics",
-                            "Anilkumar.C.K/ Veeresh.G.Gunjalli"
-                        ],
-                        "EE /AE": [
-                            "Energy and Environment/ Automotive Engineering",
-                            "Vishwanath Savadatti /Dr.V.R.Hiremath "
-                        ],
-                        "DESIGN B1/CIM B2": [
-                            "DESIGN /CIM ",
-                            "Basukumar H K/Vishwanath Savadatti"
-                        ],
-                        "DESIGN B2/CIM B3": [
-                            "DESIGN /CIM",
-                            "Basukumar H K/Vishwanath Savadatti"
-                        ],
-                        "DESIGN B3/CIM B1": [
-                            "DESIGN /CIM",
-                            "Basukumar H K/Vishwanath Savadatti"
-                        ],
-                        "TEA BREAK": [
-                            "TEA BREAK",
-                            "TEA BREAK"
-                        ],
-                        "L U N C H": [
-                            "L U N C H",
-                            "L U N C H"
-                        ],
-                        "ASSOSIATION ACTIVITY": [
-                            "ASSOSIATION ACTIVITY",
-                            "ASSOSIATION ACTIVITY"
-                        ],
-                        "Project Work": [
-                            "Project Work",
-                            "Project Work"
-                        ],
-                        "Tutorial": [
-                            "Tutorial",
-                            "Tutorial"
-                        ],
-                        "Dr.V.R.Hiremath": [
-                            "Dr.V.R.Hiremath",
-                            "Dr.V.R.Hiremath"
-                        ]
-                    }
-                },
-                "MEC7SEMB": {
-                    "LH": "CVCL203(ME-LH-4)",
-                    "MON": {
-                        "08:30": "Not_Entered",
-                        "09:30": "CADM",
-                        "10:30": "TEA BREAK",
-                        "11:00": "AM/MECH",
-                        "12:00": "EE /AE",
-                        "13:00": "LUNCH",
-                        "13:30": "OR/TQM",
-                        "14:30": "Project Work",
-                        "15:30": "Project Work",
-                        "16:30": "Project Work"
-                    },
-                    "TUE": {
-                        "08:30": "Not_Entered",
-                        "09:30": "CE",
-                        "10:30": "TEA BREAK",
-                        "11:00": "CADM",
-                        "12:00": "EE /AE",
-                        "13:00": "LUNCH",
-                        "13:30": "Project Work",
-                        "14:30": "Project Work",
-                        "15:30": "Project Work",
-                        "16:30": "Project Work"
-                    },
-                    "WED": {
-                        "08:30": "Not_Entered",
-                        "09:30": "OR/TQM",
-                        "10:30": "TEA BREAK",
-                        "11:00": "AM/MECH",
-                        "12:00": "EE /AE",
-                        "13:00": "LUNCH",
-                        "13:30": "Tutorial",
-                        "14:30": "Tutorial",
-                        "15:30": "ASSOSIATION ACTIVITY",
-                        "16:30": "ASSOSIATION ACTIVITY"
-                    },
-                    "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "AM/MECH",
-                        "10:30": "TEA BREAK",
-                        "11:00": "CE",
-                        "12:00": "OR/TQM",
-                        "13:00": "LUNCH",
-                        "13:30": "DESIGN B1/CIM B2",
-                        "14:30": "DESIGN B1/CIM B2",
-                        "15:30": "DESIGN B1/CIM B2",
-                        "16:30": "Not_Entered"
-                    },
-                    "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "CE",
-                        "10:30": "TEA BREAK",
-                        "11:00": "OR/TQM",
-                        "12:00": "CADM",
-                        "13:00": "LUNCH",
-                        "13:30": "DESIGN B2/CIM B3",
-                        "14:30": "DESIGN B2/CIM B3",
-                        "15:30": "DESIGN B2/CIM B3",
-                        "16:30": "Not_Entered"
-                    },
-                    "SAT": {
-                        "08:30": "Not_Entered",
-                        "09:30": "CADM",
-                        "10:30": "TEA BREAK",
-                        "11:00": "AM/MECH",
-                        "12:00": "CE",
-                        "13:00": "LUNCH",
-                        "13:30": " DESIGN B3/CIM B1",
-                        "14:30": " DESIGN B3/CIM B1",
-                        "15:30": " DESIGN B3/CIM B1",
-                        "16:30": "Not_Entered"
-                    },
-                    "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "Extra Classes": [
-                            "Extra Classes",
-                            "Extra Classes"
-                        ],
-                        "Mentorship": [
-                            "Mentorship",
-                            "Mentorship"
-                        ],
-                        "DEPT Activity": [
-                            "DEPT Activity",
-                            "DEPT Activity"
-                        ],
-                        "CE": [
-                            "Control Engineering",
-                            "Dr.S.C.Sajjan"
-                        ],
-                        "CADM": [
-                            "Computer Aided Design and manufacturing.",
-                            "Vishwanath Savadatti"
-                        ],
-                        "OR/TQM": [
-                            "Operations Research/  Total quality management",
-                            "Veeresh.G.Gunjalli/ Srinivas.N.T"
-                        ],
-                        "AM/MECH": [
-                            "Additive Manufacturing/ Mechatronics",
-                            "Anilkumar.C.K/ Veeresh.G.Gunjalli"
-                        ],
-                        "EE /AE": [
-                            "Energy and Environment/ Automotive Engineering",
-                            "Vishwanath Savadatti /Dr.V.R.Hiremath "
-                        ],
-                        "DESIGN B1/CIM B2": [
-                            "DESIGN /CIM ",
-                            "Dr.A.S.Reddy/Anilkumar.C.K"
-                        ],
-                        "DESIGN B2/CIM B3": [
-                            "DESIGN /CIM ",
-                            "Dr.A.S.Reddy/Anilkumar.C.K"
-                        ],
-                        " DESIGN B3/CIM B1": [
-                            "DESIGN /CIM ",
-                            "Dr.A.S.Reddy/Anilkumar.C.K"
-                        ],
-                        "TEA BREAK": [
-                            "TEA BREAK",
-                            "TEA BREAK"
-                        ],
-                        "L U N C H": [
-                            "L U N C H",
-                            "L U N C H"
-                        ],
-                        "Project Work": [
-                            "Project Work",
-                            "Project Work"
-                        ],
-                        "Tutorial": [
-                            "Tutorial",
-                            "Tutorial"
-                        ],
-                        "ASSOSIATION ACTIVITY": [
-                            "ASSOSIATION ACTIVITY",
-                            "ASSOSIATION ACTIVITY"
-                        ],
-                        "Anilkumar.C.K": [
-                            "Anilkumar.C.K",
-                            "Anilkumar.C.K"
+                            "MCFJ B1 LAB",
+                            "MCFJ B1 LAB"
+                        ],
+                        "MINI PROJECT": [
+                            "MINI PROJECT",
+                            "MINI PROJECT"
+                        ],
+                        "MSE  B1 LAB": [
+                            "MSE  B1 LAB",
+                            "MSE  B1 LAB"
                         ]
                     }
                 }
             }
         },
         "ECE": {
-            "ECE7SEM": {
-                "ECE7SEMA": {
-                    "LH": "EC LH2",
-                    "MON": {
-                        "08:30": "Not_Entered",
-                        "09:30": "PE3",
-                        "10:30": "Not_Entered",
-                        "11:00": "PE2",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "CCNLAB/VLSILAB",
-                        "14:30": "CCNLAB/VLSILAB",
-                        "15:30": "CCNLAB/VLSILAB",
-                        "16:30": "Not_Entered"
-                    },
-                    "TUE": {
-                        "08:30": "Not_Entered",
-                        "09:30": "PE2",
-                        "10:30": "Not_Entered",
-                        "11:00": "PE3",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "CCNLAB/VLSILAB",
-                        "14:30": "CCNLAB/VLSILAB",
-                        "15:30": "CCNLAB/VLSILAB",
-                        "16:30": "Not_Entered"
-                    },
-                    "WED": {
-                        "08:30": "Not_Entered",
-                        "09:30": "PE2",
-                        "10:30": "Not_Entered",
-                        "11:00": "VLSI",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "CCNLAB/VLSILAB",
-                        "14:30": "CCNLAB/VLSILAB",
-                        "15:30": "CCNLAB/VLSILAB",
-                        "16:30": "Not_Entered"
-                    },
-                    "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "PE3",
-                        "10:30": "Not_Entered",
-                        "11:00": "CCN",
-                        "12:00": "PE2",
-                        "13:00": "Not_Entered",
-                        "13:30": "VLSI",
-                        "14:30": "PWP",
-                        "15:30": "PWP",
-                        "16:30": "PWP"
-                    },
-                    "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "VLSI",
-                        "10:30": "Not_Entered",
-                        "11:00": "PE3",
-                        "12:00": "CCN",
-                        "13:00": "Not_Entered",
-                        "13:30": "CCN",
-                        "14:30": "PWP",
-                        "15:30": "PWP",
-                        "16:30": "PWP"
-                    },
-                    "SAT": {
-                        "08:30": "Not_Entered",
-                        "09:30": "CCN",
-                        "10:30": "Not_Entered",
-                        "11:00": "VLSI",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "CCN": [
-                            "Computer Communication Networks",
-                            "Mr. SanthoshH.S."
-                        ],
-                        "VLSI": [
-                            "Very Large-Scale Integration",
-                            "Mr. Rakesh H. M."
-                        ],
-                        "PE2": [
-                            "Real Time Systems/Satellite Communication",
-                            "Mrs. Aishwarya G. P./Mr. Chetan S."
-                        ],
-                        "PE3": [
-                            "IOT and Wireless Sensor Networks/Automotive Electronics",
-                            "Ms. Supriya P./Mr. Kotresh B. K."
-                        ],
-                        "CCNLAB/VLSILAB": [
-                            "Computer Communication Networks Lab/VLSI Lab",
-                            "Dr. Ashish Patil/New Faculty"
-                        ],
-                        "PWP": [
-                            "Project Work Phase\u2013I",
-                            "Dr. R L Itagi"
-                        ],
-                        "S1": [
-                            "Seminar",
-                            "Dr. Ashish Patil"
-                        ]
-                    }
-                },
-                "ECE7SEMB": {
-                    "LH": "EC LH3",
-                    "MON": {
-                        "08:30": "Not_Entered",
-                        "09:30": "PE3",
-                        "10:30": "Not_Entered",
-                        "11:00": "PE2",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "CCN",
-                        "14:30": "VLSI",
-                        "15:30": "PWP",
-                        "16:30": "PWP"
-                    },
-                    "TUE": {
-                        "08:30": "Not_Entered",
-                        "09:30": "PE2",
-                        "10:30": "Not_Entered",
-                        "11:00": "PE3",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "VLSI",
-                        "14:30": "CCN",
-                        "15:30": "PWP",
-                        "16:30": "PWP"
-                    },
-                    "WED": {
-                        "08:30": "Not_Entered",
-                        "09:30": "PE2",
-                        "10:30": "Not_Entered",
-                        "11:00": "CCN",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "PWP",
-                        "14:30": "PWP",
-                        "15:30": "PWP",
-                        "16:30": "Not_Entered"
-                    },
-                    "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "PE3",
-                        "10:30": "Not_Entered",
-                        "11:00": "VLSI",
-                        "12:00": "PE2",
-                        "13:00": "Not_Entered",
-                        "13:30": "CCLLAB/VLSILAB",
-                        "14:30": "CCLLAB/VLSILAB",
-                        "15:30": "CCLLAB/VLSILAB",
-                        "16:30": "Not_Entered"
-                    },
-                    "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "CCN",
-                        "10:30": "Not_Entered",
-                        "11:00": "PE3",
-                        "12:00": "VLSI",
-                        "13:00": "Not_Entered",
-                        "13:30": "CCLLAB/VLSILAB",
-                        "14:30": "CCLLAB/VLSILAB",
-                        "15:30": "CCLLAB/VLSILAB",
-                        "16:30": "Not_Entered"
-                    },
-                    "SAT": {
-                        "08:30": "Not_Entered",
-                        "09:30": "CCLLAB/VLSILAB",
-                        "10:30": "Not_Entered",
-                        "11:00": "CCLLAB/VLSILAB",
-                        "12:00": "CCLLAB/VLSILAB",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
-                    },
-                    "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "CCN": [
-                            "Computer Communication Networks",
-                            "Mr.Santhosh H.S."
-                        ],
-                        "VLSI": [
-                            "Very Large Scale Integration",
-                            "Mr. Rakesh H. M."
-                        ],
-                        "PE2": [
-                            "Real Time Systems/Satellite Communication",
-                            "Mrs. Aishwarya G. P./Mr. Chetan S."
-                        ],
-                        "PE3": [
-                            "IOT and Wireless Sensor Networks/Automotive Electronics",
-                            "Ms. Supriya P/Mr. Kotresh B. K."
-                        ],
-                        "CCLLAB/VLSILAB": [
-                            "Computer Communication Networks Lab/VLSI Lab",
-                            "Mr. Chetan S./Mr.  Rakesh H. M."
-                        ],
-                        "PWP": [
-                            "Project Work Phase\u2013I ",
-                            "Dr. R L Itagi"
-                        ],
-                        "S-1": [
-                            "Seminar",
-                            "Dr. Ashish Patil"
-                        ]
-                    }
-                }
-            }
         },
         "EEE": {
-            "EEE5SEM": {
-                "EEE5SEMA": {
+            "EEE8SEM": {
+                "EEE8SEMA": {
                     "LH": "",
                     "MON": {
                         "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "BREAK",
-                        "11:00": "S&S",
-                        "12:00": "MC",
-                        "13:00": "LUNCH",
-                        "13:30": "EMD",
-                        "14:30": "M&E",
-                        "15:30": "PE",
-                        "16:30": "HVE"
+                        "09:30": "PSOC",
+                        "10:30": "Not_Entered",
+                        "11:00": "18EE822 ",
+                        "12:00": "PP II",
+                        "13:00": "Not_Entered",
+                        "13:30": "PP II",
+                        "14:30": "PP II",
+                        "15:30": "PP II",
+                        "16:30": "Not_Entered"
                     },
                     "TUE": {
                         "08:30": "Not_Entered",
-                        "09:30": "MC Lab/PE Lab",
-                        "10:30": "BREAK",
-                        "11:00": "MC Lab/PE Lab",
-                        "12:00": "MC Lab/PE Lab",
-                        "13:00": "LUNCH",
-                        "13:30": "PE",
-                        "14:30": "S&S",
-                        "15:30": "MC",
-                        "16:30": "M&E"
+                        "09:30": "18EE822 ",
+                        "10:30": "Not_Entered",
+                        "11:00": "PSOC",
+                        "12:00": "PP II",
+                        "13:00": "Not_Entered",
+                        "13:30": "PP II",
+                        "14:30": "PP II",
+                        "15:30": "PP II",
+                        "16:30": "Not_Entered"
                     },
                     "WED": {
                         "08:30": "Not_Entered",
-                        "09:30": "MC Lab/PE Lab",
-                        "10:30": "BREAK",
-                        "11:00": "MC Lab/PE Lab",
-                        "12:00": "MC Lab/PE Lab",
-                        "13:00": "LUNCH",
-                        "13:30": "PE",
-                        "14:30": "S&S",
-                        "15:30": "MC",
-                        "16:30": "M&E"
+                        "09:30": "PSOC",
+                        "10:30": "Not_Entered",
+                        "11:00": "PP II",
+                        "12:00": "PP II",
+                        "13:00": "Not_Entered",
+                        "13:30": "PP II",
+                        "14:30": "PP II",
+                        "15:30": "PP II",
+                        "16:30": "Not_Entered"
                     },
                     "THU": {
-                        "08:30": "EMD",
-                        "09:30": "PE",
-                        "10:30": "BREAK",
-                        "11:00": "HVE",
-                        "12:00": "S&S",
-                        "13:00": "LUNCH",
-                        "13:30": "MC Lab/PE Lab",
-                        "14:30": "MC Lab/PE Lab",
-                        "15:30": "MC Lab/PE Lab",
-                        "16:30": "MC Lab/PE Lab"
+                        "08:30": "Not_Entered",
+                        "09:30": "PSOC",
+                        "10:30": "Not_Entered",
+                        "11:00": "Seminar",
+                        "12:00": "Not_Entered",
+                        "13:00": "PP II",
+                        "13:30": "PP II",
+                        "14:30": "PP II",
+                        "15:30": "PP II",
+                        "16:30": "Not_Entered"
                     },
                     "FRI": {
                         "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "09:30": "18EE822 ",
                         "10:30": "Not_Entered",
-                        "11:00": "PE",
-                        "12:00": "MC",
-                        "13:00": "LUNCH",
-                        "13:30": "M&E",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
+                        "11:00": "Seminar",
+                        "12:00": "PP II",
+                        "13:00": "PP II",
+                        "13:30": "PP II",
+                        "14:30": "PP II",
+                        "15:30": "PP II",
                         "16:30": "Not_Entered"
                     },
                     "SAT": {
-                        "08:30": "S&S",
-                        "09:30": "PE",
-                        "10:30": "MC",
-                        "11:00": "EMD",
+                        "08:30": "18EE822 ",
+                        "09:30": "Seminar",
+                        "10:30": "Not_Entered",
+                        "11:00": "Seminar",
                         "12:00": "Not_Entered",
                         "13:00": "Not_Entered",
                         "13:30": "Not_Entered",
@@ -1882,110 +839,94 @@
                             "LUNCH",
                             "LUNCH"
                         ],
-                        "M&E": [
-                            "Management and entrepreneurship",
+                        "PSOC": [
+                            "Power System operation & Control ",
                             "Mr.Mallikarjun G. H."
                         ],
-                        "MC": [
-                            "Microcontroller",
-                            "Dr.Kumarswamy.V"
+                        "18EE822 ": [
+                            "Electrical Estimation & Costing",
+                            "Mr.Keertikumar "
                         ],
-                        "PE": [
-                            "Power Electronics",
-                            "Mr. Prakash M.N."
+                        "PP II": [
+                            "Project Phase II. ",
+                            "Mr. Prakash M.N"
                         ],
-                        "S&S": [
-                            "Signals and Systems",
-                            "Mrs. Sarita U."
-                        ],
-                        "EMD": [
-                            "Electrical Machine Design ",
-                            "Dr.Prakash Kerur"
-                        ],
-                        "HVE": [
-                            "High Voltage Engineering ",
-                            "Dr. Vinoda S."
-                        ],
-                        "MC Lab/PE Lab": [
-                            "Microcontroller Laboratory/Power Electronics Laboratory",
-                            "Dr. Kumarswamy.V/Mr. Prakash M.N."
-                        ],
-                        "EVS": [
-                            "Environmental Studies",
-                            "Sujay K"
+                        "Seminar": [
+                            "Seminar",
+                            "Mr.Manjunath R."
                         ]
                     }
                 }
             },
-            "EEE7SEM": {
-                "EEE7SEMA": {
+            "EEE3SEM": {
+                "EEE3SEMLE": {
                     "LH": "",
                     "MON": {
-                        "08:30": "AIT",
-                        "09:30": "PSA-II",
-                        "10:30": "BREAK",
-                        "11:00": "PSP",
-                        "12:00": "EV/EECA",
-                        "13:00": "LUNCH",
-                        "13:30": "Not_Entered",
-                        "14:30": "Pro Ph-I",
-                        "15:30": "Pro Ph-I",
-                        "16:30": "Pro Ph-I"
+                        "08:30": "Not_Entered",
+                        "09:30": "MAT",
+                        "10:30": "Not_Entered",
+                        "11:00": "AEC & Opamp",
+                        "12:00": "T&G",
+                        "13:00": "Not_Entered",
+                        "13:30": "ECA",
+                        "14:30": "Additional Mathematics - I",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
                     },
                     "TUE": {
-                        "08:30": "PSA-II",
-                        "09:30": "PSP",
-                        "10:30": "BREAK",
-                        "11:00": "AIT",
-                        "12:00": "EV/EECA",
-                        "13:00": "LUNCH",
-                        "13:30": "SWE/MST",
-                        "14:30": "Not_Entered",
+                        "08:30": "Not_Entered",
+                        "09:30": "Not_Entered",
+                        "10:30": "Not_Entered",
+                        "11:00": "T&G",
+                        "12:00": "ECA",
+                        "13:00": "Not_Entered",
+                        "13:30": "AEC & Opamp",
+                        "14:30": "Additional Mathematics - I",
                         "15:30": "Not_Entered",
                         "16:30": "Not_Entered"
                     },
                     "WED": {
                         "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "09:30": "ECA",
                         "10:30": "Not_Entered",
-                        "11:00": "PSA-II",
-                        "12:00": "EV/EECA",
-                        "13:00": "LUNCH",
-                        "13:30": "PSS Lab/HV  Lab",
-                        "14:30": "PSS Lab/HV  Lab",
-                        "15:30": "PSS Lab/HV  Lab",
-                        "16:30": "PSS Lab/HV  Lab"
+                        "11:00": "T&G",
+                        "12:00": "AEC & Opamp",
+                        "13:00": "Not_Entered",
+                        "13:30": "EM-1",
+                        "14:30": "Additional Mathematics - I",
+                        "15:30": "Not_Entered",
+                        "16:30": "Not_Entered"
                     },
                     "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "PSS Lab/HV  Lab",
-                        "10:30": "BREAK",
-                        "11:00": "PSS Lab/HV  Lab",
-                        "12:00": "PSS Lab/HV  Lab",
-                        "13:00": "LUNCH",
-                        "13:30": "PSP",
-                        "14:30": "AIT",
-                        "15:30": "SWE/MST",
-                        "16:30": "SWE/MST"
+                        "08:30": "MAT",
+                        "09:30": "T&G",
+                        "10:30": "Not_Entered",
+                        "11:00": "ECA",
+                        "12:00": "AEC & Opamp",
+                        "13:00": "Not_Entered",
+                        "13:30": "AEC-III",
+                        "14:30": "AEC-III",
+                        "15:30": "UHV",
+                        "16:30": "Not_Entered"
                     },
                     "FRI": {
                         "08:30": "Not_Entered",
-                        "09:30": "PSS Lab/HV  Lab",
-                        "10:30": "BREAK",
-                        "11:00": "PSS Lab/HV  Lab",
-                        "12:00": "PSS Lab/HV  Lab",
-                        "13:00": "BREAK",
-                        "13:30": "AIT",
+                        "09:30": "Not_Entered",
+                        "10:30": "Not_Entered",
+                        "11:00": "T&G",
+                        "12:00": "ECA",
+                        "13:00": "MAT",
+                        "13:30": "EM-1",
                         "14:30": "Not_Entered",
                         "15:30": "Not_Entered",
                         "16:30": "Not_Entered"
                     },
                     "SAT": {
                         "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "09:30": "ECA",
                         "10:30": "Not_Entered",
-                        "11:00": "PSA-II",
-                        "12:00": "SWE/MST",
+                        "11:00": "AEC & Opamp",
+                        "12:00": "Not_Entered",
                         "13:00": "Not_Entered",
                         "13:30": "Not_Entered",
                         "14:30": "Not_Entered",
@@ -2005,33 +946,37 @@
                             "LUNCH",
                             "LUNCH"
                         ],
-                        "PSA-II": [
-                            "Power System Analysis - 2 ",
-                            "Mr.Mallikarjun G. H."
+                        "MAT": [
+                            "Transform Calculus,Fourier series & Numerical Techniques_MAT",
+                            "VGH&VTH"
                         ],
-                        "PSP": [
-                            "Power System Protection ",
+                        "AEC & Opamp": [
+                            "Analog Electronic Circuits & Opamps_AEC & Opamp",
                             "Dr.Prakash Kerur"
                         ],
-                        "SWE/MST": [
-                            "Solar and Wind Energy /Micro and Nano Scale Sensors and Transducers. ",
-                            "Mr. Prakash M.N./Mrs. Sarita U."
+                        "ECA": [
+                            "Electric Cicuit Analysis_ECA",
+                            "Dr.Kumarswamy V"
                         ],
-                        "AIT": [
-                            "AI Techniques for Electrical and hybrid Electric Vehicles",
-                            "Mr.Manjunath R."
+                        "T&G": [
+                            "Transformers & Generators_T&G",
+                            "V M Soppimath"
                         ],
-                        "EV/EECA": [
-                            "Electric Vehicles/Electrical Energy Conservation and Auditing ",
-                            "Dr. Vinoda S./Mr. V.M. Soppimath"
+                        "EM-1": [
+                            "Electrical Machines Laboratory -1_EM-1",
+                            "V M Soppimath "
                         ],
-                        "PSS Lab/HV  Lab": [
-                            "Power system Simulation  Laboratory  /Relay and HV  Laboratory",
-                            "Mr. Mallikarjun G. H./Dr.Prakash Kerur"
+                        "UHV": [
+                            "Social Connect & Responsibility_UHV",
+                            "Dr.Prakash Kerur"
                         ],
-                        "Pro Ph-I": [
-                            "Project Phase \u2013 I ",
-                            "Mr. Prakash M.N."
+                        "AEC-III": [
+                            "Ability Enhancement Course-III_AEC-III",
+                            "Mrs.Sarita U."
+                        ],
+                        "Additional Mathematics - I": [
+                            "Additional Mathematics - I_MATDIP",
+                            "BRH"
                         ]
                     }
                 }
