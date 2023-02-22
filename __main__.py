@@ -10,9 +10,9 @@ st.set_page_config(layout="wide")
 st.markdown(""" <style> div.stButton > button:first-child {background-color: #7aa19a;margin-left:40%;color:white;font-size:30px;height:3em;width:25%;border-radius:10px 10px10px 10px;}""", unsafe_allow_html=True)
 st.markdown("""<style> .big-font { font-size:18px !important; color: red} </style>""", unsafe_allow_html=True)
 
-subjectCode = ['Not_Entered','BREAK','LUNCH',]
-subjectName= ['Not_Entered','BREAK','LUNCH',]
-facultyName = ['Not_Entered','BREAK','LUNCH',]
+subjectCode = ['No_Class','BREAK','LUNCH',]
+subjectName= ['No_Class','BREAK','LUNCH',]
+facultyName = ['No_Class','BREAK','LUNCH',]
 days = []
 monday = {}
 tuesday = {}
@@ -226,9 +226,9 @@ def innerOptionMenu(sections):
   return selected_tab
 
 def clearAllVariables():
-  subjectCode = ['Not_Entered','BREAK','LUNCH',]
-  subjectName= ['Not_Entered','BREAK','LUNCH',]
-  facultyName = ['Not_Entered','BREAK','LUNCH',]
+  subjectCode = ['No_Class','BREAK','LUNCH',]
+  subjectName= ['No_Class','BREAK','LUNCH',]
+  facultyName = ['No_Class','BREAK','LUNCH',]
   days = []
   monday = {}
   tuesday = {}

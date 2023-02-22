@@ -5,52 +5,52 @@
                 "CSE8SEMA": {
                     "LH": "LH1",
                     "MON": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "Not_Entered",
-                        "11:00": "Not_Entered",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "08:30": "No Class",
+                        "09:30": "No Class",
+                        "10:30": "No Class",
+                        "11:00": "No Class",
+                        "12:00": "No Class",
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "TUE": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "Not_Entered",
-                        "11:00": "Not_Entered",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "08:30": "No Class",
+                        "09:30": "No Class",
+                        "10:30": "No Class",
+                        "11:00": "No Class",
+                        "12:00": "No Class",
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "WED": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "Not_Entered",
-                        "11:00": "Not_Entered",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "08:30": "No Class",
+                        "09:30": "No Class",
+                        "10:30": "No Class",
+                        "11:00": "No Class",
+                        "12:00": "No Class",
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "Not_Entered",
-                        "11:00": "Not_Entered",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "08:30": "No Class",
+                        "09:30": "No Class",
+                        "10:30": "No Class",
+                        "11:00": "No Class",
+                        "12:00": "No Class",
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "FRI": {
                         "08:30": "SAN / NoSQL",
@@ -58,11 +58,11 @@
                         "10:30": "BREAK",
                         "11:00": "IOT",
                         "12:00": "IOT",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "SAT": {
                         "08:30": "SAN / NoSQL",
@@ -70,16 +70,16 @@
                         "10:30": "BREAK",
                         "11:00": "SAN / NoSQL",
                         "12:00": "IOT",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
+                        "No Class": [
+                            "No Class",
+                            "No Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -114,52 +114,52 @@
                 "CSE8SEMB": {
                     "LH": "LH2",
                     "MON": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "Not_Entered",
-                        "11:00": "Not_Entered",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "08:30": "No Class",
+                        "09:30": "No Class",
+                        "10:30": "No Class",
+                        "11:00": "No Class",
+                        "12:00": "No Class",
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "TUE": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "Not_Entered",
-                        "11:00": "Not_Entered",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "08:30": "No Class",
+                        "09:30": "No Class",
+                        "10:30": "No Class",
+                        "11:00": "No Class",
+                        "12:00": "No Class",
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "WED": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "Not_Entered",
-                        "11:00": "Not_Entered",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "08:30": "No Class",
+                        "09:30": "No Class",
+                        "10:30": "No Class",
+                        "11:00": "No Class",
+                        "12:00": "No Class",
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "Not_Entered",
-                        "11:00": "Not_Entered",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "08:30": "No Class",
+                        "09:30": "No Class",
+                        "10:30": "No Class",
+                        "11:00": "No Class",
+                        "12:00": "No Class",
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "FRI": {
                         "08:30": "SAN/NoSQL",
@@ -168,10 +168,10 @@
                         "11:00": "IOT",
                         "12:00": "IOT",
                         "13:00": "LUNCH",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "SAT": {
                         "08:30": "SAN/NoSQL",
@@ -180,15 +180,15 @@
                         "11:00": "SAN/NoSQL",
                         "12:00": "IOT",
                         "13:00": "LUNCH",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
+                        "No Class": [
+                            "No Class",
+                            "No Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -227,81 +227,81 @@
                 "MEC8SEMA": {
                     "LH": "CVCL202(ME LH-5)",
                     "MON": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "EE",
                         "10:30": "TEA  BREAK",
                         "11:00": "CMT/ AE",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "12:00": "No Class",
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "TUE": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "EE",
                         "10:30": "TEA  BREAK",
                         "11:00": "CMT/ AE",
-                        "12:00": "Not_Entered",
+                        "12:00": "No Class",
                         "13:00": "LUNCH",
                         "13:30": "PROJECT WORK",
                         "14:30": "PROJECT WORK",
                         "15:30": "PROJECT WORK",
-                        "16:30": "Not_Entered"
+                        "16:30": "No Class"
                     },
                     "WED": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "08:30": "No Class",
+                        "09:30": "No Class",
                         "10:30": "TEA  BREAK",
                         "11:00": "EE",
                         "12:00": "CMT/ AE",
                         "13:00": "L U N C H",
                         "13:30": "Association Activity",
                         "14:30": "Association Activity",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "08:30": "No Class",
+                        "09:30": "No Class",
                         "10:30": "TEA  BREAK",
                         "11:00": "EE",
                         "12:00": "CMT/ AE",
                         "13:00": "L U N C H",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "08:30": "No Class",
+                        "09:30": "No Class",
                         "10:30": "PROJECT WORK",
                         "11:00": "PROJECT WORK",
                         "12:00": "PROJECT WORK",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "SAT": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "08:30": "No Class",
+                        "09:30": "No Class",
                         "10:30": "PROJECT WORK",
                         "11:00": "PROJECT WORK",
                         "12:00": "PROJECT WORK",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
+                        "No Class": [
+                            "No Class",
+                            "No Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -340,81 +340,81 @@
                 "MEC8SEMB": {
                     "LH": "CVCL203(ME-LH-4)",
                     "MON": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "EE",
                         "10:30": "TEA  BREAK",
                         "11:00": "CMT/ AE ",
-                        "12:00": "Not_Entered",
+                        "12:00": "No Class",
                         "13:00": "L U N C H",
                         "13:30": "PROJECT WORK",
                         "14:30": "PROJECT WORK",
                         "15:30": "PROJECT WORK",
-                        "16:30": "Not_Entered"
+                        "16:30": "No Class"
                     },
                     "TUE": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "EE",
                         "10:30": "TEA  BREAK",
                         "11:00": "CMT/ AE ",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "12:00": "No Class",
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "WED": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "08:30": "No Class",
+                        "09:30": "No Class",
                         "10:30": "TEA  BREAK",
                         "11:00": "EE",
                         "12:00": "CMT/ AE ",
                         "13:00": "L U N C H",
                         "13:30": "Association Activity",
                         "14:30": "Association Activity",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "08:30": "No Class",
+                        "09:30": "No Class",
                         "10:30": "TEA  BREAK",
                         "11:00": "EE",
                         "12:00": "CMT/ AE ",
                         "13:00": "LUNCH",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "08:30": "No Class",
+                        "09:30": "No Class",
                         "10:30": "PROJECT WORK",
                         "11:00": "PROJECT WORK",
                         "12:00": "PROJECT WORK",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "SAT": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "08:30": "No Class",
+                        "09:30": "No Class",
                         "10:30": "PROJECT WORK",
                         "11:00": "PROJECT WORK",
                         "12:00": "PROJECT WORK",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
+                        "No Class": [
+                            "No Class",
+                            "No Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -475,8 +475,8 @@
                         "13:00": "LUNCH",
                         "13:30": "ASSOSIATION ACTIVITY",
                         "14:30": "ASSOSIATION ACTIVITY",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "WED": {
                         "08:30": "PYT B2 LAB",
@@ -488,11 +488,11 @@
                         "13:30": "M-III",
                         "14:30": "MCFJ",
                         "15:30": "Dip-Mat",
-                        "16:30": "Not_Entered"
+                        "16:30": "No Class"
                     },
                     "THU": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "08:30": "No Class",
+                        "09:30": "No Class",
                         "10:30": "BREAK",
                         "11:00": "MDGD&T B3 / MSE  B1/ MCFJ B2 LABMDGD&T B3 / MSE  B1/ MCFJ B2 LAB",
                         "12:00": "MDGD&T B3 / MSE  B1/ MCFJ B2 LABMDGD&T B3 / MSE  B1/ MCFJ B2 LAB",
@@ -500,7 +500,7 @@
                         "13:30": "TD",
                         "14:30": "MSE",
                         "15:30": "Dip-Mat",
-                        "16:30": "Not_Entered"
+                        "16:30": "No Class"
                     },
                     "FRI": {
                         "08:30": "CIP",
@@ -512,7 +512,7 @@
                         "13:30": "M-III",
                         "14:30": "MCFJ",
                         "15:30": "Dip-Mat",
-                        "16:30": "Not_Entered"
+                        "16:30": "No Class"
                     },
                     "SAT": {
                         "08:30": "CIP",
@@ -520,16 +520,16 @@
                         "10:30": "BREAK",
                         "11:00": "TD",
                         "12:00": "TD TUTORIAL",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
+                        "No Class": [
+                            "No Class",
+                            "No Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -609,14 +609,14 @@
                         "10:30": "BREAK",
                         "11:00": "PYTHON  B1 LAB",
                         "12:00": "PYTHON  B1 LAB",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "TUE": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "MDGD&T",
                         "10:30": "MDGD&T",
                         "11:00": "MDGD&T",
@@ -624,61 +624,61 @@
                         "13:00": "LUNCH",
                         "13:30": "ASSOSIATION ACTIVITY",
                         "14:30": "ASSOSIATION ACTIVITY",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "WED": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "08:30": "No Class",
+                        "09:30": "No Class",
                         "10:30": "BREAK",
                         "11:00": "TD",
                         "12:00": "TD",
                         "13:00": "LUNCH",
                         "13:30": "MCFJ B1 LAB",
                         "14:30": "MCFJ B1 LAB",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "THU": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "MSE",
                         "10:30": "BREAK",
                         "11:00": "MINI PROJECT",
                         "12:00": "MINI PROJECT",
                         "13:00": "LUNCH",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
+                        "08:30": "No Class",
+                        "09:30": "No Class",
                         "10:30": "BREAK",
                         "11:00": "MSE  B1 LAB",
                         "12:00": "MSE  B1 LAB",
                         "13:00": "LUNCH",
                         "13:30": "MINI PROJECT",
                         "14:30": "MINI PROJECT",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "SAT": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "MCFJ",
                         "10:30": "BREAK",
                         "11:00": "MINI PROJECT",
                         "12:00": "MINI PROJECT",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
+                        "No Class": [
+                            "No Class",
+                            "No Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -755,81 +755,81 @@
                 "EEE8SEMA": {
                     "LH": "",
                     "MON": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "PSOC",
-                        "10:30": "Not_Entered",
+                        "10:30": "No Class",
                         "11:00": "18EE822 ",
                         "12:00": "PP II",
-                        "13:00": "Not_Entered",
+                        "13:00": "No Class",
                         "13:30": "PP II",
                         "14:30": "PP II",
                         "15:30": "PP II",
-                        "16:30": "Not_Entered"
+                        "16:30": "No Class"
                     },
                     "TUE": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "18EE822 ",
-                        "10:30": "Not_Entered",
+                        "10:30": "No Class",
                         "11:00": "PSOC",
                         "12:00": "PP II",
-                        "13:00": "Not_Entered",
+                        "13:00": "No Class",
                         "13:30": "PP II",
                         "14:30": "PP II",
                         "15:30": "PP II",
-                        "16:30": "Not_Entered"
+                        "16:30": "No Class"
                     },
                     "WED": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "PSOC",
-                        "10:30": "Not_Entered",
+                        "10:30": "No Class",
                         "11:00": "PP II",
                         "12:00": "PP II",
-                        "13:00": "Not_Entered",
+                        "13:00": "No Class",
                         "13:30": "PP II",
                         "14:30": "PP II",
                         "15:30": "PP II",
-                        "16:30": "Not_Entered"
+                        "16:30": "No Class"
                     },
                     "THU": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "PSOC",
-                        "10:30": "Not_Entered",
+                        "10:30": "No Class",
                         "11:00": "Seminar",
-                        "12:00": "Not_Entered",
+                        "12:00": "No Class",
                         "13:00": "PP II",
                         "13:30": "PP II",
                         "14:30": "PP II",
                         "15:30": "PP II",
-                        "16:30": "Not_Entered"
+                        "16:30": "No Class"
                     },
                     "FRI": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "18EE822 ",
-                        "10:30": "Not_Entered",
+                        "10:30": "No Class",
                         "11:00": "Seminar",
                         "12:00": "PP II",
                         "13:00": "PP II",
                         "13:30": "PP II",
                         "14:30": "PP II",
                         "15:30": "PP II",
-                        "16:30": "Not_Entered"
+                        "16:30": "No Class"
                     },
                     "SAT": {
                         "08:30": "18EE822 ",
                         "09:30": "Seminar",
-                        "10:30": "Not_Entered",
+                        "10:30": "No Class",
                         "11:00": "Seminar",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "12:00": "No Class",
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
+                        "No Class": [
+                            "No Class",
+                            "No Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -862,81 +862,81 @@
                 "EEE3SEMLE": {
                     "LH": "",
                     "MON": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "MAT",
-                        "10:30": "Not_Entered",
+                        "10:30": "No Class",
                         "11:00": "AEC & Opamp",
                         "12:00": "T&G",
-                        "13:00": "Not_Entered",
+                        "13:00": "No Class",
                         "13:30": "ECA",
                         "14:30": "Additional Mathematics - I",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "TUE": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "Not_Entered",
+                        "08:30": "No Class",
+                        "09:30": "No Class",
+                        "10:30": "No Class",
                         "11:00": "T&G",
                         "12:00": "ECA",
-                        "13:00": "Not_Entered",
+                        "13:00": "No Class",
                         "13:30": "AEC & Opamp",
                         "14:30": "Additional Mathematics - I",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "WED": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "ECA",
-                        "10:30": "Not_Entered",
+                        "10:30": "No Class",
                         "11:00": "T&G",
                         "12:00": "AEC & Opamp",
-                        "13:00": "Not_Entered",
+                        "13:00": "No Class",
                         "13:30": "EM-1",
                         "14:30": "Additional Mathematics - I",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "THU": {
                         "08:30": "MAT",
                         "09:30": "T&G",
-                        "10:30": "Not_Entered",
+                        "10:30": "No Class",
                         "11:00": "ECA",
                         "12:00": "AEC & Opamp",
-                        "13:00": "Not_Entered",
+                        "13:00": "No Class",
                         "13:30": "AEC-III",
                         "14:30": "AEC-III",
                         "15:30": "UHV",
-                        "16:30": "Not_Entered"
+                        "16:30": "No Class"
                     },
                     "FRI": {
-                        "08:30": "Not_Entered",
-                        "09:30": "Not_Entered",
-                        "10:30": "Not_Entered",
+                        "08:30": "No Class",
+                        "09:30": "No Class",
+                        "10:30": "No Class",
                         "11:00": "T&G",
                         "12:00": "ECA",
                         "13:00": "MAT",
                         "13:30": "EM-1",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "SAT": {
-                        "08:30": "Not_Entered",
+                        "08:30": "No Class",
                         "09:30": "ECA",
-                        "10:30": "Not_Entered",
+                        "10:30": "No Class",
                         "11:00": "AEC & Opamp",
-                        "12:00": "Not_Entered",
-                        "13:00": "Not_Entered",
-                        "13:30": "Not_Entered",
-                        "14:30": "Not_Entered",
-                        "15:30": "Not_Entered",
-                        "16:30": "Not_Entered"
+                        "12:00": "No Class",
+                        "13:00": "No Class",
+                        "13:30": "No Class",
+                        "14:30": "No Class",
+                        "15:30": "No Class",
+                        "16:30": "No Class"
                     },
                     "FACULTY": {
-                        "Not_Entered": [
-                            "Not_Entered",
-                            "Not_Entered"
+                        "No Class": [
+                            "No Class",
+                            "No Class"
                         ],
                         "BREAK": [
                             "BREAK",
