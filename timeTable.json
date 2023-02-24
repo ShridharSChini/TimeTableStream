@@ -5,52 +5,52 @@
                 "CSE8SEMA": {
                     "LH": "LH1",
                     "MON": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
-                        "10:30": "No Class",
-                        "11:00": "No Class",
-                        "12:00": "No Class",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "TUE": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
-                        "10:30": "No Class",
-                        "11:00": "No Class",
-                        "12:00": "No Class",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "WED": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
-                        "10:30": "No Class",
-                        "11:00": "No Class",
-                        "12:00": "No Class",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "THU": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
-                        "10:30": "No Class",
-                        "11:00": "No Class",
-                        "12:00": "No Class",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FRI": {
                         "08:30": "SAN / NoSQL",
@@ -58,11 +58,11 @@
                         "10:30": "BREAK",
                         "11:00": "IOT",
                         "12:00": "IOT",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "SAT": {
                         "08:30": "SAN / NoSQL",
@@ -70,16 +70,16 @@
                         "10:30": "BREAK",
                         "11:00": "SAN / NoSQL",
                         "12:00": "IOT",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FACULTY": {
-                        "No Class": [
-                            "No Class",
-                            "No Class"
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -114,52 +114,52 @@
                 "CSE8SEMB": {
                     "LH": "LH2",
                     "MON": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
-                        "10:30": "No Class",
-                        "11:00": "No Class",
-                        "12:00": "No Class",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "TUE": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
-                        "10:30": "No Class",
-                        "11:00": "No Class",
-                        "12:00": "No Class",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "WED": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
-                        "10:30": "No Class",
-                        "11:00": "No Class",
-                        "12:00": "No Class",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "THU": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
-                        "10:30": "No Class",
-                        "11:00": "No Class",
-                        "12:00": "No Class",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FRI": {
                         "08:30": "SAN/NoSQL",
@@ -168,10 +168,10 @@
                         "11:00": "IOT",
                         "12:00": "IOT",
                         "13:00": "LUNCH",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "SAT": {
                         "08:30": "SAN/NoSQL",
@@ -180,15 +180,15 @@
                         "11:00": "SAN/NoSQL",
                         "12:00": "IOT",
                         "13:00": "LUNCH",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FACULTY": {
-                        "No Class": [
-                            "No Class",
-                            "No Class"
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -225,83 +225,83 @@
         "MEC": {
             "MEC8SEM": {
                 "MEC8SEMA": {
-                    "LH": "CVCL202(ME LH-5)",
+                    "LH": "",
                     "MON": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "EE",
                         "10:30": "TEA  BREAK",
                         "11:00": "CMT/ AE",
-                        "12:00": "No Class",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "TUE": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "EE",
                         "10:30": "TEA  BREAK",
                         "11:00": "CMT/ AE",
-                        "12:00": "No Class",
+                        "12:00": "No_Class",
                         "13:00": "LUNCH",
                         "13:30": "PROJECT WORK",
                         "14:30": "PROJECT WORK",
                         "15:30": "PROJECT WORK",
-                        "16:30": "No Class"
+                        "16:30": "No_Class"
                     },
                     "WED": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
                         "10:30": "TEA  BREAK",
                         "11:00": "EE",
                         "12:00": "CMT/ AE",
                         "13:00": "L U N C H",
                         "13:30": "Association Activity",
                         "14:30": "Association Activity",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "THU": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
                         "10:30": "TEA  BREAK",
                         "11:00": "EE",
                         "12:00": "CMT/ AE",
                         "13:00": "L U N C H",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FRI": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
                         "10:30": "PROJECT WORK",
                         "11:00": "PROJECT WORK",
                         "12:00": "PROJECT WORK",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "SAT": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
                         "10:30": "PROJECT WORK",
                         "11:00": "PROJECT WORK",
                         "12:00": "PROJECT WORK",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FACULTY": {
-                        "No Class": [
-                            "No Class",
-                            "No Class"
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -340,81 +340,81 @@
                 "MEC8SEMB": {
                     "LH": "CVCL203(ME-LH-4)",
                     "MON": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "EE",
                         "10:30": "TEA  BREAK",
                         "11:00": "CMT/ AE ",
-                        "12:00": "No Class",
+                        "12:00": "No_Class",
                         "13:00": "L U N C H",
                         "13:30": "PROJECT WORK",
                         "14:30": "PROJECT WORK",
                         "15:30": "PROJECT WORK",
-                        "16:30": "No Class"
+                        "16:30": "No_Class"
                     },
                     "TUE": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "EE",
                         "10:30": "TEA  BREAK",
                         "11:00": "CMT/ AE ",
-                        "12:00": "No Class",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "WED": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
                         "10:30": "TEA  BREAK",
                         "11:00": "EE",
                         "12:00": "CMT/ AE ",
                         "13:00": "L U N C H",
                         "13:30": "Association Activity",
                         "14:30": "Association Activity",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "THU": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
                         "10:30": "TEA  BREAK",
                         "11:00": "EE",
                         "12:00": "CMT/ AE ",
                         "13:00": "LUNCH",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FRI": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
                         "10:30": "PROJECT WORK",
                         "11:00": "PROJECT WORK",
                         "12:00": "PROJECT WORK",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "SAT": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
                         "10:30": "PROJECT WORK",
                         "11:00": "PROJECT WORK",
                         "12:00": "PROJECT WORK",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FACULTY": {
-                        "No Class": [
-                            "No Class",
-                            "No Class"
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -475,8 +475,8 @@
                         "13:00": "LUNCH",
                         "13:30": "ASSOSIATION ACTIVITY",
                         "14:30": "ASSOSIATION ACTIVITY",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "WED": {
                         "08:30": "PYT B2 LAB",
@@ -488,11 +488,11 @@
                         "13:30": "M-III",
                         "14:30": "MCFJ",
                         "15:30": "Dip-Mat",
-                        "16:30": "No Class"
+                        "16:30": "No_Class"
                     },
                     "THU": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
                         "10:30": "BREAK",
                         "11:00": "MDGD&T B3 / MSE  B1/ MCFJ B2 LABMDGD&T B3 / MSE  B1/ MCFJ B2 LAB",
                         "12:00": "MDGD&T B3 / MSE  B1/ MCFJ B2 LABMDGD&T B3 / MSE  B1/ MCFJ B2 LAB",
@@ -500,7 +500,7 @@
                         "13:30": "TD",
                         "14:30": "MSE",
                         "15:30": "Dip-Mat",
-                        "16:30": "No Class"
+                        "16:30": "No_Class"
                     },
                     "FRI": {
                         "08:30": "CIP",
@@ -512,7 +512,7 @@
                         "13:30": "M-III",
                         "14:30": "MCFJ",
                         "15:30": "Dip-Mat",
-                        "16:30": "No Class"
+                        "16:30": "No_Class"
                     },
                     "SAT": {
                         "08:30": "CIP",
@@ -520,16 +520,16 @@
                         "10:30": "BREAK",
                         "11:00": "TD",
                         "12:00": "TD TUTORIAL",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FACULTY": {
-                        "No Class": [
-                            "No Class",
-                            "No Class"
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -609,14 +609,14 @@
                         "10:30": "BREAK",
                         "11:00": "PYTHON  B1 LAB",
                         "12:00": "PYTHON  B1 LAB",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "TUE": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "MDGD&T",
                         "10:30": "MDGD&T",
                         "11:00": "MDGD&T",
@@ -624,61 +624,61 @@
                         "13:00": "LUNCH",
                         "13:30": "ASSOSIATION ACTIVITY",
                         "14:30": "ASSOSIATION ACTIVITY",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "WED": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
                         "10:30": "BREAK",
                         "11:00": "TD",
                         "12:00": "TD",
                         "13:00": "LUNCH",
                         "13:30": "MCFJ B1 LAB",
                         "14:30": "MCFJ B1 LAB",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "THU": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "MSE",
                         "10:30": "BREAK",
                         "11:00": "MINI PROJECT",
                         "12:00": "MINI PROJECT",
                         "13:00": "LUNCH",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FRI": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
                         "10:30": "BREAK",
                         "11:00": "MSE  B1 LAB",
                         "12:00": "MSE  B1 LAB",
                         "13:00": "LUNCH",
                         "13:30": "MINI PROJECT",
                         "14:30": "MINI PROJECT",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "SAT": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "MCFJ",
                         "10:30": "BREAK",
                         "11:00": "MINI PROJECT",
                         "12:00": "MINI PROJECT",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FACULTY": {
-                        "No Class": [
-                            "No Class",
-                            "No Class"
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -748,88 +748,87 @@
                 }
             }
         },
-        "ECE": {
-        },
+        "ECE": {},
         "EEE": {
             "EEE8SEM": {
                 "EEE8SEMA": {
                     "LH": "",
                     "MON": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "PSOC",
-                        "10:30": "No Class",
+                        "10:30": "No_Class",
                         "11:00": "18EE822 ",
                         "12:00": "PP II",
-                        "13:00": "No Class",
+                        "13:00": "No_Class",
                         "13:30": "PP II",
                         "14:30": "PP II",
                         "15:30": "PP II",
-                        "16:30": "No Class"
+                        "16:30": "No_Class"
                     },
                     "TUE": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "18EE822 ",
-                        "10:30": "No Class",
+                        "10:30": "No_Class",
                         "11:00": "PSOC",
                         "12:00": "PP II",
-                        "13:00": "No Class",
+                        "13:00": "No_Class",
                         "13:30": "PP II",
                         "14:30": "PP II",
                         "15:30": "PP II",
-                        "16:30": "No Class"
+                        "16:30": "No_Class"
                     },
                     "WED": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "PSOC",
-                        "10:30": "No Class",
+                        "10:30": "No_Class",
                         "11:00": "PP II",
                         "12:00": "PP II",
-                        "13:00": "No Class",
+                        "13:00": "No_Class",
                         "13:30": "PP II",
                         "14:30": "PP II",
                         "15:30": "PP II",
-                        "16:30": "No Class"
+                        "16:30": "No_Class"
                     },
                     "THU": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "PSOC",
-                        "10:30": "No Class",
+                        "10:30": "No_Class",
                         "11:00": "Seminar",
-                        "12:00": "No Class",
+                        "12:00": "No_Class",
                         "13:00": "PP II",
                         "13:30": "PP II",
                         "14:30": "PP II",
                         "15:30": "PP II",
-                        "16:30": "No Class"
+                        "16:30": "No_Class"
                     },
                     "FRI": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "18EE822 ",
-                        "10:30": "No Class",
+                        "10:30": "No_Class",
                         "11:00": "Seminar",
                         "12:00": "PP II",
                         "13:00": "PP II",
                         "13:30": "PP II",
                         "14:30": "PP II",
                         "15:30": "PP II",
-                        "16:30": "No Class"
+                        "16:30": "No_Class"
                     },
                     "SAT": {
                         "08:30": "18EE822 ",
                         "09:30": "Seminar",
-                        "10:30": "No Class",
+                        "10:30": "No_Class",
                         "11:00": "Seminar",
-                        "12:00": "No Class",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FACULTY": {
-                        "No Class": [
-                            "No Class",
-                            "No Class"
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -862,81 +861,81 @@
                 "EEE3SEMLE": {
                     "LH": "",
                     "MON": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "MAT",
-                        "10:30": "No Class",
+                        "10:30": "No_Class",
                         "11:00": "AEC & Opamp",
                         "12:00": "T&G",
-                        "13:00": "No Class",
+                        "13:00": "No_Class",
                         "13:30": "ECA",
                         "14:30": "Additional Mathematics - I",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "TUE": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
-                        "10:30": "No Class",
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
                         "11:00": "T&G",
                         "12:00": "ECA",
-                        "13:00": "No Class",
+                        "13:00": "No_Class",
                         "13:30": "AEC & Opamp",
                         "14:30": "Additional Mathematics - I",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "WED": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "ECA",
-                        "10:30": "No Class",
+                        "10:30": "No_Class",
                         "11:00": "T&G",
                         "12:00": "AEC & Opamp",
-                        "13:00": "No Class",
+                        "13:00": "No_Class",
                         "13:30": "EM-1",
                         "14:30": "Additional Mathematics - I",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "THU": {
                         "08:30": "MAT",
                         "09:30": "T&G",
-                        "10:30": "No Class",
+                        "10:30": "No_Class",
                         "11:00": "ECA",
                         "12:00": "AEC & Opamp",
-                        "13:00": "No Class",
+                        "13:00": "No_Class",
                         "13:30": "AEC-III",
                         "14:30": "AEC-III",
                         "15:30": "UHV",
-                        "16:30": "No Class"
+                        "16:30": "No_Class"
                     },
                     "FRI": {
-                        "08:30": "No Class",
-                        "09:30": "No Class",
-                        "10:30": "No Class",
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
                         "11:00": "T&G",
                         "12:00": "ECA",
                         "13:00": "MAT",
                         "13:30": "EM-1",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "SAT": {
-                        "08:30": "No Class",
+                        "08:30": "No_Class",
                         "09:30": "ECA",
-                        "10:30": "No Class",
+                        "10:30": "No_Class",
                         "11:00": "AEC & Opamp",
-                        "12:00": "No Class",
-                        "13:00": "No Class",
-                        "13:30": "No Class",
-                        "14:30": "No Class",
-                        "15:30": "No Class",
-                        "16:30": "No Class"
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FACULTY": {
-                        "No Class": [
-                            "No Class",
-                            "No Class"
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
                         ],
                         "BREAK": [
                             "BREAK",
@@ -977,6 +976,391 @@
                         "Additional Mathematics - I": [
                             "Additional Mathematics - I_MATDIP",
                             "BRH"
+                        ]
+                    }
+                }
+            }
+        },
+        "CIV": {
+            "CIV8SEM": {
+                "CIV8SEMA": {
+                    "LH": "02",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "R&R",
+                        "12:00": "DPSCE",
+                        "13:00": "LUNCH",
+                        "13:30": "Intership",
+                        "14:30": "Intership",
+                        "15:30": "Intership",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "BREAK",
+                        "11:00": "R&R",
+                        "12:00": "DPSCE",
+                        "13:00": "LUNCH",
+                        "13:30": "PW-2",
+                        "14:30": "PW-2",
+                        "15:30": "PW-2",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "DPSCE",
+                        "10:30": "BREAK",
+                        "11:00": "AICTE",
+                        "12:00": "AICTE",
+                        "13:00": "LUNCH",
+                        "13:30": "PW-2",
+                        "14:30": "PW-2",
+                        "15:30": "PW-2",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "R&R",
+                        "10:30": "BREAK",
+                        "11:00": "PW-2",
+                        "12:00": "PW-2",
+                        "13:00": "LUNCH",
+                        "13:30": "PW-2",
+                        "14:30": "PW-2",
+                        "15:30": "PW-2",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "BREAK",
+                        "11:00": "DPSCE",
+                        "12:00": "R&R",
+                        "13:00": "LUNCH",
+                        "13:30": "AA",
+                        "14:30": "AA",
+                        "15:30": "AA",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "AICTE",
+                        "12:00": "AICTE",
+                        "13:00": "LUNCH",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "DPSCE": [
+                            "Design of Pre-Stressed Concrete ",
+                            "Prof. P.M Topalakatti"
+                        ],
+                        "R&R": [
+                            "Rehabilitation & Retrofitting ",
+                            "Prof. S.V Patil"
+                        ],
+                        "PD": [
+                            "Pavement Design",
+                            "Prof. Rajat Khodanpur"
+                        ],
+                        "PW-2": [
+                            "Project Work Phase-2",
+                            "Prof. M.S Dhaudati"
+                        ],
+                        "Intership": [
+                            "Internship",
+                            "Prof. S.V Patil"
+                        ],
+                        "AICTE": [
+                            "AICTE Activity",
+                            "Prof. V.B Karikatti"
+                        ],
+                        "AA": [
+                            "Association Activity",
+                            "Prof. R.S Vaidya"
+                        ]
+                    }
+                }
+            },
+            "CIV3SEM": {
+                "CIV3SEMA": {
+                    "LH": "01",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "BREAK",
+                        "11:00": "MAT 31",
+                        "12:00": "AEC",
+                        "13:00": "LUNCH",
+                        "13:30": "SOM",
+                        "14:30": "GE",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "BREAK",
+                        "11:00": "No_Class",
+                        "12:00": "AEC",
+                        "13:00": "LUNCH",
+                        "13:30": "GE",
+                        "14:30": "MAT 31",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "GE",
+                        "10:30": "BREAK",
+                        "11:00": "MAT 31",
+                        "12:00": "SOM",
+                        "13:00": "LUNCH",
+                        "13:30": "SC&R",
+                        "14:30": "SC&R",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "GE",
+                        "09:30": "ER&E",
+                        "10:30": "BREAK",
+                        "11:00": "SOM",
+                        "12:00": "SOM",
+                        "13:00": "LUNCH",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "CIP",
+                        "09:30": "SOM",
+                        "10:30": "BREAK",
+                        "11:00": "ER&E",
+                        "12:00": "ER&E",
+                        "13:00": "LUNCH",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "CIP",
+                        "09:30": "No_Class",
+                        "10:30": "BREAK",
+                        "11:00": "No_Class",
+                        "12:00": "MAT 31",
+                        "13:00": "LUNCH",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "MAT 31": [
+                            "Mathematics 31",
+                            "Mr. Akshay Patil"
+                        ],
+                        "GE": [
+                            "Geodetic Engineering",
+                            "Prof. S.V Patil"
+                        ],
+                        "SOM": [
+                            "Strength of  Material",
+                            "Prof. P.M Topalakatti"
+                        ],
+                        "ER&E": [
+                            "Earth Resources and Engineering",
+                            "Prof. Sujay K/ Mr. M. Bhustali"
+                        ],
+                        "CABPD": [
+                            "Computer Aided Building Planning and Drawing",
+                            "Prof. V.B Karikatti / Prof. K.K. Hirandagi"
+                        ],
+                        "GE Lab": [
+                            "Geodetic  Engineering Laboratory",
+                            "Prof. S.S Huggi"
+                        ],
+                        "SOM Lab": [
+                            "Strength of  Materials  Laboratory",
+                            "Prof. D.R Kulkarni"
+                        ],
+                        "SC&R": [
+                            "Social Connect and Responsibility",
+                            "Prof. Sujay K "
+                        ],
+                        "CIP": [
+                            "Constitution of India and Professional Ethics",
+                            "Adv. L.D Kulkarni"
+                        ],
+                        "AEC": [
+                            "Personality Development and Soft skills",
+                            "Prof. Rajat Khodanpur"
+                        ]
+                    }
+                },
+                "CIV3SEMLE": {
+                    "LH": "01",
+                    "MON": {
+                        "08:30": "SOM Lab",
+                        "09:30": "SOM Lab",
+                        "10:30": "BREAK",
+                        "11:00": "Mat-31",
+                        "12:00": "AEC",
+                        "13:00": "LUNCH",
+                        "13:30": "SOM",
+                        "14:30": "GE",
+                        "15:30": "MAT DIP",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "CABPD",
+                        "10:30": "BREAK",
+                        "11:00": "CABPD",
+                        "12:00": "AEC",
+                        "13:00": "LUNCH",
+                        "13:30": "GE",
+                        "14:30": "Mat-31",
+                        "15:30": "MAT DIP",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "GE",
+                        "10:30": "BREAK",
+                        "11:00": "Mat-31",
+                        "12:00": "SOM",
+                        "13:00": "LUNCH",
+                        "13:30": "SC&R",
+                        "14:30": "SC&R",
+                        "15:30": "MAT DIP",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "GE",
+                        "09:30": "ER&E",
+                        "10:30": "BREAK",
+                        "11:00": "SOM",
+                        "12:00": "SOM",
+                        "13:00": "LUNCH",
+                        "13:30": "CABPD",
+                        "14:30": "CABPD",
+                        "15:30": "CABPD",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "CIP",
+                        "09:30": "SOM",
+                        "10:30": "BREAK",
+                        "11:00": "ER&E",
+                        "12:00": "ER&E",
+                        "13:00": "LUNCH",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "CIP",
+                        "09:30": "SOM Lab",
+                        "10:30": "BREAK",
+                        "11:00": "SOM Lab",
+                        "12:00": "Mat-31",
+                        "13:00": "LUNCH",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "Mat-31": [
+                            "Mathematics 31",
+                            "Mr. K S Betageri"
+                        ],
+                        "GE": [
+                            "Geodetic Engineering",
+                            "Prof. S.V Patil"
+                        ],
+                        "SOM": [
+                            "Strength of  Material",
+                            "Prof. P.M Topalakatti"
+                        ],
+                        "ER&E": [
+                            "Earth Resources and Engineering",
+                            "Prof. Sujay K/ Mr. M. Bhustali"
+                        ],
+                        "CABPD": [
+                            "Computer Aided Building Planning and Drawing",
+                            "Prof. V.B Karikatti / Prof. K.K. Hirandagi"
+                        ],
+                        "GE Lab": [
+                            "Geodetic  Engineering Laboratory",
+                            "Prof. S.S Huggi"
+                        ],
+                        "SOM Lab": [
+                            "Strength of  Materials  Laboratory",
+                            "Prof. D.R Kulkarni"
+                        ],
+                        "SC&R": [
+                            "Social Connect and Responsibility",
+                            "Prof. Sujay K "
+                        ],
+                        "CIP": [
+                            "Constitution of India and Professional Ethics",
+                            "Adv. L.D Kulkarni"
+                        ],
+                        "AEC": [
+                            "Personality Development and Soft skills",
+                            "Prof. Rajat Khodanpur"
+                        ],
+                        "MAT DIP": [
+                            "Mathematics Diploma",
+                            "Prof. Naveen Sapare"
                         ]
                     }
                 }
