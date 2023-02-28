@@ -4,6 +4,8 @@ from time import time
 import streamlit as st
 from streamlit_option_menu import option_menu
 from pathlib import Path
+from github import Github
+
 
 st.set_page_config(layout="wide")
 
@@ -208,6 +210,33 @@ def timeTable(page_title,dd):
       placeholder.button('SUBMIT',disabled=True,key=2)
       clearAllVariables()
       updateJson(dept_sem_div,day_map)
+      uploadTogitHub(dept_sem_div)
+
+def uploadTogitHub(dept_name):
+  folder_empl_in_git = 'timeTable.json'
+  initial_file = Path(__file__).parent / "timeTable.json"
+  git_branch = 'main'
+
+  g = Github('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')
+  repo = g.get_repo('ShridharSChini/TimeTableStream')
+  all_files = []
+  contents = repo.get_contents("")
+
+  while contents:
+      file_content = contents.pop(0)
+      if file_content.type == "dir":
+          contents.extend(repo.get_contents(file_content.path))
+      else:
+          file = file_content
+          all_files.append(str(file).replace('ContentFile(path="', '').replace('")', ''))
+
+  with open(initial_file, 'r') as file:
+      content = file.read()
+
+  if folder_empl_in_git in all_files:
+      contents = repo.get_contents(folder_empl_in_git)
+      repo.update_file(contents.path, "committing for " + dept_name, content, contents.sha, branch=git_branch)
+      print(folder_empl_in_git + ' UPDATED FOR ' + dept_name[0]+' SEM '+dept_name[1]+' DIV '+dept_name[2])
 
 def innerOptionMenu(sections):
   selected_tab = option_menu(

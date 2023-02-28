@@ -748,7 +748,351 @@
                 }
             }
         },
-        "ECE": {},
+        "ECE": {
+            "ECE8SEM": {
+                "ECE8SEMA": {
+                    "LH": "ECLH4",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "WCC",
+                        "10:30": "BREAK",
+                        "11:00": "NS",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "PWP 2",
+                        "14:30": "PWP 2",
+                        "15:30": "PWP 2",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "NS",
+                        "10:30": "BREAK",
+                        "11:00": "WCC",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "PWP 2",
+                        "14:30": "PWP 2",
+                        "15:30": "PWP 2",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "WCC",
+                        "10:30": "BREAK",
+                        "11:00": "NS",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "PWP 2",
+                        "14:30": "PWP 2",
+                        "15:30": "PWP 2",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "NS",
+                        "10:30": "BREAK",
+                        "11:00": "WCC",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "IP/SEM",
+                        "10:30": "BREAK",
+                        "11:00": "IP/SEM",
+                        "12:00": "IP/SEM",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "No_Class",
+                        "09:30": "IP/SEM",
+                        "10:30": "BREAK",
+                        "11:00": "IP/SEM",
+                        "12:00": "IP/SEM",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "WCC": [
+                            "Wireless and cellular communication",
+                            "Dr. Santosh N"
+                        ],
+                        "NS": [
+                            "Network Security",
+                            "Mrs. Shwetha S"
+                        ],
+                        "IP/SEM": [
+                            "Internship/Seminar",
+                            "Mr. Chetan Sagarnal/Dr. Ashish Patil"
+                        ],
+                        "PWP 2": [
+                            "Project Work Phase 2",
+                            "Dr. Santosh N"
+                        ]
+                    }
+                },
+                "ECE8SEMB": {
+                    "LH": "EC Seminar Hall",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "WCC",
+                        "10:30": "No_Class",
+                        "11:00": "NS",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "PWP2",
+                        "14:30": "PWP2",
+                        "15:30": "PWP2",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "NS",
+                        "10:30": "No_Class",
+                        "11:00": "WCC",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "PWP2",
+                        "14:30": "PWP2",
+                        "15:30": "PWP2",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "WCC",
+                        "10:30": "No_Class",
+                        "11:00": "NS",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "PWP2",
+                        "14:30": "PWP2",
+                        "15:30": "PWP2",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "NS",
+                        "10:30": "No_Class",
+                        "11:00": "WCC",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "IP/SEM",
+                        "10:30": "No_Class",
+                        "11:00": "IP/SEM",
+                        "12:00": "IP/SEM",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "No_Class",
+                        "09:30": "IP/SEM",
+                        "10:30": "No_Class",
+                        "11:00": "IP/SEM",
+                        "12:00": "IP/SEM",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "WCC": [
+                            "Wireless and cellular communication",
+                            "Ms. Supriya P"
+                        ],
+                        "NS": [
+                            "Network Security",
+                            "Mr. Kotresh K"
+                        ],
+                        "IP/SEM": [
+                            "Internship/Seminar",
+                            "Mr. Chetan Sagarnal/Dr. Ashish Patil"
+                        ],
+                        "PWP2": [
+                            "Project Work Phase 2",
+                            "Dr. Santosh N"
+                        ]
+                    }
+                }
+            },
+            "ECE3SEM": {
+                "ECE3SEMLE": {
+                    "LH": "EC LH1",
+                    "MON": {
+                        "08:30": "AEC",
+                        "09:30": "DSDV",
+                        "10:30": "No_Class",
+                        "11:00": "MAT",
+                        "12:00": "BSP",
+                        "13:00": "No_Class",
+                        "13:30": "DSDVL",
+                        "14:30": "DSDVL",
+                        "15:30": "MATDIP",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "BSP",
+                        "09:30": "AEC",
+                        "10:30": "No_Class",
+                        "11:00": "BSPL",
+                        "12:00": "BSPL",
+                        "13:00": "No_Class",
+                        "13:30": "SCR",
+                        "14:30": "MAT",
+                        "15:30": "MATDIP",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "ADEL",
+                        "09:30": "ADEL",
+                        "10:30": "No_Class",
+                        "11:00": "MAT",
+                        "12:00": "ADEL",
+                        "13:00": "No_Class",
+                        "13:30": "AEC",
+                        "14:30": "AEC",
+                        "15:30": "MATDIP",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "MAT",
+                        "09:30": "ADEL",
+                        "10:30": "No_Class",
+                        "11:00": "ADEL",
+                        "12:00": "ADEL",
+                        "13:00": "No_Class",
+                        "13:30": "DSDV",
+                        "14:30": "BSP",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "DSDV",
+                        "09:30": "AEC",
+                        "10:30": "No_Class",
+                        "11:00": "DSDV",
+                        "12:00": "BSP",
+                        "13:00": "No_Class",
+                        "13:30": "AE",
+                        "14:30": "AE",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "DSDV",
+                        "09:30": "BSP",
+                        "10:30": "No_Class",
+                        "11:00": "SCR",
+                        "12:00": "MAT",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "MAT": [
+                            "Transform Calculus, Fourier Series and Numerical Techniques",
+                            "Mr. V G H/ V T H"
+                        ],
+                        "MATDIP": [
+                            "Additional Mathematics",
+                            "Mr. Naveen Sapare"
+                        ],
+                        "DSDV": [
+                            "Digital System Design using Verilog",
+                            "Mr. Prashant Hanasi"
+                        ],
+                        "BSP": [
+                            "Basic Signal Processing",
+                            "Mr. Vishwas Patil"
+                        ],
+                        "AEC": [
+                            "Analog Electronic Circuits",
+                            "Ms. Anusha A R"
+                        ],
+                        "ADEL": [
+                            "Analog and Digital Electronics Lab",
+                            "Mr. Santosh H. S/ Ms Supriya "
+                        ],
+                        "DSDVL": [
+                            "Digital System Design using Verilog Lab",
+                            "Mrs.Madhu G/ Mrs. Aishwarya P"
+                        ],
+                        "BSPL": [
+                            "Basic Signal Processing Lab",
+                            "Mr. Rakesh S/ Mrs. New Faulty"
+                        ],
+                        "AE": [
+                            "Ability Enhancement",
+                            "Ms. Supriya P"
+                        ],
+                        "SCR": [
+                            "Social Connect & Responsibility",
+                            "Mr. Kotresh B K"
+                        ]
+                    }
+                }
+            }
+        },
         "EEE": {
             "EEE8SEM": {
                 "EEE8SEMA": {
