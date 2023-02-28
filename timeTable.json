@@ -748,7 +748,204 @@
                 }
             }
         },
-        "ECE": {},
+        "ECE": {
+            "ECE8SEM": {
+                "ECE8SEMA": {
+                    "LH": "ECLH 4",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "WCC",
+                        "10:30": "No_Class",
+                        "11:00": "NS",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "NS",
+                        "10:30": "No_Class",
+                        "11:00": "WCC",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "WCC",
+                        "10:30": "No_Class",
+                        "11:00": "NS",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "NS",
+                        "10:30": "No_Class",
+                        "11:00": "WCC",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "WCC": [
+                            "Wireless and cellular communication",
+                            "Dr. Santosh N"
+                        ],
+                        "NS": [
+                            "Network Security",
+                            "Mr. Shwetha S"
+                        ]
+                    }
+                },
+                "ECE8SEMB": {
+                    "LH": "ECLH 4",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "wcc",
+                        "10:30": "No_Class",
+                        "11:00": "NS",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "NS",
+                        "10:30": "No_Class",
+                        "11:00": "wcc",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "wcc",
+                        "10:30": "No_Class",
+                        "11:00": "NS",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "NS",
+                        "10:30": "No_Class",
+                        "11:00": "wcc",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "wcc": [
+                            "Wireless and cellular communication",
+                            "Mr. Supriya P"
+                        ],
+                        "NS": [
+                            "Network Security",
+                            "Mr. Kotresh K"
+                        ]
+                    }
+                }
+            }
+        },
         "EEE": {
             "EEE8SEM": {
                 "EEE8SEMA": {
