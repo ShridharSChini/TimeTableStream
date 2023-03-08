@@ -3,7 +3,7 @@
         "CSE": {
             "CSE8SEM": {
                 "CSE8SEMA": {
-                    "LH": "LH1",
+                    "LH": "LH 4",
                     "MON": {
                         "08:30": "No_Class",
                         "09:30": "No_Class",
@@ -18,9 +18,9 @@
                     },
                     "TUE": {
                         "08:30": "No_Class",
-                        "09:30": "No_Class",
+                        "09:30": "SAN/NoSQL",
                         "10:30": "No_Class",
-                        "11:00": "No_Class",
+                        "11:00": "IOT",
                         "12:00": "No_Class",
                         "13:00": "No_Class",
                         "13:30": "No_Class",
@@ -30,9 +30,9 @@
                     },
                     "WED": {
                         "08:30": "No_Class",
-                        "09:30": "No_Class",
+                        "09:30": "SAN/NoSQL",
                         "10:30": "No_Class",
-                        "11:00": "No_Class",
+                        "11:00": "IOT",
                         "12:00": "No_Class",
                         "13:00": "No_Class",
                         "13:30": "No_Class",
@@ -53,11 +53,11 @@
                         "16:30": "No_Class"
                     },
                     "FRI": {
-                        "08:30": "SAN / NoSQL",
-                        "09:30": "SAN / NoSQL",
-                        "10:30": "BREAK",
-                        "11:00": "IOT",
-                        "12:00": "IOT",
+                        "08:30": "No_Class",
+                        "09:30": "IOT",
+                        "10:30": "No_Class",
+                        "11:00": "SAN/NoSQL",
+                        "12:00": "No_Class",
                         "13:00": "No_Class",
                         "13:30": "No_Class",
                         "14:30": "No_Class",
@@ -65,11 +65,11 @@
                         "16:30": "No_Class"
                     },
                     "SAT": {
-                        "08:30": "SAN / NoSQL",
-                        "09:30": "IOT",
-                        "10:30": "BREAK",
-                        "11:00": "SAN / NoSQL",
-                        "12:00": "IOT",
+                        "08:30": "No_Class",
+                        "09:30": "SAN/NoSQL",
+                        "10:30": "No_Class",
+                        "11:00": "IOT",
+                        "12:00": "No_Class",
                         "13:00": "No_Class",
                         "13:30": "No_Class",
                         "14:30": "No_Class",
@@ -93,26 +93,14 @@
                             "Internet of Things",
                             "Mrs. Vijeeta Patil"
                         ],
-                        "SAN / NoSQL": [
-                            "Storage Area Networks (P4) / NoSQL Database (P4)",
-                            "Mrs. Shanta Kallur / Mr. Shridhar Chini"
-                        ],
-                        "PW": [
-                            "Project Work Phase ",
-                            "Mr. Mahantesh Sajjan"
-                        ],
-                        "TS": [
-                            "Technical Seminar",
-                            "Mr. Vishwanath K."
-                        ],
-                        "IN": [
-                            "Internship",
-                            "Mr. Balachandra C."
+                        "SAN/NoSQL": [
+                            "Storage Area Networks ",
+                            "Mrs. Shanta Kallur/ Shridhar Chini"
                         ]
                     }
                 },
                 "CSE8SEMB": {
-                    "LH": "LH2",
+                    "LH": "LH 2",
                     "MON": {
                         "08:30": "No_Class",
                         "09:30": "No_Class",
@@ -127,9 +115,9 @@
                     },
                     "TUE": {
                         "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "No_Class",
+                        "09:30": "SAN/NoSQL",
+                        "10:30": "BREAK",
+                        "11:00": "IOT",
                         "12:00": "No_Class",
                         "13:00": "No_Class",
                         "13:30": "No_Class",
@@ -139,9 +127,9 @@
                     },
                     "WED": {
                         "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "No_Class",
+                        "09:30": "SAN/NoSQL",
+                        "10:30": "BREAK",
+                        "11:00": "IOT",
                         "12:00": "No_Class",
                         "13:00": "No_Class",
                         "13:30": "No_Class",
@@ -162,24 +150,24 @@
                         "16:30": "No_Class"
                     },
                     "FRI": {
-                        "08:30": "SAN/NoSQL",
-                        "09:30": "SAN/NoSQL",
+                        "08:30": "No_Class",
+                        "09:30": "IOT",
                         "10:30": "BREAK",
-                        "11:00": "IOT",
-                        "12:00": "IOT",
-                        "13:00": "LUNCH",
+                        "11:00": "SAN/NoSQL",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
                         "13:30": "No_Class",
                         "14:30": "No_Class",
                         "15:30": "No_Class",
                         "16:30": "No_Class"
                     },
                     "SAT": {
-                        "08:30": "SAN/NoSQL",
-                        "09:30": "IOT",
+                        "08:30": "No_Class",
+                        "09:30": "SAN/NoSQL",
                         "10:30": "BREAK",
-                        "11:00": "SAN/NoSQL",
-                        "12:00": "IOT",
-                        "13:00": "LUNCH",
+                        "11:00": "IOT",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
                         "13:30": "No_Class",
                         "14:30": "No_Class",
                         "15:30": "No_Class",
@@ -203,20 +191,8 @@
                             "Mrs. Shobha Hiremath"
                         ],
                         "SAN/NoSQL": [
-                            "Storage Area Networks / NoSQL Database ",
-                            "Mrs. Shanta Kallur / Mr. Shridhar Chini"
-                        ],
-                        "PW": [
-                            "Project Work Phase ",
-                            "Mr. Mahantesh Sajjan"
-                        ],
-                        "TS": [
-                            "Technical Seminar",
-                            "Mr. Vishwanath K."
-                        ],
-                        "IN": [
-                            "Internship",
-                            "Mr. Balachandra C."
+                            "Storage Area Networks /NoSQL ",
+                            "Mrs. Shanta Kallur/Shridhar Chini"
                         ]
                     }
                 }
