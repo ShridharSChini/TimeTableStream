@@ -61,8 +61,8 @@ day = days[datetime.today().weekday() + 1]
 
 Departments =["All_DEPT", "First_year", "CSE","ECE","EEE", "MCA", "CIV","MEC"]
 # sem = ['ALL_SEM','3','6','8']#,'C_Cycle','P_Cycle']
-sem = ['ALL_SEM','4','6','8','C_Cycle','P_Cycle']
-divisions = ['ALL_DIV','A','B','LE']#,'C','D','E','F','LE']
+sem = ['ALL_SEM','4','6','C_Cycle','P_Cycle']
+divisions = ['ALL_DIV','A','B','C','D','E','F']
 
 slots = ["08:30", "09:30","10:30","11:00","12:00","13:00","13:30","14:30","15:30","16:30","17:30" ]
 
