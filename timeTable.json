@@ -1067,6 +1067,145 @@
                         ]
                     }
                 }
+            },
+            "ECE4SEM": {
+                "ECE4SEMA": {
+                    "LH": "ECLH 1",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "MAT",
+                        "10:30": "No_Class",
+                        "11:00": "CT",
+                        "12:00": "DSP",
+                        "13:00": "No_Class",
+                        "13:30": "COM Lab",
+                        "14:30": "COM Lab",
+                        "15:30": "COM Lab",
+                        "16:30": "AD.MAT"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "CNC",
+                        "10:30": "No_Class",
+                        "11:00": "DSP",
+                        "12:00": "CIPE",
+                        "13:00": "No_Class",
+                        "13:30": "COM Lab",
+                        "14:30": "COM Lab",
+                        "15:30": "COM Lab",
+                        "16:30": "AD.MAT"
+                    },
+                    "WED": {
+                        "08:30": "CT",
+                        "09:30": "MAT",
+                        "10:30": "No_Class",
+                        "11:00": "CNC",
+                        "12:00": "UHV",
+                        "13:00": "No_Class",
+                        "13:30": "COM Lab",
+                        "14:30": "COM Lab",
+                        "15:30": "COM Lab",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "DSP",
+                        "09:30": "CT",
+                        "10:30": "No_Class",
+                        "11:00": "DSPL",
+                        "12:00": "DSPL",
+                        "13:00": "No_Class",
+                        "13:30": "BE",
+                        "14:30": "BE",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "MAT",
+                        "09:30": "CT",
+                        "10:30": "No_Class",
+                        "11:00": "CNCL",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "CNC",
+                        "09:30": "MAT",
+                        "10:30": "No_Class",
+                        "11:00": "ECL",
+                        "12:00": "ECL",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "MAT": [
+                            "Complex Analysis, Probability &Statistical Methods",
+                            "Mr. Akshay Patil"
+                        ],
+                        "DSP": [
+                            "Digital Signal Processing",
+                            "Digital Signal Processing"
+                        ],
+                        "CNC": [
+                            "Circuits & Controls",
+                            "Mr. Prashant H"
+                        ],
+                        "CT": [
+                            "Communication Theory",
+                            "Mrs. Anusha A R"
+                        ],
+                        "BE": [
+                            "Biology For Engineers",
+                            "New Faculty"
+                        ],
+                        "COM Lab": [
+                            "Communication Laboratory I",
+                            "Mrs. Anusha A R"
+                        ],
+                        "DSPL": [
+                            "Digital Signal Processing Lab",
+                            "Mr. Vishwas Patil"
+                        ],
+                        "CNCL": [
+                            "Circuits & Controls Lab",
+                            "Mr. Ramachandran T"
+                        ],
+                        "ECL": [
+                            "Embedded C Basics Lab",
+                            "Mrs. Madhu G"
+                        ],
+                        "UHV": [
+                            "Universal Human Values",
+                            "Mrs. Madhu G"
+                        ],
+                        "AD.MAT": [
+                            "Additional Mathematics - 2",
+                            "Dr. V G Hiremath"
+                        ],
+                        "CIPE": [
+                            "Constitution of India &   Professional       Ethics",
+                            "New Faculty"
+                        ]
+                    }
+                }
             }
         },
         "EEE": {
@@ -1681,6 +1820,498 @@
                         "MAT DIP": [
                             "Mathematics Diploma",
                             "Prof. Naveen Sapare"
+                        ]
+                    }
+                }
+            },
+            "CIV4SEM": {
+                "CIV4SEMA": {
+                    "LH": "01",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "FM,EG,PHE",
+                        "10:30": "FM,EG,PHE",
+                        "11:00": "FM,EG,PHE",
+                        "12:00": "No_Class",
+                        "13:00": "LUNCH",
+                        "13:30": "AS",
+                        "14:30": "FM&H",
+                        "15:30": "MAT-41",
+                        "16:30": "DIP Mat-2"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "FM,EG,PHE",
+                        "10:30": "FM,EG,PHE",
+                        "11:00": "FM,EG,PHE",
+                        "12:00": "No_Class",
+                        "13:00": "LUNCH",
+                        "13:30": "AEC",
+                        "14:30": "MAT-41",
+                        "15:30": "FM&H",
+                        "16:30": "DIP Mat-2"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "FM&H",
+                        "10:30": "BREAK",
+                        "11:00": "AS",
+                        "12:00": "MAT-41",
+                        "13:00": "LUNCH",
+                        "13:30": "AS",
+                        "14:30": "FM&H",
+                        "15:30": "PHE",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "MAT-41",
+                        "10:30": "BREAK",
+                        "11:00": "UHV",
+                        "12:00": "AS",
+                        "13:00": "LUNCH",
+                        "13:30": "BK/AVK",
+                        "14:30": "PHE",
+                        "15:30": "AEC",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "UHV",
+                        "09:30": "AS",
+                        "10:30": "BREAK",
+                        "11:00": "PHE",
+                        "12:00": "FM&H",
+                        "13:00": "LUNCH",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "PHE",
+                        "09:30": "FM,EG,PHE",
+                        "10:30": "FM,EG,PHE",
+                        "11:00": "FM,EG,PHE",
+                        "12:00": "BK/AVK",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "MAT-41": [
+                            "Complex Analysis, Probability & Statistical Methods",
+                            "Mr. Akshay Patil"
+                        ],
+                        "FM&H": [
+                            "Fluid Mechanics and Hydraulics ",
+                            "Dr. R.S Laddimath K.K Hirandagi"
+                        ],
+                        "PHE": [
+                            "Public Health Engineering",
+                            "Prof. M.S Dhaduti"
+                        ],
+                        "AS": [
+                            "Analysis of Structures",
+                            "Prof. S.S Huggi"
+                        ],
+                        "BOE": [
+                            "Biology for Engineers",
+                            "XYZ"
+                        ],
+                        "ER&EL": [
+                            "Earth Resources and Engineering Lab",
+                            "Prof. Sujay K"
+                        ],
+                        "BK/AVK": [
+                            "Balake/ Aadalita  Kannada",
+                            "Mrs Girija/ Prof. Sujay K"
+                        ],
+                        "AEC": [
+                            "AEC-Green Building",
+                            "Prof. V.B Karikatti"
+                        ],
+                        "UHV": [
+                            "Universal Human Values",
+                            "ABC"
+                        ],
+                        "Internship": [
+                            "Inter/Intra Institutional Internship ",
+                            "Prof. S.V Patil"
+                        ],
+                        "DIP Mat-2": [
+                            "Additional Mathematics - II",
+                            "Mr. V.G Hiremath"
+                        ],
+                        "FM,EG,PHE": [
+                            "FM Lab,EG Lab,PHE Lab",
+                            "Prof,K.K Hirandagi,Prof. Sujay K,Prof. M.S Dhaduti"
+                        ]
+                    }
+                }
+            },
+            "CIV6SEM": {
+                "CIV6SEMA": {
+                    "LH": "03",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "DSS",
+                        "10:30": "BREAK",
+                        "11:00": "HIE",
+                        "12:00": "RSGIS",
+                        "13:00": "LUNCH",
+                        "13:30": "SWM/GIT ",
+                        "14:30": "AGE",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "DSS",
+                        "10:30": "BREAK",
+                        "11:00": "HIE",
+                        "12:00": "RSGIS",
+                        "13:00": "LUNCH",
+                        "13:30": "SWM/GIT ",
+                        "14:30": "SA Lab,Env Lab",
+                        "15:30": "SA Lab,Env Lab",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "AGE",
+                        "10:30": "BREAK",
+                        "11:00": "HIE",
+                        "12:00": "RSGIS",
+                        "13:00": "LUNCH",
+                        "13:30": "SWM/GIT ",
+                        "14:30": "SA Lab,Env Lab",
+                        "15:30": "SA Lab,Env Lab",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "DSS",
+                        "10:30": "BREAK",
+                        "11:00": "RSGIS",
+                        "12:00": "RSGIS",
+                        "13:00": "LUNCH",
+                        "13:30": "SA Lab,Env Lab",
+                        "14:30": "No_Class",
+                        "15:30": "SA Lab,Env Lab",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "DSS",
+                        "10:30": "BREAK",
+                        "11:00": "HIE",
+                        "12:00": "AGE",
+                        "13:00": "LUNCH",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "AGE",
+                        "09:30": "Ext Survey",
+                        "10:30": "Ext Survey",
+                        "11:00": "Ext Survey",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "DSS": [
+                            "Design of Steel Structural Elements",
+                            "Prof. P.M Topalakatti"
+                        ],
+                        "AGE": [
+                            "Applied Geotechnical Engineering",
+                            "Prof. R.S Vaidya"
+                        ],
+                        "HIE": [
+                            "Hydrology and Irrigation Engineering",
+                            "Dr. S.G Joshi"
+                        ],
+                        "SWM/GIT ": [
+                            "Solid Waste Management /Ground Improvement Technique [Professional Elective-I]",
+                            "Prof. D.R Kulkarni/  Prof. S.V Patil"
+                        ],
+                        "RSGIS": [
+                            "Remote Sensing & GIS  [Open Elective \u2013A]",
+                            "Prof. Sujay K"
+                        ],
+                        "CNR": [
+                            "Conservation of Natural Resources  [Open Elective \u2013A]",
+                            "Prof. D.R Kulkarni"
+                        ],
+                        "SA Lab,Env Lab": [
+                            "Software Application Laboratory,Environmental Engineering Laboratory ",
+                            "Prof. Sandesh Huggi,Prof. M.S Dhaduti"
+                        ],
+                        "Ext Survey": [
+                            "Extensive Survey Project",
+                            "Prof. P.M Topalakatti"
+                        ]
+                    }
+                }
+            }
+        },
+        "MCA": {
+            "MCA4SEM": {
+                "MCA4SEMA": {
+                    "LH": "LH1",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "AWT",
+                        "10:30": "BREAK",
+                        "11:00": "PROJ",
+                        "12:00": "PROJ",
+                        "13:00": "LUNCH",
+                        "13:30": "PROJ",
+                        "14:30": "PROJ",
+                        "15:30": "PROJ",
+                        "16:30": "PROJ"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "PCS",
+                        "10:30": "BREAK",
+                        "11:00": "PROJ",
+                        "12:00": "PROJ",
+                        "13:00": "LUNCH",
+                        "13:30": "PROJ",
+                        "14:30": "PROJ",
+                        "15:30": "PROJ",
+                        "16:30": "PROJ"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "AWT",
+                        "10:30": "BREAK",
+                        "11:00": "PROJ",
+                        "12:00": "PROJ",
+                        "13:00": "LUNCH",
+                        "13:30": "PROJ",
+                        "14:30": "PROJ",
+                        "15:30": "PROJ",
+                        "16:30": "PROJ"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "PCS",
+                        "10:30": "BREAK",
+                        "11:00": "PROJ",
+                        "12:00": "PROJ",
+                        "13:00": "LUNCH",
+                        "13:30": "PROJ",
+                        "14:30": "PROJ",
+                        "15:30": "PROJ",
+                        "16:30": "PROJ"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "AWT",
+                        "10:30": "BREAK",
+                        "11:00": "PROJ",
+                        "12:00": "PROJ",
+                        "13:00": "LUNCH",
+                        "13:30": "PROJ",
+                        "14:30": "PROJ",
+                        "15:30": "PROJ",
+                        "16:30": "PROJ"
+                    },
+                    "SAT": {
+                        "08:30": "No_Class",
+                        "09:30": "PCS",
+                        "10:30": "BREAK",
+                        "11:00": "PROJ",
+                        "12:00": "PROJ",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "AWT": [
+                            "Advances in Web Technologies",
+                            "Mrs. Anupama S N"
+                        ],
+                        "PCS": [
+                            "Programming using C#",
+                            "Mr. Puneeth N T"
+                        ],
+                        "PROJ": [
+                            "Project Work",
+                            "All Faculty"
+                        ]
+                    }
+                }
+            }
+        },
+        "First_year": {
+            "First_yearC_CycleSEM": {
+                "First_yearC_CycleSEMA": {
+                    "LH": "02",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "BPHYS202",
+                        "10:30": "No_Class",
+                        "11:00": "BMATS201",
+                        "12:00": "BPWSK206",
+                        "13:00": "No_Class",
+                        "13:30": "BPHYS202",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "BMATS201",
+                        "12:00": "BPOPS203",
+                        "13:00": "No_Class",
+                        "13:30": "BPOPS203",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "BMATS201",
+                        "09:30": "BETCK205J",
+                        "10:30": "No_Class",
+                        "11:00": "BPHYS202",
+                        "12:00": "BESCK204D",
+                        "13:00": "No_Class",
+                        "13:30": "BPOPS203",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "BESCK204D",
+                        "12:00": "BPWSK206",
+                        "13:00": "No_Class",
+                        "13:30": "BPOPS203",
+                        "14:30": "BETCK205J",
+                        "15:30": "BSFHK208",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "BMATS201",
+                        "10:30": "No_Class",
+                        "11:00": "BESCK204D",
+                        "12:00": "BPHYS202",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "BICOK207",
+                        "09:30": "BPOPS203",
+                        "10:30": "No_Class",
+                        "11:00": "BETCK205J",
+                        "12:00": "BPHYS202",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "BMATS201": [
+                            "Mathematics for CSE-II",
+                            "Mr. N.S Sapare"
+                        ],
+                        "BPHYS202": [
+                            "Physics for CSE",
+                            "Dr. Anita R N"
+                        ],
+                        "BPOPS203": [
+                            "Principles of  Programming using C ",
+                            "Mrs. Soumya P"
+                        ],
+                        "BESCK204D": [
+                            "Introduction to Mech Engg",
+                            "Dr. Sandeep C D"
+                        ],
+                        "BETCK205J": [
+                            "Introduction to Embedded System",
+                            "Mr. Ramachandra T"
+                        ],
+                        "BPWSK206": [
+                            "Professional Writing skills in  English",
+                            "Ms. Gloria A"
+                        ],
+                        "BICOK207": [
+                            "Indian Constitution",
+                            "Mr.L.D Kulkarni"
+                        ],
+                        "BSFHK208": [
+                            "Scientific Foundations of Health",
+                            "Mr.Sunilkumar"
                         ]
                     }
                 }
