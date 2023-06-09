@@ -1234,6 +1234,566 @@
                         ]
                     }
                 }
+            },
+            "MEC4SEM": {
+                "MEC4SEMA": {
+                    "LH": "CVCL203(LH-3)",
+                    "MON": {
+                        "08:30": "MOM",
+                        "09:30": "M-IV",
+                        "10:30": "BREAK",
+                        "11:00": "FM",
+                        "12:00": "UHV",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "MSJF",
+                        "09:30": "M-IV",
+                        "10:30": "BREAK",
+                        "11:00": "MOM",
+                        "12:00": "FM",
+                        "13:00": "LUNCH",
+                        "13:30": "SSE",
+                        "14:30": "SSE",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "FM",
+                        "12:00": "MSJF",
+                        "13:00": "LUNCH",
+                        "13:30": "MOM",
+                        "14:30": "ASSOCIATION ACTIVITY",
+                        "15:30": "No_Class",
+                        "16:30": "ASSOCIATION ACTIVITY"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "MSJF",
+                        "10:30": "BREAK",
+                        "11:00": "M-IV",
+                        "12:00": "FM",
+                        "13:00": "LUNCH",
+                        "13:30": "FM-B2/MMM-B1-LAB",
+                        "14:30": "FM-B2/MMM-B1-LAB",
+                        "15:30": "Dip-Mat",
+                        "16:30": "Dip-Mat"
+                    },
+                    "FRI": {
+                        "08:30": "BFE",
+                        "09:30": "BFE",
+                        "10:30": "BREAK",
+                        "11:00": "M-IV",
+                        "12:00": "MOM",
+                        "13:00": "LUNCH",
+                        "13:30": "MSJF-B1/MMM-B2-LAB",
+                        "14:30": "MSJF-B1/MMM-B2-LAB",
+                        "15:30": "SK",
+                        "16:30": "SK"
+                    },
+                    "SAT": {
+                        "08:30": "BK",
+                        "09:30": "FM-B1/MSJF-B2-LAB ",
+                        "10:30": "FM-B1/MSJF-B2-LAB ",
+                        "11:00": "FM-B1/MSJF-B2-LAB ",
+                        "12:00": "FM-B1/MSJF-B2-LAB ",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "M-IV": [
+                            "Complex Analysis, Probability and        Linear Programming.",
+                            "Bhuvaneshwari.R.H"
+                        ],
+                        "Dip-Mat": [
+                            "Diploma-Mathematics",
+                            "Bhuvaneshwari.R.H"
+                        ],
+                        "MSJF": [
+                            "Machining science and jigs and fixtures.",
+                            "Anilkumar.C.K"
+                        ],
+                        "FM": [
+                            "Fluid Mechanics.",
+                            "Sucheet.M.G"
+                        ],
+                        "MOM": [
+                            "Mechanics of Materials.",
+                            "Shivaprakash M. V"
+                        ],
+                        "BFE": [
+                            "Biology for Engineers.",
+                            "P.C.Jabin college faculty"
+                        ],
+                        "FM-B2/MMM-B1-LAB": [
+                            "FM-B2/MMM-B1-LAB",
+                            "Pradeep.S.G/Shridhar.H.B"
+                        ],
+                        "MSJF-B1/MMM-B2-LAB": [
+                            "MSJF-B1/MMM-B2-LAB",
+                            "Anilkumar.C.K/Shridhar.H.B"
+                        ],
+                        "FM-B1/MSJF-B2-LAB ": [
+                            "FM-B1/MSJF-B2-LAB ",
+                            "Pradeep.S.G/Anilkumar.C.K/"
+                        ],
+                        "SK": [
+                            "Samskrutika kannada",
+                            "Girija"
+                        ],
+                        "BK": [
+                            "Balake kannada",
+                            "Sucheet.M.G"
+                        ],
+                        "SSE": [
+                            "Spread sheets for engineers(AEC-IV)",
+                            "Dr.V.R.Hiremath"
+                        ],
+                        "UHV": [
+                            "Universal Human Values",
+                            "Dr.Basukumar H K"
+                        ],
+                        "ASSOCIATION ACTIVITY": [
+                            "ASSOCIATION ACTIVITY",
+                            "GUEST LECTURE"
+                        ],
+                        "CVCL203(LH-3)": [
+                            "CVCL203(LH-3)",
+                            "CVCL203(LH-3)"
+                        ]
+                    }
+                },
+                "MEC4SEMB": {
+                    "LH": "CVCL101(LH-1)",
+                    "MON": {
+                        "08:30": "FM",
+                        "09:30": "M-IV",
+                        "10:30": "BREAK",
+                        "11:00": "MOM",
+                        "12:00": "MSJF",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "M-IV",
+                        "09:30": "MOM",
+                        "10:30": "BREAK",
+                        "11:00": "FM",
+                        "12:00": "MSJF",
+                        "13:00": "LUNCH",
+                        "13:30": "MSJF-B1/MMM-B2-LAB ",
+                        "14:30": "MSJF-B1/MMM-B2-LAB ",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "FM-B1/MSJF-B2-LAB",
+                        "11:00": "FM-B1/MSJF-B2-LAB",
+                        "12:00": "FM-B1/MSJF-B2-LAB",
+                        "13:00": "LUNCH",
+                        "13:30": "FM",
+                        "14:30": "ASSOCIATION ACTIVITY",
+                        "15:30": "ASSOCIATION ACTIVITY",
+                        "16:30": "ASSOCIATION ACTIVITY"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "FM-B2/MMM-B1-LAB",
+                        "11:00": "FM-B2/MMM-B1-LAB",
+                        "12:00": "FM-B2/MMM-B1-LAB",
+                        "13:00": "LUNCH",
+                        "13:30": "MOM",
+                        "14:30": "M-IV",
+                        "15:30": "Dip-Mat",
+                        "16:30": "Dip-Mat"
+                    },
+                    "FRI": {
+                        "08:30": "BFE",
+                        "09:30": "BFE",
+                        "10:30": "BREAK",
+                        "11:00": "SSE",
+                        "12:00": "SSE",
+                        "13:00": "LUNCH",
+                        "13:30": "FM",
+                        "14:30": "MOM",
+                        "15:30": "SK",
+                        "16:30": "SK"
+                    },
+                    "SAT": {
+                        "08:30": "BK",
+                        "09:30": "UHV",
+                        "10:30": "BREAK",
+                        "11:00": "M-IV",
+                        "12:00": "MSJF",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "M-IV": [
+                            "Complex Analysis, Probability and        Linear Programming.",
+                            "Dr.K.Betageri"
+                        ],
+                        "Dip-Mat": [
+                            "Diploma-Mathematics",
+                            "Bhuvaneshwari.R.H"
+                        ],
+                        "MSJF": [
+                            "Machining science and jigs and fixtures.",
+                            "Anilkumar.C.K"
+                        ],
+                        "FM": [
+                            "Fluid Mechanics.",
+                            "Pradeep.S.G"
+                        ],
+                        "MOM": [
+                            "Mechanics of Materials.",
+                            "Dr. S. C. Sajjan"
+                        ],
+                        "BFE": [
+                            "Biology for Engineers.",
+                            "P.C.Jabin college faculty"
+                        ],
+                        "MSJF-B1/MMM-B2-LAB ": [
+                            "MSJF-B1/MMM-B2-LAB ",
+                            "Sushrut S. H/ Srinivas.N.T"
+                        ],
+                        "FM-B1/MSJF-B2-LAB": [
+                            "FM-B1/MSJF-B2-LAB",
+                            "Pradeep.S.G/Sushrut S. H"
+                        ],
+                        "FM-B2/MMM-B1-LAB": [
+                            "FM-B2/MMM-B1-LAB",
+                            " Pradeep.S.G/Srinivas.N.T"
+                        ],
+                        "SK": [
+                            "Samskrutika kannada",
+                            "Girija"
+                        ],
+                        "BK": [
+                            "Balake kannada",
+                            "Pradeep.S.G"
+                        ],
+                        "SSE": [
+                            "Spread sheets for engineers(AEC-IV)",
+                            "Dr.V.R.Hiremath"
+                        ],
+                        "UHV": [
+                            "Universal Human Values",
+                            "Dr.Basukumar H K"
+                        ],
+                        "ASSOCIATION ACTIVITY": [
+                            "ASSOCIATION ACTIVITY",
+                            "Guest lecture"
+                        ]
+                    }
+                }
+            },
+            "MEC6SEM": {
+                "MEC6SEMA": {
+                    "LH": "MECL001(LH-1)",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "NTM",
+                        "10:30": "BREAK",
+                        "11:00": "FEM",
+                        "12:00": "NCES/SCM",
+                        "13:00": "LUNCH",
+                        "13:30": "HT",
+                        "14:30": "MP",
+                        "15:30": "MP",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "NTM",
+                        "09:30": "DME-II",
+                        "10:30": "BREAK",
+                        "11:00": "FEM",
+                        "12:00": "NCES/SCM",
+                        "13:00": "LUNCH",
+                        "13:30": "CAMA B2/ HT B1 LAB",
+                        "14:30": "No_Class",
+                        "15:30": "CAMA B2/ HT B1 LAB",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "DME-II",
+                        "10:30": "BREAK",
+                        "11:00": "FEM",
+                        "12:00": "NCES/SCM",
+                        "13:00": "LUNCH",
+                        "13:30": "HT",
+                        "14:30": "ASSOCIATION ACTIVITY",
+                        "15:30": "ASSOCIATION ACTIVITY",
+                        "16:30": "ASSOCIATION ACTIVITY"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "CAMA B1/ HT B2 LAB",
+                        "10:30": "CAMA B1/ HT B2 LAB",
+                        "11:00": "CAMA B1/ HT B2 LAB",
+                        "12:00": "NTM",
+                        "13:00": "LUNCH",
+                        "13:30": "HT",
+                        "14:30": "Placement Training",
+                        "15:30": "Placement Training",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "NTM",
+                        "10:30": "BREAK",
+                        "11:00": "HT",
+                        "12:00": "DME-II",
+                        "13:00": "LUNCH",
+                        "13:30": "FEM",
+                        "14:30": "MP",
+                        "15:30": "MP",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "HT",
+                        "09:30": "FEM",
+                        "10:30": "BREAK",
+                        "11:00": "DME-II",
+                        "12:00": "DME-II TUTORIAL",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "FEM": [
+                            "Finite Element Methods",
+                            "Dr. Anand S.Reddy"
+                        ],
+                        "DME-II": [
+                            "Design of Machine Elements - II",
+                            "Dr.Basukumar H K"
+                        ],
+                        "HT": [
+                            "Heat Transfer",
+                            "Manjunath.G.Prasad "
+                        ],
+                        "NTM": [
+                            "Non-Traditional Machining",
+                            "Shridhar.H.B"
+                        ],
+                        "NCES/SCM": [
+                            "Non-conventional energy sources/Supply Chain Management",
+                            "Vishwanath Savadatti/Srinivas.N.T"
+                        ],
+                        "CAMA B2/ HT B1 LAB": [
+                            "CAMA / HT  LAB",
+                            "Dr. Anand S.Reddy/Manjunath.G.Prasad/ Sushrut S. H"
+                        ],
+                        "CAMA B1/ HT B2 LAB": [
+                            "CAMA / HT  LAB",
+                            "Dr. Anand S.Reddy/Manjunath.G.Prasad/ Sushrut S. H"
+                        ],
+                        "MP": [
+                            "Mini-project",
+                            "Sandeep.C.D+All staff"
+                        ],
+                        "DME-II TUTORIAL": [
+                            "DME-II TUTORIAL",
+                            "Dr.Basukumar H K"
+                        ],
+                        "Placement Training": [
+                            "Placement Training",
+                            "Mr.Manjunath"
+                        ],
+                        "ASSOCIATION ACTIVITY": [
+                            "ASSOCIATION ACTIVITY",
+                            "GUEST LECTURE"
+                        ]
+                    }
+                },
+                "MEC6SEMB": {
+                    "LH": "MECL002(LH-2)",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "HT",
+                        "12:00": "NCES/ SCM",
+                        "13:00": "LUNCH",
+                        "13:30": "DME-II",
+                        "14:30": "CAMA B1/ HT B2 LAB",
+                        "15:30": "CAMA B1/ HT B2 LAB",
+                        "16:30": "CAMA B1/ HT B2 LAB"
+                    },
+                    "TUE": {
+                        "08:30": "NTM",
+                        "09:30": "FEM",
+                        "10:30": "BREAK",
+                        "11:00": "DME-II",
+                        "12:00": "NCES/ SCM",
+                        "13:00": "LUNCH",
+                        "13:30": "MP",
+                        "14:30": "MP",
+                        "15:30": "MP",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "FEM",
+                        "10:30": "BREAK",
+                        "11:00": "HT",
+                        "12:00": "NCES/ SCM",
+                        "13:00": "LUNCH",
+                        "13:30": "DME-II",
+                        "14:30": "ASSOCIATION ACTIVITY",
+                        "15:30": "ASSOCIATION ACTIVITY",
+                        "16:30": "ASSOCIATION ACTIVITY"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "NTM",
+                        "10:30": "BREAK",
+                        "11:00": "DME-II",
+                        "12:00": "FEM",
+                        "13:00": "LUNCH",
+                        "13:30": "HT",
+                        "14:30": "Placement Training",
+                        "15:30": "Placement Training",
+                        "16:30": "MP"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "HT",
+                        "10:30": "BREAK",
+                        "11:00": "FEM",
+                        "12:00": "NTM",
+                        "13:00": "LUNCH",
+                        "13:30": "CAMA B2/ HT B1 LAB",
+                        "14:30": "CAMA B2/ HT B1 LAB",
+                        "15:30": "CAMA B2/ HT B1 LAB",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "HT",
+                        "09:30": "NTM",
+                        "10:30": "BREAK",
+                        "11:00": "DME-II",
+                        "12:00": "FEM",
+                        "13:00": "LUNCH",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "FEM": [
+                            "Finite Element Methods",
+                            "Dr. Anand S.Reddy"
+                        ],
+                        "DME-II": [
+                            "Design of Machine Elements - II",
+                            "Dr.S.C.Sajjan"
+                        ],
+                        "HT": [
+                            "Heat Transfer",
+                            "Sushrut S. H"
+                        ],
+                        "NTM": [
+                            "Non-Traditional Machining",
+                            "Shrinivas N.T"
+                        ],
+                        "NCES/ SCM": [
+                            "Non-conventional energy sources/Supply Chain Management",
+                            "Vishwanath Savadatti/Srinivas.N.T"
+                        ],
+                        "CAMA B1/ HT B2 LAB": [
+                            "CAMA / HT LAB",
+                            "Dr.Basukumar H K/Sushrut S. H"
+                        ],
+                        "CAMA B2/ HT B1 LAB": [
+                            "CAMA / HT  LAB",
+                            "Dr.Basukumar H K/Sushrut S. H"
+                        ],
+                        "MP": [
+                            "Mini-project",
+                            "Sandeep.C.D+All staff"
+                        ],
+                        "ASSOCIATION ACTIVITY": [
+                            "ASSOCIATION ACTIVITY",
+                            "GUEST LECTURE"
+                        ],
+                        "Placement Training": [
+                            "Placement Training",
+                            "Mr.Manjunath"
+                        ]
+                    }
+                }
             }
         },
         "ECE": {
@@ -3105,9 +3665,9 @@
                 }
             }
         },
-        "First_year": {
-            "First_yearC_CycleSEM": {
-                "First_yearC_CycleSEMA": {
+        "FSY": {
+            "FSYC_CycleSEM": {
+                "FSYC_CycleSEME": {
                     "LH": "02",
                     "MON": {
                         "08:30": "No_Class",

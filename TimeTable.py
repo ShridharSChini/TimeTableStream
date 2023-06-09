@@ -59,10 +59,12 @@ current_time = str(now.strftime("%H:%M") )
 days = ['Today','MON','TUE','WED','THU','FRI','SAT','SUN']
 day = days[datetime.today().weekday() + 1]
 
-Departments =["All_DEPT", "First_year", "CSE","ECE","EEE", "MCA", "CIV","MEC"]
+Departments =["All_DEPT", "FSY", "CSE","ECE","EEE", "MCA", "CIV","MEC"]
 # sem = ['ALL_SEM','3','6','8']#,'C_Cycle','P_Cycle']
-sem = ['ALL_SEM','4','6','First_year']
-divisions = ['ALL_DIV','A','B','P_Cycle_A','P_Cycle_B','P_Cycle_C','P_Cycle_D','C_Cycle_E','C_Cycle_F','C_Cycle_G','C_Cycle_H']
+sem = ['ALL_SEM','4','6','P_Cycle','C_Cycle']
+divisions = ['ALL_DIV','A','B','C','D','E','F','G','H']
+
+# divisions = ['ALL_DIV','A','B','P_Cycle_A','P_Cycle_B','P_Cycle_C','P_Cycle_D','C_Cycle_E','C_Cycle_F','C_Cycle_G','C_Cycle_H']
 
 slots = ["08:30", "09:30","10:30","11:00","12:00","13:00","13:30","14:30","15:30","16:30","17:30" ]
 
