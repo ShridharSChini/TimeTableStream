@@ -2113,75 +2113,75 @@
             }
         },
         "FSY": {
-            "FSYC_CycleSEM": {
-                "FSYC_CycleSEME": {
-                    "LH": "02",
+            "FSYP_CycleSEM": {
+                "FSYP_CycleSEMD": {
+                    "LH": "ADCL203",
                     "MON": {
                         "08:30": "No_Class",
-                        "09:30": "BPHYS202",
+                        "09:30": "No_Class",
                         "10:30": "No_Class",
-                        "11:00": "BMATS201",
-                        "12:00": "BPWSK206",
+                        "11:00": "BCIVC203",
+                        "12:00": "BMATC201",
                         "13:00": "No_Class",
-                        "13:30": "BPHYS202",
-                        "14:30": "No_Class",
+                        "13:30": "BPHYC202",
+                        "14:30": "BSFHK208",
                         "15:30": "No_Class",
                         "16:30": "No_Class"
                     },
                     "TUE": {
                         "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "BMATS201",
-                        "12:00": "BPOPS203",
+                        "09:30": "BPHYC202",
+                        "10:30": "BREAK",
+                        "11:00": "BPWSK206",
+                        "12:00": "BESCK204B",
                         "13:00": "No_Class",
-                        "13:30": "BPOPS203",
-                        "14:30": "No_Class",
+                        "13:30": "BCIVC203",
+                        "14:30": "BMATC201",
                         "15:30": "No_Class",
                         "16:30": "No_Class"
                     },
                     "WED": {
-                        "08:30": "BMATS201",
-                        "09:30": "BETCK205J",
+                        "08:30": "BICOK207",
+                        "09:30": "BPLCK205B",
                         "10:30": "No_Class",
-                        "11:00": "BPHYS202",
-                        "12:00": "BESCK204D",
-                        "13:00": "No_Class",
-                        "13:30": "BPOPS203",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "THU": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "BESCK204D",
-                        "12:00": "BPWSK206",
-                        "13:00": "No_Class",
-                        "13:30": "BPOPS203",
-                        "14:30": "BETCK205J",
-                        "15:30": "BSFHK208",
-                        "16:30": "No_Class"
-                    },
-                    "FRI": {
-                        "08:30": "No_Class",
-                        "09:30": "BMATS201",
-                        "10:30": "No_Class",
-                        "11:00": "BESCK204D",
-                        "12:00": "BPHYS202",
+                        "11:00": "BMATC201",
+                        "12:00": "BCIVC203",
                         "13:00": "No_Class",
                         "13:30": "No_Class",
                         "14:30": "No_Class",
                         "15:30": "No_Class",
                         "16:30": "No_Class"
                     },
-                    "SAT": {
-                        "08:30": "BICOK207",
-                        "09:30": "BPOPS203",
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "BPHYC202",
                         "10:30": "No_Class",
-                        "11:00": "BETCK205J",
-                        "12:00": "BPHYS202",
+                        "11:00": "BPLCK205B",
+                        "12:00": "BESCK204B",
+                        "13:00": "No_Class",
+                        "13:30": "Python program Lab/Maths Lab  /Physics Lab",
+                        "14:30": "Python program Lab/Maths Lab  /Physics Lab",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "BESCK204B",
+                        "10:30": "No_Class",
+                        "11:00": "BPWSK206",
+                        "12:00": "BMATC201",
+                        "13:00": "No_Class",
+                        "13:30": "Python program Lab/Maths Lab  /Physics Lab",
+                        "14:30": "Python program Lab/Maths Lab  /Physics Lab",
+                        "15:30": "Python program Lab/Maths Lab  /Physics Lab",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "Python program Lab/Maths Lab  /Physics Lab",
+                        "09:30": "Python program Lab/Maths Lab  /Physics Lab",
+                        "10:30": "BREAK",
+                        "11:00": "BCIVC203",
+                        "12:00": "BPHYC202",
                         "13:00": "No_Class",
                         "13:30": "No_Class",
                         "14:30": "No_Class",
@@ -2201,37 +2201,41 @@
                             "LUNCH",
                             "LUNCH"
                         ],
-                        "BMATS201": [
-                            "Mathematics for CSE-II",
-                            "Mr. N.S Sapare"
-                        ],
-                        "BPHYS202": [
-                            "Physics for CSE",
-                            "Dr. Anita R N"
-                        ],
-                        "BPOPS203": [
-                            "Principles of  Programming using C ",
-                            "Mrs. Soumya P"
-                        ],
-                        "BESCK204D": [
-                            "Introduction to Mech Engg",
-                            "Dr. Sandeep C D"
-                        ],
-                        "BETCK205J": [
-                            "Introduction to Embedded System",
-                            "Mr. Ramachandra T"
-                        ],
                         "BPWSK206": [
                             "Professional Writing skills in  English",
                             "Ms. Gloria A"
                         ],
                         "BICOK207": [
                             "Indian Constitution",
-                            "Mr.L.D Kulkarni"
+                            "Mrs. Anupama"
                         ],
                         "BSFHK208": [
                             "Scientific Foundations of Health",
-                            "Mr.Sunilkumar"
+                            "Dr. S.N Mathad"
+                        ],
+                        "BMATC201": [
+                            "Mathematics for Civil stream",
+                            "Mrs. Bhuvaneshwari"
+                        ],
+                        "BPHYC202": [
+                            "Physics for Civil stream",
+                            "Dr. S.N Mathad"
+                        ],
+                        "BCIVC203": [
+                            "Engineering Mechanics",
+                            "Mr. V.B Karikatti"
+                        ],
+                        "BESCK204B": [
+                            "Introduction to Electrical Engineering",
+                            "Mr. Manjunath R"
+                        ],
+                        "BPLCK205B": [
+                            "Introduction to Python Programming",
+                            "Mr. Gurudeva H"
+                        ],
+                        "Python program Lab/Maths Lab  /Physics Lab": [
+                            "Python program Lab/Maths Lab  /Physics Lab",
+                            "Mr. Gurudeva H/Mrs. Bhuvaneshwari//Dr. S.N Mathad"
                         ]
                     }
                 }
