@@ -4,7 +4,7 @@ from time import time
 import streamlit as st
 from streamlit_option_menu import option_menu
 from pathlib import Path
-from github import Github
+# from github import Github
 
 
 st.set_page_config(layout="wide")
@@ -210,33 +210,33 @@ def timeTable(page_title,dd):
       placeholder.button('SUBMIT',disabled=True,key=2)
       clearAllVariables()
       updateJson(dept_sem_div,day_map)
-      uploadTogitHub(dept_sem_div)
+      # uploadTogitHub(dept_sem_div)
 
-def uploadTogitHub(dept_name):
-  folder_empl_in_git = 'timeTable.json'
-  initial_file = Path(__file__).parent / "timeTable.json"
-  git_branch = 'main'
+# def uploadTogitHub(dept_name):
+#   folder_empl_in_git = 'timeTable.json'
+#   initial_file = Path(__file__).parent / "timeTable.json"
+#   git_branch = 'main'
 
-  g = Github('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')
-  repo = g.get_repo('ShridharSChini/TimeTableStream')
-  all_files = []
-  contents = repo.get_contents("")
+#   g = Github('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')
+#   repo = g.get_repo('ShridharSChini/TimeTableStream')
+#   all_files = []
+#   contents = repo.get_contents("")
 
-  while contents:
-      file_content = contents.pop(0)
-      if file_content.type == "dir":
-          contents.extend(repo.get_contents(file_content.path))
-      else:
-          file = file_content
-          all_files.append(str(file).replace('ContentFile(path="', '').replace('")', ''))
+#   while contents:
+#       file_content = contents.pop(0)
+#       if file_content.type == "dir":
+#           contents.extend(repo.get_contents(file_content.path))
+#       else:
+#           file = file_content
+#           all_files.append(str(file).replace('ContentFile(path="', '').replace('")', ''))
 
-  with open(initial_file, 'r') as file:
-      content = file.read()
+#   with open(initial_file, 'r') as file:
+#       content = file.read()
 
-  if folder_empl_in_git in all_files:
-      contents = repo.get_contents(folder_empl_in_git)
-      repo.update_file(contents.path, "committing for " + dept_name, content, contents.sha, branch=git_branch)
-      print(folder_empl_in_git + ' UPDATED FOR ' + dept_name[0]+' SEM '+dept_name[1]+' DIV '+dept_name[2])
+#   if folder_empl_in_git in all_files:
+#       contents = repo.get_contents(folder_empl_in_git)
+#       repo.update_file(contents.path, "committing for " + dept_name, content, contents.sha, branch=git_branch)
+#       print(folder_empl_in_git + ' UPDATED FOR ' + dept_name[0]+' SEM '+dept_name[1]+' DIV '+dept_name[2])
 
 def innerOptionMenu(sections):
   selected_tab = option_menu(
@@ -320,10 +320,12 @@ def updateJson(dept_sem_div,day_map):
               return
 
     if updated == 0:
+      # st.write( dept_sem_div)
       for title,depts in content.items():
         if dept_sem_div[0] in depts:
           break
         elif updated == 0:
+          st.write( dept_sem_div)
           timeTableJson = {dept_sem_div[0] : {dept_sem_div[0] + dept_sem_div[1]+"SEM":{dept_sem_div[0] + dept_sem_div[1]+"SEM"+dept_sem_div[2]:day_map}}}
           content['DEPT'].update(timeTableJson)
           f.seek(0)
@@ -372,9 +374,10 @@ def check_password():
 if check_password():
 
   st.write("Welcome ",st.session_state["user"])
-
   dept = st.session_state["user"]
   dept = dept[-3:]
+  print(dept)
+  print()
   dept = dept.upper()
   # st.write(dept.upper())
   selectedDept = dept
@@ -387,15 +390,15 @@ if check_password():
   #               orientation="horizontal",
   #           )
   if (selectedDept == "CSE") | (selectedDept == "ECE") | (selectedDept == "MEC"):
-    sections=[selectedDept+"/3/A", selectedDept+"/3/B", selectedDept+"/3/LE", selectedDept+"/5/A",selectedDept+"/5/B", selectedDept+"/7/A", selectedDept+"/7/B",]
-    # sections=[selectedDept+"/4/A", selectedDept+"/4/B", selectedDept+"/6/A",selectedDept+"/6/B", selectedDept+"/8/A", selectedDept+"/8/B",]
+    # sections=[selectedDept+"/3/A", selectedDept+"/3/B", selectedDept+"/3/LE", selectedDept+"/5/A",selectedDept+"/5/B", selectedDept+"/7/A", selectedDept+"/7/B",]
+    sections=[selectedDept+"/4/A", selectedDept+"/4/B", selectedDept+"/6/A",selectedDept+"/6/B", selectedDept+"/8/A", selectedDept+"/8/B",]
   elif(selectedDept == "EEE") | (selectedDept == "MCA") | (selectedDept == "CIV"):
-    sections=[selectedDept+"/3/A", selectedDept+"/3/LE",selectedDept+"/5/A",selectedDept+"/7/A",]
-    # sections=[selectedDept+"/4/A",selectedDept+"/6/A",selectedDept+"/8/A",]
+    # sections=[selectedDept+"/3/A", selectedDept+"/3/LE",selectedDept+"/5/A",selectedDept+"/7/A",]
+    sections=[selectedDept+"/4/A",selectedDept+"/6/A",selectedDept+"/8/A",]
+  elif (selectedDept == "FSY"):
+    sections=[selectedDept+"/P_Cycle/A",selectedDept+"/P_Cycle/B",selectedDept+"/P_Cycle/C",selectedDept+"/P_Cycle/D",selectedDept+"/C_Cycle/E",selectedDept+"/C_Cycle/F",selectedDept+"/C_Cycle/G",selectedDept+"/C_Cycle/H"]
 
-  elif (selectedDept == "First_year"):
-    sections=["First_year/C_Cycle/A","First_year/C_Cycle/B","First_year/C_Cycle/C","First_year/P_Cycle/D","First_year/P_Cycle/E","First_year/P_Cycle/F",]
-
+  
   selected_section = innerOptionMenu(sections)
   subMapping(selected_section +' DIV')
   timeTable(selected_section, subjectCode)
