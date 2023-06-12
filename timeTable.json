@@ -1,266 +1,6 @@
 {
     "DEPT": {
         "CSE": {
-            "CSE4SEM": {
-                "CSE4SEMA": {
-                    "LH": "01",
-                    "MON": {
-                        "08:30": "MES Lab",
-                        "09:30": "MES Lab",
-                        "10:30": "BREAK",
-                        "11:00": "PP Lab",
-                        "12:00": "PP Lab",
-                        "13:00": "LUNCH",
-                        "13:30": "UHV",
-                        "14:30": "MES",
-                        "15:30": "OS",
-                        "16:30": "No_Class"
-                    },
-                    "TUE": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "DAA Lab",
-                        "12:00": "DAA Lab",
-                        "13:00": "LUNCH",
-                        "13:30": "DAA",
-                        "14:30": "MES",
-                        "15:30": "UHV",
-                        "16:30": "No_Class"
-                    },
-                    "WED": {
-                        "08:30": "DAA Lab",
-                        "09:30": "DAA Lab",
-                        "10:30": "BREAK",
-                        "11:00": "MES",
-                        "12:00": "OS",
-                        "13:00": "LUNCH",
-                        "13:30": "MFC",
-                        "14:30": "DAA",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "THU": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "MES",
-                        "12:00": "MES",
-                        "13:00": "No_Class",
-                        "13:30": "DAA",
-                        "14:30": "MES Lab",
-                        "15:30": "MES Lab",
-                        "16:30": "No_Class"
-                    },
-                    "FRI": {
-                        "08:30": "CIP",
-                        "09:30": "DAA",
-                        "10:30": "No_Class",
-                        "11:00": "MFC",
-                        "12:00": "OS",
-                        "13:00": "No_Class",
-                        "13:30": "MES Lab",
-                        "14:30": "MES Lab",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "SAT": {
-                        "08:30": "DAA Lab",
-                        "09:30": "DAA Lab",
-                        "10:30": "No_Class",
-                        "11:00": "OS",
-                        "12:00": "MFC",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FACULTY": {
-                        "No_Class": [
-                            "No_Class",
-                            "No_Class"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "MFC": [
-                            "Mathematical Foundations for Computing",
-                            "Dr. V. T. Hosmath"
-                        ],
-                        "DAA": [
-                            "Design and Analysis of Algorithms",
-                            "Dr. Shidhar Alagi"
-                        ],
-                        "DAA Lab": [
-                            "Design and Analysis of Algorithms Lab",
-                            "Mrs. Soumya Patil"
-                        ],
-                        "MES": [
-                            "Microcontroller and Embedded Systems",
-                            "Mr. Balachandra G.C"
-                        ],
-                        "MES Lab": [
-                            "Microcontroller and Embedded Systems Lab",
-                            "Mr. Balachandra G.C."
-                        ],
-                        "OS": [
-                            "Operating Systems",
-                            "Dr. Vishwanath K"
-                        ],
-                        "BE": [
-                            "Biology For Engineers",
-                            "   Biology faculty"
-                        ],
-                        "PP Lab": [
-                            "Python Programming Laboratory",
-                            "Mrs. Kavitha M."
-                        ],
-                        "UHV": [
-                            "Universal Human Values",
-                            "Mrs. Swati M. Sajjan"
-                        ],
-                        "CIP": [
-                            "Constitution of India and Professional Ethics",
-                            "Mrs. Anupama Akkur"
-                        ],
-                        "AEC": [
-                            "Ability Enhancement Course- IV",
-                            "Mr. Mahantesh M. Sajjan"
-                        ]
-                    }
-                },
-                "CSE4SEMB": {
-                    "LH": "01",
-                    "MON": {
-                        "08:30": "CIP",
-                        "09:30": "DAA Lab",
-                        "10:30": "BREAK",
-                        "11:00": "OS",
-                        "12:00": "MFC",
-                        "13:00": "LUNCH",
-                        "13:30": "MES Lab",
-                        "14:30": "MES Lab",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "TUE": {
-                        "08:30": "UHV",
-                        "09:30": "MFC",
-                        "10:30": "BREAK",
-                        "11:00": "OS",
-                        "12:00": "MES",
-                        "13:00": "LUNCH",
-                        "13:30": "MES Lab",
-                        "14:30": "MES Lab",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "WED": {
-                        "08:30": "DAA Lab",
-                        "09:30": "MFC",
-                        "10:30": "No_Class",
-                        "11:00": "DAA Lab/ PP Lab /AEC",
-                        "12:00": "DAA Lab/ PP Lab /AEC",
-                        "13:00": "LUNCH",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "THU": {
-                        "08:30": "MES",
-                        "09:30": "MFC",
-                        "10:30": "BREAK",
-                        "11:00": "DAA Lab/ PP Lab /AEC",
-                        "12:00": "DAA Lab/ PP Lab /AEC",
-                        "13:00": "LUNCH",
-                        "13:30": "OS",
-                        "14:30": "DAA Lab",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FRI": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "DAA Lab/ PP Lab /AEC",
-                        "12:00": "DAA Lab/ PP Lab /AEC",
-                        "13:00": "LUNCH",
-                        "13:30": "DAA Lab",
-                        "14:30": "MES",
-                        "15:30": "OS",
-                        "16:30": "No_Class"
-                    },
-                    "SAT": {
-                        "08:30": "MES",
-                        "09:30": "UHV",
-                        "10:30": "BREAK",
-                        "11:00": "MES Lab",
-                        "12:00": "MES Lab",
-                        "13:00": "LUNCH",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FACULTY": {
-                        "No_Class": [
-                            "No_Class",
-                            "No_Class"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "MFC": [
-                            "Mathematical Foundations for Computing",
-                            "Mr. Veerabhadrayya H"
-                        ],
-                        "DAA Lab/ PP Lab /AEC": [
-                            "Design and Analysis of Algorithms lab / Python Programming Laboratory / Ability Enhancement Course- IV",
-                            "Mr. Girish Saunshi / Mrs. Vijeeta Patil  / Mr. Pradeep Surasur/ "
-                        ],
-                        "DAA Lab": [
-                            "Design and Analysis of Algorithms ",
-                            "Mr. Girish Saunshi"
-                        ],
-                        "MES": [
-                            "Microcontroller and Embedded Systems",
-                            "Mr. Balachandra G.C."
-                        ],
-                        "MES Lab": [
-                            "Microcontroller and Embedded Systems Lab",
-                            "Mrs. Kavita M."
-                        ],
-                        "OS": [
-                            "Operating Systems",
-                            "Mrs. Vijeeta Patil"
-                        ],
-                        "BE": [
-                            "Biology For Engineers",
-                            "Biology faculty"
-                        ],
-                        "UHV": [
-                            "Universal Human Values",
-                            "Dr. Rajesh S. Y."
-                        ],
-                        "CIP": [
-                            "Constitution of India and Professional Ethics",
-                            "Mrs. Anupama Akkur"
-                        ]
-                    }
-                }
-            },
             "CSE6SEM": {
                 "CSE6SEMA": {
                     "LH": "03",
@@ -509,6 +249,254 @@
                         "Wipro": [
                             "Wipro",
                             "MRS. MALATHI"
+                        ]
+                    }
+                }
+            },
+            "CSE4SEM": {
+                "CSE4SEMA": {
+                    "LH": "01",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "BE",
+                        "10:30": "No_Class",
+                        "11:00": "DAA Lab /PP Lab/MES Lab/ AEC ",
+                        "12:00": "DAA Lab /PP Lab/MES Lab/ AEC ",
+                        "13:00": "No_Class",
+                        "13:30": "DAA",
+                        "14:30": "UHV",
+                        "15:30": "OS",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "DAA Lab /PP Lab/MES Lab/ AEC ",
+                        "09:30": "DAA Lab /PP Lab/MES Lab/ AEC ",
+                        "10:30": "No_Class",
+                        "11:00": "DAA Lab /PP Lab/MES Lab/ AEC ",
+                        "12:00": "DAA Lab /PP Lab/MES Lab/ AEC ",
+                        "13:00": "No_Class",
+                        "13:30": "DAA",
+                        "14:30": "MES",
+                        "15:30": "OS",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "BE",
+                        "10:30": "No_Class",
+                        "11:00": "MES",
+                        "12:00": "OS",
+                        "13:00": "No_Class",
+                        "13:30": "MFC",
+                        "14:30": "DAA",
+                        "15:30": "UHV",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "DAA Lab /PP Lab/MES Lab/ AEC ",
+                        "09:30": "DAA Lab /PP Lab/MES Lab/ AEC ",
+                        "10:30": "No_Class",
+                        "11:00": "MFC",
+                        "12:00": "MES",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "CIP",
+                        "09:30": "DAA",
+                        "10:30": "No_Class",
+                        "11:00": "MFC",
+                        "12:00": "OS",
+                        "13:00": "No_Class",
+                        "13:30": "DAA Lab /PP Lab/MES Lab/ AEC ",
+                        "14:30": "DAA Lab /PP Lab/MES Lab/ AEC ",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "DAA Lab /PP Lab/MES Lab/ AEC ",
+                        "09:30": "DAA Lab /PP Lab/MES Lab/ AEC ",
+                        "10:30": "No_Class",
+                        "11:00": "MES",
+                        "12:00": "MFC",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "MFC": [
+                            "Mathematical Foundations for Computing",
+                            "Dr. V. T. Hosmath"
+                        ],
+                        "DAA": [
+                            "Design and Analysis of Algorithms",
+                            "Dr. Shidhar Alagi "
+                        ],
+                        "MES": [
+                            "Microcontroller and Embedded Systems",
+                            "Mr. Balachandra G.C."
+                        ],
+                        "OS": [
+                            "Operating Systems ",
+                            "Dr. Vishwanath S. K"
+                        ],
+                        "BE": [
+                            "Biology For Engineers",
+                            "Dr. Shikandar D. B."
+                        ],
+                        "UHV": [
+                            "Universal Human Values",
+                            "Mrs. Swati M. Sajjan"
+                        ],
+                        "CIP": [
+                            "Constitution of India and Professional Ethics",
+                            "Mrs. Anupama Akkur"
+                        ],
+                        "DAA Lab /PP Lab/MES Lab/ AEC ": [
+                            "Design and Analysis of Algorithms Lab/Python Programming Laboratory/ Microcontroller and Embedded Systems Lab/Ability Enhancement Course- IV",
+                            "Mrs. Soumya Patil/Mrs. Kavitha M./Mr. Balachandra G.C./"
+                        ]
+                    }
+                },
+                "CSE4SEMB": {
+                    "LH": "01",
+                    "MON": {
+                        "08:30": "CIP",
+                        "09:30": "DAA",
+                        "10:30": "No_Class",
+                        "11:00": "OS",
+                        "12:00": "MFC",
+                        "13:00": "No_Class",
+                        "13:30": "BE",
+                        "14:30": "MES Lab",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "OS",
+                        "12:00": "MES",
+                        "13:00": "No_Class",
+                        "13:30": "BE",
+                        "14:30": "MES Lab",
+                        "15:30": "MES Lab",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "UHV",
+                        "09:30": "MFC",
+                        "10:30": "No_Class",
+                        "11:00": "DAA Lab / PP Lab/AEC",
+                        "12:00": "DAA Lab / PP Lab/AEC",
+                        "13:00": "No_Class",
+                        "13:30": "BE",
+                        "14:30": "MES Lab",
+                        "15:30": "MES Lab",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "DAA",
+                        "09:30": "MFC",
+                        "10:30": "No_Class",
+                        "11:00": "DAA Lab / PP Lab/AEC",
+                        "12:00": "DAA Lab / PP Lab/AEC",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "DAA Lab / PP Lab/AEC",
+                        "12:00": "DAA Lab / PP Lab/AEC",
+                        "13:00": "No_Class",
+                        "13:30": "DAA",
+                        "14:30": "MES",
+                        "15:30": "OS",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "MES",
+                        "09:30": "UHV",
+                        "10:30": "No_Class",
+                        "11:00": "DAA Lab / PP Lab/AEC",
+                        "12:00": "DAA Lab / PP Lab/AEC",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "MFC": [
+                            "Mathematical Foundations for Computing",
+                            "Mr. Veerabhadrayya H"
+                        ],
+                        "DAA": [
+                            "Design and Analysis of Algorithms",
+                            "Mr. Girish Saunshi"
+                        ],
+                        "MES": [
+                            "Microcontroller and Embedded Systems",
+                            "Mr. Balachandra G.C."
+                        ],
+                        "OS": [
+                            "Operating Systems ",
+                            "Mrs. Vijeeta Patil"
+                        ],
+                        "BE": [
+                            "Biology For Engineers",
+                            "Dr. Shikandar D. B."
+                        ],
+                        "UHV": [
+                            "Universal Human Values",
+                            "Dr. Rajesh S. Y."
+                        ],
+                        "CIP": [
+                            "Constitution of India and Professional Ethics",
+                            "Mrs. Anupama Akkur"
+                        ],
+                        "DAA Lab / PP Lab/AEC": [
+                            "Design and Analysis of Algorithms Lab/Microcontroller and Embedded Systems Lab/Python Programming Laboratory",
+                            "Mr. Girish Saunshi /Mrs. Vijeeta Patil/Mr. Pradeep Surasur"
+                        ],
+                        "MES Lab": [
+                            "Microcontroller and Embedded Systems Lab",
+                            "Mrs. Kavita M"
                         ]
                     }
                 }
@@ -1354,131 +1342,6 @@
                 }
             },
             "ECE6SEM": {
-                "ECE6SEMB": {
-                    "LH": "ECLH3",
-                    "MON": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "No_Class",
-                        "12:00": "No_Class",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "TUE": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "No_Class",
-                        "12:00": "No_Class",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "WED": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "No_Class",
-                        "12:00": "No_Class",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "THU": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "No_Class",
-                        "12:00": "No_Class",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FRI": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "No_Class",
-                        "12:00": "No_Class",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "SAT": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "No_Class",
-                        "12:00": "No_Class",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FACULTY": {
-                        "No_Class": [
-                            "No_Class",
-                            "No_Class"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "DC": [
-                            "Digital Communication",
-                            "Mr. Ravi Hosamani"
-                        ],
-                        "ES": [
-                            "Embedded Systems",
-                            "Mr. Rakesh Shetter"
-                        ],
-                        "M&A": [
-                            "Microwave & Antennas",
-                            "Dr. Yerriswamy T"
-                        ],
-                        "PE": [
-                            "Professional Elective",
-                            "Mr. Chetan Sagarnal/Mr. Ramachandra T"
-                        ],
-                        "OE": [
-                            "Open Elective",
-                            "Mr. Kotresh B K"
-                        ],
-                        "ESL": [
-                            "Embedded Systems Laboratory",
-                            "Mr. Chetan Sagarnal"
-                        ],
-                        "CL": [
-                            "Communication Laboratory",
-                            "Mr. Santosh H S  "
-                        ],
-                        "PA": [
-                            "Placement Activity",
-                            "Mr. Manjunath N"
-                        ],
-                        "WT": [
-                            "Wipro Training",
-                            "Mrs. Anusha A R"
-                        ]
-                    }
-                },
                 "ECE6SEMA": {
                     "LH": "ECLH2",
                     "MON": {
@@ -1593,6 +1456,131 @@
                         "CL": [
                             "Communication Laboratory",
                             "Mr. Santosh H S  "
+                        ],
+                        "PA": [
+                            "Placement Activity",
+                            "Mr. Manjunath N"
+                        ],
+                        "WT": [
+                            "Wipro Training",
+                            "Mrs. Anusha A R"
+                        ]
+                    }
+                },
+                "ECE6SEMB": {
+                    "LH": "ECLH3",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "PE",
+                        "10:30": "No_Class",
+                        "11:00": "DC",
+                        "12:00": "OE",
+                        "13:00": "No_Class",
+                        "13:30": "ES",
+                        "14:30": "M&A",
+                        "15:30": "No_Class",
+                        "16:30": "WT"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "M&A",
+                        "10:30": "No_Class",
+                        "11:00": "PE",
+                        "12:00": "OE",
+                        "13:00": "No_Class",
+                        "13:30": "DC",
+                        "14:30": "M&A",
+                        "15:30": "ES",
+                        "16:30": "WT"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "ES",
+                        "10:30": "No_Class",
+                        "11:00": "DC",
+                        "12:00": "OE",
+                        "13:00": "No_Class",
+                        "13:30": "PE",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "WT"
+                    },
+                    "THU": {
+                        "08:30": "DC",
+                        "09:30": "M&A",
+                        "10:30": "No_Class",
+                        "11:00": "OE",
+                        "12:00": "OE",
+                        "13:00": "No_Class",
+                        "13:30": "ESL",
+                        "14:30": "ESL",
+                        "15:30": "ESL",
+                        "16:30": "WT"
+                    },
+                    "FRI": {
+                        "08:30": "ES",
+                        "09:30": "PE",
+                        "10:30": "No_Class",
+                        "11:00": "PA",
+                        "12:00": "PA",
+                        "13:00": "No_Class",
+                        "13:30": "ESL",
+                        "14:30": "ESL",
+                        "15:30": "ESL",
+                        "16:30": "WT"
+                    },
+                    "SAT": {
+                        "08:30": "WT",
+                        "09:30": "ESL",
+                        "10:30": "No_Class",
+                        "11:00": "ESL",
+                        "12:00": "ESL",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "DC": [
+                            "Digital Communication",
+                            "Mr. M. J. Chougala"
+                        ],
+                        "ES": [
+                            "Embedded Systems",
+                            "Mr. Rakesh H. M."
+                        ],
+                        "M&A": [
+                            "Microwave & Antennas",
+                            "Mr. Santhosh H S"
+                        ],
+                        "PE": [
+                            "Professional Elective(PE)",
+                            "Mrs. Jyoti K"
+                        ],
+                        "OE": [
+                            "Open Elective",
+                            "Mr. Kotresh B K"
+                        ],
+                        "ESL": [
+                            "Embedded Systems Laboratory",
+                            "Mr. Rakesh H M "
+                        ],
+                        "CL": [
+                            "Communication Laboratory",
+                            "Mr. M J Chougala "
                         ],
                         "PA": [
                             "Placement Activity",
@@ -2236,6 +2224,943 @@
                         "Python program Lab/Maths Lab  /Physics Lab": [
                             "Python program Lab/Maths Lab  /Physics Lab",
                             "Mr. Gurudeva H/Mrs. Bhuvaneshwari//Dr. S.N Mathad"
+                        ]
+                    }
+                },
+                "FSYP_CycleSEMA": {
+                    "LH": "2",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "BPHYS202",
+                        "10:30": "No_Class",
+                        "11:00": "BMATS201",
+                        "12:00": "BPWSK206",
+                        "13:00": "No_Class",
+                        "13:30": "A1-Physics/A2- C Program/A3-Maths Lab",
+                        "14:30": "A1-Physics/A2- C Program/A3-Maths Lab",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "BMATS201",
+                        "12:00": "BPOPS203",
+                        "13:00": "No_Class",
+                        "13:30": "A1-Physics/A2- C Program/A3-Maths Lab",
+                        "14:30": "A1-Physics/A2- C Program/A3-Maths Lab",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "BMATS201",
+                        "09:30": "BETCK205J",
+                        "10:30": "No_Class",
+                        "11:00": "BPHYS202",
+                        "12:00": "BESCK204D",
+                        "13:00": "No_Class",
+                        "13:30": "A1-Physics/A2- C Program/A3-Maths Lab",
+                        "14:30": "A1-Physics/A2- C Program/A3-Maths Lab",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "BESCK204D",
+                        "12:00": "BPWSK206",
+                        "13:00": "No_Class",
+                        "13:30": "BPOPS203",
+                        "14:30": "BETCK205J",
+                        "15:30": "BSFHK208",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "BMATS201",
+                        "10:30": "No_Class",
+                        "11:00": "BESCK204D",
+                        "12:00": "BPHYS202",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "BICOK207",
+                        "09:30": "BPOPS203",
+                        "10:30": "No_Class",
+                        "11:00": "BETCK205J",
+                        "12:00": "BPHYS202",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "BMATS201": [
+                            "Mathematics for CSE stream",
+                            "Mr. N.S Sapare"
+                        ],
+                        "BPHYS202": [
+                            "Physics for CSE stream",
+                            "Dr. Anita R N"
+                        ],
+                        "BPOPS203": [
+                            "Principles of  Programming using C",
+                            "Mrs. Soumya P"
+                        ],
+                        "BESCK204D": [
+                            "Introduction to Mechanical Engineering",
+                            "Dr. Sandeep C D"
+                        ],
+                        "BETCK205J": [
+                            "Introduction to Embedded System",
+                            "Mr. Ramachandra T"
+                        ],
+                        "BPWSK206": [
+                            "Professional Writing skills in  English",
+                            "Ms. Gloria A"
+                        ],
+                        "BICOK207": [
+                            "Indian Constitution",
+                            "Mr.L.D Kulkarni"
+                        ],
+                        "BSFHK208": [
+                            "Scientific Foundations of Health",
+                            "Dr. Anita R N"
+                        ],
+                        "A1-Physics/A2- C Program/A3-Maths Lab": [
+                            "A1-Physics/A2- C Program/A3-Maths Lab",
+                            "Dr. Anita R N/Mrs. Soumya P/Mr. N.S Sapare"
+                        ]
+                    }
+                },
+                "FSYP_CycleSEMB": {
+                    "LH": "3/4",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "BPHYS202",
+                        "10:30": "No_Class",
+                        "11:00": "BESCK204D",
+                        "12:00": "BPOPS203",
+                        "13:00": "No_Class",
+                        "13:30": "BMATS201",
+                        "14:30": "BETCK205J",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "BICOK207",
+                        "09:30": "BETCK205J",
+                        "10:30": "No_Class",
+                        "11:00": "BPHYS202",
+                        "12:00": "BMATS201",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "BMATS201",
+                        "09:30": "BPOPS203",
+                        "10:30": "No_Class",
+                        "11:00": "BPHYS202",
+                        "12:00": "BETCK205J",
+                        "13:00": "No_Class",
+                        "13:30": "BPWSK206",
+                        "14:30": "BESCK204D",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "B1-Physics /B2- C Program /B3-Maths Lab",
+                        "12:00": "B1-Physics /B2- C Program /B3-Maths Lab",
+                        "13:00": "No_Class",
+                        "13:30": "BMATS201",
+                        "14:30": "BSFHK208",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "B1-Physics /B2- C Program /B3-Maths Lab",
+                        "12:00": "B1-Physics /B2- C Program /B3-Maths Lab",
+                        "13:00": "No_Class",
+                        "13:30": "BPHYS202",
+                        "14:30": "BPOPS203",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "BPWSK206",
+                        "09:30": "BESCK204D",
+                        "10:30": "No_Class",
+                        "11:00": "B1-Physics /B2- C Program /B3-Maths Lab",
+                        "12:00": "B1-Physics /B2- C Program /B3-Maths Lab",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "BMATS201": [
+                            "Mathematics for CSE stream",
+                            "Mr. Akshay Patil"
+                        ],
+                        "BPHYS202": [
+                            "Physics for CSE stream",
+                            "Mr. Sushant S K"
+                        ],
+                        "BPOPS203": [
+                            "Principles of  Programming using C",
+                            "Dr. Shridhar Allagi"
+                        ],
+                        "BESCK204D": [
+                            "Introduction to Mechanical Engineering",
+                            "Mr. Shridhar H B"
+                        ],
+                        "BETCK205J": [
+                            "Introduction to Embedded System",
+                            "Mrs. Aishwarya P"
+                        ],
+                        "BPWSK206": [
+                            "Professional Writing skills in  English",
+                            "Ms. Gloria A"
+                        ],
+                        "BICOK207": [
+                            "Indian Constitution",
+                            "Mrs. Anupama"
+                        ],
+                        "BSFHK208": [
+                            "Scientific Foundations of Health",
+                            "Ms. Gloria A"
+                        ],
+                        "B1-Physics /B2- C Program /B3-Maths Lab": [
+                            "B1-Physics /B2- C Program /B3-Maths Lab",
+                            "Mr. Sushant S K/Dr. Shridhar Allagi/Mr. Akshay Patil"
+                        ]
+                    }
+                },
+                "FSYP_CycleSEMC": {
+                    "LH": "2/3",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "BMATS201",
+                        "10:30": "No_Class",
+                        "11:00": "C1-Physics/C2- C Program/C3-Mat Lab",
+                        "12:00": "C1-Physics/C2- C Program/C3-Mat Lab",
+                        "13:00": "No_Class",
+                        "13:30": "BPOPS203",
+                        "14:30": "BETCK205J",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "BMATS201",
+                        "10:30": "No_Class",
+                        "11:00": "C1-Physics/C2- C Program/C3-Mat Lab",
+                        "12:00": "C1-Physics/C2- C Program/C3-Mat Lab",
+                        "13:00": "No_Class",
+                        "13:30": "BPWSK206",
+                        "14:30": "BPHYS202",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "C1-Physics/C2- C Program/C3-Mat Lab",
+                        "12:00": "C1-Physics/C2- C Program/C3-Mat Lab",
+                        "13:00": "No_Class",
+                        "13:30": "BPHYS202",
+                        "14:30": "BESCK204D",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "BPHYS202",
+                        "09:30": "BPOPS203",
+                        "10:30": "No_Class",
+                        "11:00": "BMATS201",
+                        "12:00": "BETCK205J",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "BICOK207",
+                        "09:30": "BPOPS203",
+                        "10:30": "No_Class",
+                        "11:00": "BETCK205J",
+                        "12:00": "BESCK204D",
+                        "13:00": "No_Class",
+                        "13:30": "BMATS201",
+                        "14:30": "BSFHK208",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "No_Class",
+                        "09:30": "BPHYS202",
+                        "10:30": "No_Class",
+                        "11:00": "BPWSK206",
+                        "12:00": "BESCK204D",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "BMATS201": [
+                            "Mathematics for CSE stream",
+                            "Mr. N.S Sapare"
+                        ],
+                        "BPHYS202": [
+                            "Physics for CSE stream",
+                            "Mr. Sushant S K"
+                        ],
+                        "BPOPS203": [
+                            "Principles of  Programming using C",
+                            "Mrs. Shanta K"
+                        ],
+                        "BESCK204D": [
+                            "Introduction to Mechanical Engineering",
+                            "Mr. Sucheet G"
+                        ],
+                        "BETCK205J": [
+                            "Introduction to Embedded System",
+                            "Mrs. Jyoti C.K"
+                        ],
+                        "BPWSK206": [
+                            "Professional Writing skills in  English",
+                            "Ms. Gloria A"
+                        ],
+                        "BICOK207": [
+                            "Indian Constitution",
+                            "Mr.L.D Kulkarni"
+                        ],
+                        "BSFHK208": [
+                            "Scientific Foundations of Health",
+                            "Mr. Sushant S K"
+                        ],
+                        "C1-Physics/C2- C Program/C3-Mat Lab": [
+                            "C1-Physics/C2- C Program/C3-Mat Lab",
+                            "Mr. Sushant S K/Mrs. Shanta K/Mr. N.S Sapare"
+                        ]
+                    }
+                }
+            },
+            "FSYC_CycleSEM": {
+                "FSYC_CycleSEME": {
+                    "LH": "LH1",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "BREAK",
+                        "11:00": "E1BCHE202/E2BCEDK203/E3BMAT201",
+                        "12:00": "E1BCHE202/E2BCEDK203/E3BMAT201",
+                        "13:00": "LUNCH",
+                        "13:30": "BCHEE202",
+                        "14:30": "BESCK201A",
+                        "15:30": "BETCK205E",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "BREAK",
+                        "11:00": "E2BCHE202/E3BCEDK203/E1BMAT201",
+                        "12:00": "E2BCHE202/E3BCEDK203/E1BMAT201",
+                        "13:00": "LUNCH",
+                        "13:30": "BCHEE202",
+                        "14:30": "BMATE201",
+                        "15:30": "BETCK205E",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "BREAK",
+                        "11:00": "E3BCHE202/E1BCEDK203/E2BMAT201",
+                        "12:00": "E3BCHE202/E1BCEDK203/E2BMAT201",
+                        "13:00": "LUNCH",
+                        "13:30": "BESCK201A",
+                        "14:30": "BPWKS206 ",
+                        "15:30": "BCEDK203 ",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "BKSKK207",
+                        "09:30": "BMATE201",
+                        "10:30": "BREAK",
+                        "11:00": "BIDTK258",
+                        "12:00": "BCEDK203 ",
+                        "13:00": "LUNCH",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "BESCK201A",
+                        "09:30": "BMATE201",
+                        "10:30": "BREAK",
+                        "11:00": "BCEDK203 ",
+                        "12:00": "BCHEE202",
+                        "13:00": "LUNCH",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "BCHEE202",
+                        "09:30": "BMATE201",
+                        "10:30": "BREAK",
+                        "11:00": "BETCK205E",
+                        "12:00": "BPWKS206 ",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "BMATE201": [
+                            "Mathematics",
+                            "Dr. V. T. Hosamath"
+                        ],
+                        "BCHEE202": [
+                            "Chemistry",
+                            "Dr. G. B. Bagihalli"
+                        ],
+                        "BCEDK203 ": [
+                            "Computer-Aided Engineering Drawing",
+                            "Mr. Manjunath P"
+                        ],
+                        "BESCK201A": [
+                            "Introduction to Civil Engineering",
+                            "Mr. Rajath K"
+                        ],
+                        "BETCK205E": [
+                            "Renewable Energy Sources",
+                            "Mr. Prakash Nayak"
+                        ],
+                        "BPWKS206 ": [
+                            "Professional Writing Skills in English",
+                            "Mr. Prateek P"
+                        ],
+                        "BKSKK207": [
+                            "Samskrutika Kannada",
+                            "Mrs. Roopa M"
+                        ],
+                        "BIDTK258": [
+                            " Innovation and Design Thinking",
+                            "Mr. Kotresh K."
+                        ],
+                        "E1BCHE202/E2BCEDK203/E3BMAT201": [
+                            "E1BCHE202/E2BCEDK203/E3BMAT201",
+                            "Dr. G. B. Bagihalli/Mr. Manjunath p./Dr. V. T. Hosamath"
+                        ],
+                        "E2BCHE202/E3BCEDK203/E1BMAT201": [
+                            "E2BCHE202/E3BCEDK203/E1BMAT201",
+                            "Dr. G. B. Bagihalli/Mr. Manjunath p./Dr. V. T. Hosamath"
+                        ],
+                        "E3BCHE202/E1BCEDK203/E2BMAT201": [
+                            "E3BCHE202/E1BCEDK203/E2BMAT201",
+                            "Dr. G. B. Bagihalli/Mr. Manjunath p./Dr. V. T. Hosamath"
+                        ]
+                    }
+                },
+                "FSYC_CycleSEMF": {
+                    "LH": "LH1/5",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "BMATE201 ",
+                        "10:30": "BREAK",
+                        "11:00": "BCHEE202 ",
+                        "12:00": "BCEDK203 ",
+                        "13:00": "LUNCH",
+                        "13:30": "F1BCHE202/F2BCEDK203",
+                        "14:30": "F1BCHE202/F2BCEDK203",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "BMATE201 ",
+                        "09:30": "BESCK201A",
+                        "10:30": "BREAK",
+                        "11:00": "BCEDK203 ",
+                        "12:00": "BPWKS206",
+                        "13:00": "LUNCH",
+                        "13:30": "F2BCHE202/F3BCEDK203",
+                        "14:30": "F2BCHE202/F3BCEDK203",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "BMATE201 ",
+                        "10:30": "BREAK",
+                        "11:00": "BETCK205E",
+                        "12:00": "BCHEE202 ",
+                        "13:00": "LUNCH",
+                        "13:30": "F3BCHE202/F1BCEDK203",
+                        "14:30": "F3BCHE202/F1BCEDK203",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "BETCK205E",
+                        "10:30": "BREAK",
+                        "11:00": "BPWKS206",
+                        "12:00": "BESCK201A",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "BKSKK207",
+                        "09:30": "BIDTK258",
+                        "10:30": "BREAK",
+                        "11:00": "BESCK201A",
+                        "12:00": "BETCK205E",
+                        "13:00": "LUNCH",
+                        "13:30": "BMATE201 ",
+                        "14:30": "BCHEE202 ",
+                        "15:30": "F2BMAT201",
+                        "16:30": "F2BMAT201"
+                    },
+                    "SAT": {
+                        "08:30": "F1BMAT201",
+                        "09:30": "F1BMAT201",
+                        "10:30": "BREAK",
+                        "11:00": "BCEDK203 ",
+                        "12:00": "BCHEE202 ",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "BMATE201 ": [
+                            "Mathematics",
+                            "Dr. V. T. Hosamath"
+                        ],
+                        "BCHEE202 ": [
+                            "Chemistry ",
+                            "Dr. Shikandar D. B."
+                        ],
+                        "BCEDK203 ": [
+                            "Computer-Aided Engineering Drawing",
+                            "Dr. Sandeep D"
+                        ],
+                        "BESCK201A": [
+                            "Introduction to Civil Engineering",
+                            "Dr. V. B. Karikatti"
+                        ],
+                        "BETCK205E": [
+                            "Renewable Energy Sources",
+                            "Mr. Keerthikumar S. H."
+                        ],
+                        "BPWKS206": [
+                            "Professional Writing Skills in English",
+                            "Mr. Prateek P"
+                        ],
+                        "BKSKK207": [
+                            "Samskrutika Kannada",
+                            "Mrs. Roopa M"
+                        ],
+                        "BIDTK258": [
+                            "Innovation and Design Thinking",
+                            "Mr. Kotresh K."
+                        ],
+                        "F1BCHE202/F2BCEDK203": [
+                            "F1BCHE202/F2BCEDK203",
+                            "Mr. Bojappa G./Dr. Sandeep D."
+                        ],
+                        "F2BCHE202/F3BCEDK203": [
+                            "F2BCHE202/F3BCEDK203",
+                            "Mr. Bojappa G./Dr. Sandeep D."
+                        ],
+                        "F3BCHE202/F1BCEDK203": [
+                            "F3BCHE202/F1BCEDK203",
+                            "Mr. Bojappa G./Dr. Sandeep D."
+                        ],
+                        "F2BMAT201": [
+                            "F2BMAT201",
+                            "Mr. V. G. Hiremath"
+                        ],
+                        "F1BMAT201": [
+                            "F1BMAT201",
+                            "Mr. V. G. Hiremath"
+                        ]
+                    }
+                },
+                "FSYC_CycleSEMG": {
+                    "LH": "LH5",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "BPWKS206 ",
+                        "10:30": "BREAK",
+                        "11:00": "BMATE201 ",
+                        "12:00": "BCHEE202",
+                        "13:00": "LUNCH",
+                        "13:30": "BCEDK203",
+                        "14:30": "BIDTK258",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "BCHEE202",
+                        "12:00": "BMATE201 ",
+                        "13:00": "LUNCH",
+                        "13:30": "BPLCK205B",
+                        "14:30": "BPWKS206 ",
+                        "15:30": "G2BMAT201",
+                        "16:30": "G2BMAT201"
+                    },
+                    "WED": {
+                        "08:30": "BKSKK207",
+                        "09:30": "BESCK201A",
+                        "10:30": "BREAK",
+                        "11:00": "BCEDK203",
+                        "12:00": "BPLCK205B",
+                        "13:00": "LUNCH",
+                        "13:30": "BMATE201 ",
+                        "14:30": "BCHEE202",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "G1BCHE202/G2BPLCK205B /G3BMAT201",
+                        "09:30": "G1BCHE202/G2BPLCK205B /G3BMAT201",
+                        "10:30": "BREAK",
+                        "11:00": "BCHEE202",
+                        "12:00": "BESCK201A",
+                        "13:00": "LUNCH",
+                        "13:30": "G2BCEDK203",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "G2BCHE202/G3BPLCK205B/G1BMAT201",
+                        "09:30": "G2BCHE202/G3BPLCK205B/G1BMAT201",
+                        "10:30": "BREAK",
+                        "11:00": "BCEDK203",
+                        "12:00": "BMATE201 ",
+                        "13:00": "LUNCH",
+                        "13:30": "BESCK201A",
+                        "14:30": "G3BCEDK203",
+                        "15:30": "G3BCEDK203",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "G3BCHE202/G1BPLCK205B",
+                        "09:30": "G3BCHE202/G1BPLCK205B",
+                        "10:30": "BREAK",
+                        "11:00": "G1BCEDK203",
+                        "12:00": "G1BCEDK203",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "BMATE201 ": [
+                            "Mathematics",
+                            "Mr. Naveen S Sapare"
+                        ],
+                        "BCHEE202": [
+                            "Chemistry",
+                            "Dr. G. B. Bagihalli"
+                        ],
+                        "BCEDK203": [
+                            "Computer-Aided Engineering Drawing",
+                            "Mr. Shivaprakash M. V."
+                        ],
+                        "BESCK201A": [
+                            "Introduction to Civil Engineering",
+                            "Mr. Rajath Vaidya"
+                        ],
+                        "BPLCK205B": [
+                            "Introduction to Python Programming",
+                            "Mrs. Suman A"
+                        ],
+                        "BPWKS206 ": [
+                            "Professional Writing Skills in English",
+                            "Mr. Pratheek P"
+                        ],
+                        "BKSKK207": [
+                            "Samskrutika Kannada",
+                            "Mrs. Roopa M"
+                        ],
+                        "BIDTK258": [
+                            " Innovation and Design Thinking",
+                            "Dr. Kumarswamy"
+                        ],
+                        "G1BCHE202/G2BPLCK205B /G3BMAT201": [
+                            "G1BCHE202/G2BPLCK205B /G3BMAT201",
+                            "Dr. G. B. Bagihalli/Mrs. Suman A/Mr. Naveen S Sapare"
+                        ],
+                        "G2BCHE202/G3BPLCK205B/G1BMAT201": [
+                            "G2BCHE202/G3BPLCK205B/G1BMAT201",
+                            "Dr. G. B. Bagihalli/Mrs. Suman A/Mr. Naveen S Sapare"
+                        ],
+                        "G3BCHE202/G1BPLCK205B": [
+                            "G3BCHE202/G1BPLCK205B",
+                            "Dr. G. B. Bagihalli/Mrs. Suman A"
+                        ],
+                        "G2BMAT201": [
+                            "G2BMAT201",
+                            "Mr. Naveen S Sapare"
+                        ],
+                        "G2BCEDK203": [
+                            "G2BCEDK203",
+                            "Mr. Shivaprakash M. V. "
+                        ],
+                        "G3BCEDK203": [
+                            "G3BCEDK203",
+                            "Mr. Shivaprakash M. V. "
+                        ],
+                        "G1BCEDK203": [
+                            "G1BCEDK203",
+                            "Mr. Shivaprakash M. V. "
+                        ]
+                    }
+                },
+                "FSYC_CycleSEMH": {
+                    "LH": "LH6",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "BCEDK203",
+                        "10:30": "BREAK",
+                        "11:00": "BMATE201",
+                        "12:00": "BCHEE202 ",
+                        "13:00": "LUNCH",
+                        "13:30": "BPWKS206",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "BKSKK207",
+                        "09:30": "BCEDK203",
+                        "10:30": "BREAK",
+                        "11:00": "BPLCK205B",
+                        "12:00": "BMATE201",
+                        "13:00": "LUNCH",
+                        "13:30": "BESCK204C",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "BIDTK258",
+                        "10:30": "BREAK",
+                        "11:00": "BPLCK205B",
+                        "12:00": "BESCK204C",
+                        "13:00": "LUNCH",
+                        "13:30": "BMATE201",
+                        "14:30": "BCHEE202 ",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "BESCK204C",
+                        "10:30": "BREAK",
+                        "11:00": "BCHEE202 ",
+                        "12:00": "BCEDK203",
+                        "13:00": "LUNCH",
+                        "13:30": "HBPLCK205B",
+                        "14:30": "HBPLCK205B",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "BCHEE202 ",
+                        "10:30": "BREAK",
+                        "11:00": "BMATE201",
+                        "12:00": "BPWKS206",
+                        "13:00": "LUNCH",
+                        "13:30": "HBMAT201",
+                        "14:30": "HBMAT201",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "HBCEDK203",
+                        "09:30": "HBCEDK203",
+                        "10:30": "BREAK",
+                        "11:00": "HBCHE202",
+                        "12:00": "HBCHE202",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "BMATE201": [
+                            "Mathematics",
+                            "Mr. V. G. Hiremath"
+                        ],
+                        "BCHEE202 ": [
+                            "Chemistry ",
+                            "Mr. Bojappa G."
+                        ],
+                        "BCEDK203": [
+                            "Computer-Aided Engineering Drawing",
+                            "Mr. Shivaprakash M. V."
+                        ],
+                        "BESCK204C": [
+                            " Introduction to Electronics Engineering",
+                            "Mr. Santhosh H."
+                        ],
+                        "BPLCK205B": [
+                            "Introduction to Python Programming",
+                            "Mr. Vishwanth"
+                        ],
+                        "BPWKS206": [
+                            "Professional Writing Skills in English",
+                            "Mr. Prateek P"
+                        ],
+                        "BKSKK207": [
+                            "Samskrutika Kannada",
+                            "Mrs. Roopa M"
+                        ],
+                        "BIDTK258": [
+                            "Innovation and Design Thinking",
+                            "Mr. Manjunath P"
+                        ],
+                        "HBCHE202": [
+                            "HBCHE202",
+                            "Mr. Bojappa G"
+                        ],
+                        "HBMAT201": [
+                            "HBMAT201",
+                            "Mr. V. G. Hiremath"
+                        ],
+                        "HBCEDK203": [
+                            "HBCEDK203",
+                            "Dr. Sandeep D"
+                        ],
+                        "HBPLCK205B": [
+                            "HBPLCK205B",
+                            "Mr. Vishwanath "
                         ]
                     }
                 }
