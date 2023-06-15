@@ -390,8 +390,8 @@
                         "16:30": "No_Class"
                     },
                     "TUE": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
+                        "08:30": "UHV",
+                        "09:30": "MFC",
                         "10:30": "No_Class",
                         "11:00": "OS",
                         "12:00": "MES",
@@ -402,28 +402,28 @@
                         "16:30": "No_Class"
                     },
                     "WED": {
-                        "08:30": "UHV",
+                        "08:30": "No_Class",
                         "09:30": "MFC",
                         "10:30": "No_Class",
-                        "11:00": "DAA Lab / PP Lab/AEC",
-                        "12:00": "DAA Lab / PP Lab/AEC",
-                        "13:00": "No_Class",
-                        "13:30": "BE",
-                        "14:30": "MES Lab",
-                        "15:30": "MES Lab",
-                        "16:30": "No_Class"
-                    },
-                    "THU": {
-                        "08:30": "DAA",
-                        "09:30": "MFC",
-                        "10:30": "No_Class",
-                        "11:00": "DAA Lab / PP Lab/AEC",
-                        "12:00": "DAA Lab / PP Lab/AEC",
+                        "11:00": " PP Lab/AEC",
+                        "12:00": " PP Lab/AEC",
                         "13:00": "No_Class",
                         "13:30": "No_Class",
                         "14:30": "No_Class",
                         "15:30": "No_Class",
                         "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "MES",
+                        "09:30": "MFC",
+                        "10:30": "No_Class",
+                        "11:00": "DAA Lab / PP Lab/AEC",
+                        "12:00": "DAA Lab / PP Lab/AEC",
+                        "13:00": "No_Class",
+                        "13:30": "OS",
+                        "14:30": "DAA",
+                        "15:30": "IBOCS",
+                        "16:30": "IBOCS"
                     },
                     "FRI": {
                         "08:30": "No_Class",
@@ -494,6 +494,13 @@
                             "Design and Analysis of Algorithms Lab/Microcontroller and Embedded Systems Lab/Python Programming Laboratory",
                             "Mr. Girish Saunshi /Mrs. Vijeeta Patil/Mr. Pradeep Surasur"
                         ],
+                        "PP Lab/AEC":[
+                            "Microcontroller and Embedded Systems Lab/Python Programming Laboratory",
+                            "Mrs. Vijeeta Patil/Mr. Pradeep Surasur"
+                        ],
+                        "IBOCS":[
+                            "IBOCS - Department Activity",
+                            "Mr. Pradeep Surasur"],
                         "MES Lab": [
                             "Microcontroller and Embedded Systems Lab",
                             "Mrs. Kavita M"
