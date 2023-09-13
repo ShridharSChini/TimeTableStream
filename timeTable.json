@@ -1261,6 +1261,133 @@
                         ]
                     }
                 }
+            },
+            "EEE7SEM": {
+                "EEE7SEMA": {
+                    "LH": "03",
+                    "MON": {
+                        "08:30": "AI Techniques for Electrical and hybrid Electric Vehicles",
+                        "09:30": "Power System Analysis - 2 ",
+                        "10:30": "BREAK",
+                        "11:00": "Power System Protection ",
+                        "12:00": "Electric Vehicles",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "Power System Protection ",
+                        "09:30": "Power System Analysis - 2 ",
+                        "10:30": "No_Class",
+                        "11:00": "AI Techniques for Electrical and hybrid Electric Vehicles",
+                        "12:00": "Electric Vehicles",
+                        "13:00": "No_Class",
+                        "13:30": "Micro and Nano Scale Sensors and Transducers. ",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "Power System Protection ",
+                        "12:00": "Electric Vehicles",
+                        "13:00": "No_Class",
+                        "13:30": "Power system Simulation  Laboratory  ",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "Relay and HV  Laboratory",
+                        "10:30": "Relay and HV  Laboratory",
+                        "11:00": "Relay and HV  Laboratory",
+                        "12:00": "Relay and HV  Laboratory",
+                        "13:00": "No_Class",
+                        "13:30": "Integrated of Distribution Generation. ",
+                        "14:30": "Power System Analysis - 2 ",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "Power system Simulation  Laboratory  ",
+                        "10:30": "Relay and HV  Laboratory",
+                        "11:00": "Power system Simulation  Laboratory  ",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "AI Techniques for Electrical and hybrid Electric Vehicles",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "Power System Analysis - 2 ",
+                        "09:30": "Power System Protection ",
+                        "10:30": "No_Class",
+                        "11:00": "AI Techniques for Electrical and hybrid Electric Vehicles",
+                        "12:00": "Micro and Nano Scale Sensors and Transducers. ",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "Power System Analysis - 2 ": [
+                            "MGH_PSA2",
+                            "Mr.Mallikarjun G. H."
+                        ],
+                        "Power System Protection ": [
+                            "PK_PSP",
+                            "Dr.Prakash Kerur"
+                        ],
+                        "Micro and Nano Scale Sensors and Transducers. ": [
+                            "MST_SU",
+                            "Mrs. Sarita U"
+                        ],
+                        "Integrated of Distribution Generation. ": [
+                            "KSH_IDG",
+                            "Mr. Keertikumar S H"
+                        ],
+                        "AI Techniques for Electrical and hybrid Electric Vehicles": [
+                            "MR_AIEV",
+                            "Mr.Manjunath R."
+                        ],
+                        "Electric Vehicles": [
+                            "VS_EV",
+                            "Dr. Vinoda S."
+                        ],
+                        "Electrical Energy Conservation and Auditing ": [
+                            "MGH_EECA",
+                            "Mr.Mallikarjun G. H."
+                        ],
+                        "Power system Simulation  Laboratory  ": [
+                            "MGH_PSA lab",
+                            "Mr.Mallikarjun G. H."
+                        ],
+                        "Relay and HV  Laboratory": [
+                            "KSH_HV lab",
+                            "Mr. Keertikumar S H"
+                        ]
+                    }
+                }
             }
         },
         "CIV": {
