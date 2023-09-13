@@ -1,7 +1,6 @@
 {
     "DEPT": {
         "CSE": {
-            
             "CSE4SEM": {
                 "CSE4SEMA": {
                     "LH": "01",
@@ -243,13 +242,14 @@
                             "Design and Analysis of Algorithms Lab/Microcontroller and Embedded Systems Lab/Python Programming Laboratory",
                             "Mr. Girish Saunshi /Mrs. Vijeeta Patil/Mr. Pradeep Surasur"
                         ],
-                        "PP Lab/AEC":[
+                        "PP Lab/AEC": [
                             "Microcontroller and Embedded Systems Lab/Python Programming Laboratory",
                             "Mrs. Vijeeta Patil/Mr. Pradeep Surasur"
                         ],
-                        "IBOCS":[
+                        "IBOCS": [
                             "IBOCS - Department Activity",
-                            "Mr. Pradeep Surasur"],
+                            "Mr. Pradeep Surasur"
+                        ],
                         "MES Lab": [
                             "Microcontroller and Embedded Systems Lab",
                             "Mrs. Kavita M"
@@ -551,6 +551,298 @@
                         "ASSOCIATION ACTIVITY": [
                             "ASSOCIATION ACTIVITY",
                             "Guest lecture"
+                        ]
+                    }
+                }
+            },
+            "MEC7SEM": {
+                "MEC7SEMA": {
+                    "LH": "CVCL202(ME-LH-5)",
+                    "MON": {
+                        "08:30": "OR",
+                        "09:30": "CE",
+                        "10:30": "BREAK",
+                        "11:00": "AM/MECH",
+                        "12:00": "EE /AE",
+                        "13:00": "LUNCH",
+                        "13:30": "DESIGN B1/CIM B2",
+                        "14:30": "DESIGN B1/CIM B2",
+                        "15:30": "DESIGN B1/CIM B2",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "CE",
+                        "10:30": "BREAK",
+                        "11:00": "CADM",
+                        "12:00": "EE /AE",
+                        "13:00": "LUNCH",
+                        "13:30": "DESIGN B2/CIM B1",
+                        "14:30": "DESIGN B2/CIM B1",
+                        "15:30": "DESIGN B2/CIM B1",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "OR/TQM",
+                        "10:30": "BREAK",
+                        "11:00": "AM/MECH",
+                        "12:00": "EE /AE",
+                        "13:00": "LUNCH",
+                        "13:30": "ASSOSIATION ACTIVITY",
+                        "14:30": "ASSOSIATION ACTIVITY",
+                        "15:30": "Tutorial",
+                        "16:30": "Tutorial"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "CADM",
+                        "10:30": "BREAK",
+                        "11:00": "OR/TQM",
+                        "12:00": "CE",
+                        "13:00": "LUNCH",
+                        "13:30": "PLACEMENT  ACTIVITY",
+                        "14:30": "PLACEMENT  ACTIVITY",
+                        "15:30": "Project Work",
+                        "16:30": "Project Work"
+                    },
+                    "FRI": {
+                        "08:30": "CE (Tutorial)",
+                        "09:30": "AM/MECH",
+                        "10:30": "BREAK",
+                        "11:00": "OR/TQM",
+                        "12:00": "CADM",
+                        "13:00": "LUNCH",
+                        "13:30": "Project Work",
+                        "14:30": "Project Work",
+                        "15:30": "Project Work",
+                        "16:30": "Project Work"
+                    },
+                    "SAT": {
+                        "08:30": "OR/TQM",
+                        "09:30": "AM/MECH",
+                        "10:30": "BREAK",
+                        "11:00": "CE",
+                        "12:00": "No_Class",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "CE": [
+                            "Control Engineering",
+                            "Dr.S.C.Sajjan"
+                        ],
+                        "CADM": [
+                            "Computer Aided Design and manufacturing.",
+                            "Mr.Sushrut S. H"
+                        ],
+                        "OR/TQM": [
+                            "Operations Research/  Total quality management",
+                            "Dr.Basukumar H K /Mr.Srinivas.N.T"
+                        ],
+                        "AM/MECH": [
+                            "Additive Manufacturing/ Mechatronics",
+                            "Mr.Anilkumar.C.K/ Mr.Pradeep.S.G"
+                        ],
+                        "EE /AE": [
+                            "Energy and Environment/ Automotive Engineering",
+                            "Mr.Vishwanath Savadatti/Dr.V.R.Hiremath "
+                        ],
+                        "CIM Lab": [
+                            "CIM Lab",
+                            "Mr.Anilkumar.C.K"
+                        ],
+                        "Design Lab": [
+                            "Design Lab",
+                            "Dr.Basukumar H K"
+                        ],
+                        "OR": [
+                            "Operations Research",
+                            "Dr.Basukumar H K"
+                        ],
+                        "DESIGN B1/CIM B2": [
+                            "DESIGN B1/CIM B2",
+                            "Dr.Basukumar H K/Mr.Anilkumar.C.K"
+                        ],
+                        "DESIGN B2/CIM B1": [
+                            "DESIGN B2/CIM B1",
+                            "Dr.Basukumar H K/Mr.Anilkumar.C.K"
+                        ],
+                        "ASSOSIATION ACTIVITY": [
+                            "ASSOSIATION ACTIVITY",
+                            "ASSOSIATION ACTIVITY"
+                        ],
+                        "Tutorial": [
+                            "Tutorial",
+                            "Tutorial"
+                        ],
+                        "PLACEMENT  ACTIVITY": [
+                            "PLACEMENT  ACTIVITY",
+                            "PLACEMENT  ACTIVITY"
+                        ],
+                        "CE (Tutorial)": [
+                            "CE (Tutorial)",
+                            "Dr.S.C.Sajjan"
+                        ],
+                        "Project Work": [
+                            "Project Work",
+                            "Project Work"
+                        ]
+                    }
+                },
+                "MEC7SEMB": {
+                    "LH": "CVCL203(ME-LH-4)",
+                    "MON": {
+                        "08:30": "OR",
+                        "09:30": "CE",
+                        "10:30": "BREAK",
+                        "11:00": "AM/MECH",
+                        "12:00": "EE /AE",
+                        "13:00": "LUNCH",
+                        "13:30": "Project Work",
+                        "14:30": "Project Work",
+                        "15:30": "Project Work",
+                        "16:30": "Project Work"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "DESIGN B1/CIM B2",
+                        "10:30": "DESIGN B1/CIM B2",
+                        "11:00": "DESIGN B1/CIM B2",
+                        "12:00": "EE /AE",
+                        "13:00": "LUNCH",
+                        "13:30": "CADM",
+                        "14:30": "CE",
+                        "15:30": "Project Work",
+                        "16:30": "Project Work"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "OR/TQM",
+                        "10:30": "BREAK",
+                        "11:00": "AM/MECH",
+                        "12:00": "EE /AE",
+                        "13:00": "LUNCH",
+                        "13:30": "ASSOSIATION ACTIVITY",
+                        "14:30": "ASSOSIATION ACTIVITY",
+                        "15:30": "Tutorial",
+                        "16:30": "Tutorial"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "CADM",
+                        "10:30": "BREAK",
+                        "11:00": "OR/TQM",
+                        "12:00": "CE",
+                        "13:00": "LUNCH",
+                        "13:30": "PLACEMENT  ACTIVITY",
+                        "14:30": "PLACEMENT  ACTIVITY",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "CE (Tutorial)",
+                        "09:30": "AM/MECH",
+                        "10:30": "BREAK",
+                        "11:00": "OR/TQM",
+                        "12:00": "CADM",
+                        "13:00": "LUNCH",
+                        "13:30": "DESIGN B2/CIM B1",
+                        "14:30": "DESIGN B2/CIM B1",
+                        "15:30": "DESIGN B2/CIM B1",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "OR/TQM",
+                        "09:30": "AM/MECH",
+                        "10:30": "BREAK",
+                        "11:00": "CE",
+                        "12:00": "CADM",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "CE": [
+                            "Control Engineering",
+                            "Mr.Sushrut S. H"
+                        ],
+                        "CADM": [
+                            "Computer Aided Design and manufacturing.",
+                            "Mr.Vishwanath. Savadatti"
+                        ],
+                        "OR/TQM": [
+                            "Operations Research/  Total quality management",
+                            "Dr.Basukumar H K /Mr.Srinivas.N.T"
+                        ],
+                        "AM/MECH": [
+                            "Additive Manufacturing/ Mechatronics",
+                            "Mr.Anilkumar.C.K/ Mr.Pradeep.S.G"
+                        ],
+                        "EE /AE": [
+                            "Energy and Environment/ Automotive Engineering",
+                            "Mr.Vishwanath Savadatti/Dr.V.R.Hiremath "
+                        ],
+                        "DESIGN B1/CIM B2": [
+                            "DESIGN B1/CIM B2",
+                            "Mr.Sushrut S. H/ Dr.Basukumar H K"
+                        ],
+                        "DESIGN B2/CIM B1": [
+                            "DESIGN B2/CIM B1",
+                            "Mr.Sushrut S. H/ Dr.Basukumar H K"
+                        ],
+                        "OR": [
+                            "Operations Research",
+                            "Dr.Basukumar H K"
+                        ],
+                        "Project Work": [
+                            "Project Work",
+                            "Project Work"
+                        ],
+                        "ASSOSIATION ACTIVITY": [
+                            "ASSOSIATION ACTIVITY",
+                            "ASSOSIATION ACTIVITY"
+                        ],
+                        "Tutorial": [
+                            "Tutorial",
+                            "Tutorial"
+                        ],
+                        "PLACEMENT  ACTIVITY": [
+                            "PLACEMENT  ACTIVITY",
+                            "PLACEMENT  ACTIVITY"
+                        ],
+                        "CE (Tutorial)": [
+                            "CE (Tutorial)",
+                            "Mr.Sushrut S. H"
                         ]
                     }
                 }
@@ -1110,6 +1402,153 @@
                         ]
                     }
                 }
+            },
+            "CIV7SEM": {
+                "CIV7SEMA": {
+                    "LH": "",
+                    "MON": {
+                        "08:30": "INT",
+                        "09:30": "INT",
+                        "10:30": "BREAK",
+                        "11:00": "DRSS",
+                        "12:00": "EPM",
+                        "13:00": "LUNCH",
+                        "13:30": "AA",
+                        "14:30": "AA",
+                        "15:30": "AA",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "CADS",
+                        "09:30": "GE LAB",
+                        "10:30": "BREAK",
+                        "11:00": "GE LAB",
+                        "12:00": "NM",
+                        "13:00": "LUNCH",
+                        "13:30": "DRSS",
+                        "14:30": "PA",
+                        "15:30": "PA",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "DRSS",
+                        "10:30": "BREAK",
+                        "11:00": "EE",
+                        "12:00": "EPM",
+                        "13:00": "LUNCH",
+                        "13:30": "APC",
+                        "14:30": "CADS",
+                        "15:30": "GE LAB",
+                        "16:30": "CADS"
+                    },
+                    "THU": {
+                        "08:30": "APC",
+                        "09:30": "QSCM",
+                        "10:30": "BREAK",
+                        "11:00": "APC",
+                        "12:00": "DHS",
+                        "13:00": "LUNCH",
+                        "13:30": "QSCM",
+                        "14:30": "PWP-1",
+                        "15:30": "PWP-1",
+                        "16:30": "PWP-1"
+                    },
+                    "FRI": {
+                        "08:30": "AS/AA",
+                        "09:30": "AS/AA",
+                        "10:30": "BREAK",
+                        "11:00": "DRSS",
+                        "12:00": "DHS",
+                        "13:00": "LUNCH",
+                        "13:30": "GE LAB",
+                        "14:30": "CADS",
+                        "15:30": "GE LAB",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "QSCM",
+                        "09:30": "QSCM",
+                        "10:30": "BREAK",
+                        "11:00": "APC",
+                        "12:00": "EE",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "QSCM": [
+                            "Quantity Surveying & Contract Management",
+                            "KKH"
+                        ],
+                        "DRSS": [
+                            "Design of RCC and Steel Structures",
+                            "PMT"
+                        ],
+                        "APC": [
+                            "Air Pollution & Control ( Professional Elective-2)",
+                            "DRK"
+                        ],
+                        "EE": [
+                            "Earthquake Engineering",
+                            "Dr.SGJ"
+                        ],
+                        "DHS": [
+                            "Design of Hydraulic Structures",
+                            "Dr. RSL"
+                        ],
+                        "EPM": [
+                            "Environmental Protection & Management",
+                            "DRK"
+                        ],
+                        "NM": [
+                            "Numerical Method",
+                            "SVP"
+                        ],
+                        "CADS": [
+                            "Computer Aided Detailing of Structures",
+                            "PMT"
+                        ],
+                        "GE LAB": [
+                            "Geotechnical Engineering Laboratory",
+                            "RSV"
+                        ],
+                        "PWP-1": [
+                            "Project Work Phase I",
+                            "MSD"
+                        ],
+                        "INT": [
+                            "Internship",
+                            "SVP"
+                        ],
+                        "AA": [
+                            "Association Activities",
+                            "SSH"
+                        ],
+                        "PA": [
+                            "Placement Activities",
+                            "MN"
+                        ],
+                        "AS/AA": [
+                            "Seminar Activities/AICTE Activities",
+                            "DRK/SVP"
+                        ]
+                    }
+                }
             }
         },
         "MCA": {
@@ -1218,1070 +1657,8 @@
             }
         },
         "FSY": {
-            "FSYP_CycleSEM": {
-                "FSYP_CycleSEMD": {
-                    "LH": "ADCL203",
-                    "MON": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "BCIVC203",
-                        "12:00": "BMATC201",
-                        "13:00": "No_Class",
-                        "13:30": "BPHYC202",
-                        "14:30": "BSFHK208",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "TUE": {
-                        "08:30": "No_Class",
-                        "09:30": "BPHYC202",
-                        "10:30": "BREAK",
-                        "11:00": "BPWSK206",
-                        "12:00": "BESCK204B",
-                        "13:00": "No_Class",
-                        "13:30": "BCIVC203",
-                        "14:30": "BMATC201",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "WED": {
-                        "08:30": "BICOK207",
-                        "09:30": "BPLCK205B",
-                        "10:30": "No_Class",
-                        "11:00": "BMATC201",
-                        "12:00": "BCIVC203",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "THU": {
-                        "08:30": "No_Class",
-                        "09:30": "BPHYC202",
-                        "10:30": "No_Class",
-                        "11:00": "BPLCK205B",
-                        "12:00": "BESCK204B",
-                        "13:00": "No_Class",
-                        "13:30": "Python program Lab/Maths Lab  /Physics Lab",
-                        "14:30": "Python program Lab/Maths Lab  /Physics Lab",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FRI": {
-                        "08:30": "No_Class",
-                        "09:30": "BESCK204B",
-                        "10:30": "No_Class",
-                        "11:00": "BPWSK206",
-                        "12:00": "BMATC201",
-                        "13:00": "No_Class",
-                        "13:30": "Python program Lab/Maths Lab  /Physics Lab",
-                        "14:30": "Python program Lab/Maths Lab  /Physics Lab",
-                        "15:30": "Python program Lab/Maths Lab  /Physics Lab",
-                        "16:30": "No_Class"
-                    },
-                    "SAT": {
-                        "08:30": "Python program Lab/Maths Lab  /Physics Lab",
-                        "09:30": "Python program Lab/Maths Lab  /Physics Lab",
-                        "10:30": "BREAK",
-                        "11:00": "BCIVC203",
-                        "12:00": "BPHYC202",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FACULTY": {
-                        "No_Class": [
-                            "No_Class",
-                            "No_Class"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "BPWSK206": [
-                            "Professional Writing skills in  English",
-                            "Ms. Gloria A"
-                        ],
-                        "BICOK207": [
-                            "Indian Constitution",
-                            "Mrs. Anupama"
-                        ],
-                        "BSFHK208": [
-                            "Scientific Foundations of Health",
-                            "Dr. S.N Mathad"
-                        ],
-                        "BMATC201": [
-                            "Mathematics for Civil stream",
-                            "Mrs. Bhuvaneshwari"
-                        ],
-                        "BPHYC202": [
-                            "Physics for Civil stream",
-                            "Dr. S.N Mathad"
-                        ],
-                        "BCIVC203": [
-                            "Engineering Mechanics",
-                            "Mr. V.B Karikatti"
-                        ],
-                        "BESCK204B": [
-                            "Introduction to Electrical Engineering",
-                            "Mr. Manjunath R"
-                        ],
-                        "BPLCK205B": [
-                            "Introduction to Python Programming",
-                            "Mr. Gurudeva H"
-                        ],
-                        "Python program Lab/Maths Lab  /Physics Lab": [
-                            "Python program Lab/Maths Lab  /Physics Lab",
-                            "Mr. Gurudeva H/Mrs. Bhuvaneshwari//Dr. S.N Mathad"
-                        ]
-                    }
-                },
-                "FSYP_CycleSEMA": {
-                    "LH": "2",
-                    "MON": {
-                        "08:30": "No_Class",
-                        "09:30": "BPHYS202",
-                        "10:30": "No_Class",
-                        "11:00": "BMATS201",
-                        "12:00": "BPWSK206",
-                        "13:00": "No_Class",
-                        "13:30": "A1-Physics/A2- C Program/A3-Maths Lab",
-                        "14:30": "A1-Physics/A2- C Program/A3-Maths Lab",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "TUE": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "BMATS201",
-                        "12:00": "BPOPS203",
-                        "13:00": "No_Class",
-                        "13:30": "A1-Physics/A2- C Program/A3-Maths Lab",
-                        "14:30": "A1-Physics/A2- C Program/A3-Maths Lab",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "WED": {
-                        "08:30": "BMATS201",
-                        "09:30": "BETCK205J",
-                        "10:30": "No_Class",
-                        "11:00": "BPHYS202",
-                        "12:00": "BESCK204D",
-                        "13:00": "No_Class",
-                        "13:30": "A1-Physics/A2- C Program/A3-Maths Lab",
-                        "14:30": "A1-Physics/A2- C Program/A3-Maths Lab",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "THU": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "BESCK204D",
-                        "12:00": "BPWSK206",
-                        "13:00": "No_Class",
-                        "13:30": "BPOPS203",
-                        "14:30": "BETCK205J",
-                        "15:30": "BSFHK208",
-                        "16:30": "No_Class"
-                    },
-                    "FRI": {
-                        "08:30": "No_Class",
-                        "09:30": "BMATS201",
-                        "10:30": "No_Class",
-                        "11:00": "BESCK204D",
-                        "12:00": "BPHYS202",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "SAT": {
-                        "08:30": "BICOK207",
-                        "09:30": "BPOPS203",
-                        "10:30": "No_Class",
-                        "11:00": "BETCK205J",
-                        "12:00": "BPHYS202",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FACULTY": {
-                        "No_Class": [
-                            "No_Class",
-                            "No_Class"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "BMATS201": [
-                            "Mathematics for CSE stream",
-                            "Mr. N.S Sapare"
-                        ],
-                        "BPHYS202": [
-                            "Physics for CSE stream",
-                            "Dr. Anita R N"
-                        ],
-                        "BPOPS203": [
-                            "Principles of  Programming using C",
-                            "Mrs. Soumya P"
-                        ],
-                        "BESCK204D": [
-                            "Introduction to Mechanical Engineering",
-                            "Dr. Sandeep C D"
-                        ],
-                        "BETCK205J": [
-                            "Introduction to Embedded System",
-                            "Mr. Ramachandra T"
-                        ],
-                        "BPWSK206": [
-                            "Professional Writing skills in  English",
-                            "Ms. Gloria A"
-                        ],
-                        "BICOK207": [
-                            "Indian Constitution",
-                            "Mr.L.D Kulkarni"
-                        ],
-                        "BSFHK208": [
-                            "Scientific Foundations of Health",
-                            "Dr. Anita R N"
-                        ],
-                        "A1-Physics/A2- C Program/A3-Maths Lab": [
-                            "A1-Physics/A2- C Program/A3-Maths Lab",
-                            "Dr. Anita R N/Mrs. Soumya P/Mr. N.S Sapare"
-                        ]
-                    }
-                },
-                "FSYP_CycleSEMB": {
-                    "LH": "3/4",
-                    "MON": {
-                        "08:30": "No_Class",
-                        "09:30": "BPHYS202",
-                        "10:30": "No_Class",
-                        "11:00": "BESCK204D",
-                        "12:00": "BPOPS203",
-                        "13:00": "No_Class",
-                        "13:30": "BMATS201",
-                        "14:30": "BETCK205J",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "TUE": {
-                        "08:30": "BICOK207",
-                        "09:30": "BETCK205J",
-                        "10:30": "No_Class",
-                        "11:00": "BPHYS202",
-                        "12:00": "BMATS201",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "WED": {
-                        "08:30": "BMATS201",
-                        "09:30": "BPOPS203",
-                        "10:30": "No_Class",
-                        "11:00": "BPHYS202",
-                        "12:00": "BETCK205J",
-                        "13:00": "No_Class",
-                        "13:30": "BPWSK206",
-                        "14:30": "BESCK204D",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "THU": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "B1-Physics /B2- C Program /B3-Maths Lab",
-                        "12:00": "B1-Physics /B2- C Program /B3-Maths Lab",
-                        "13:00": "No_Class",
-                        "13:30": "BMATS201",
-                        "14:30": "BSFHK208",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FRI": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "B1-Physics /B2- C Program /B3-Maths Lab",
-                        "12:00": "B1-Physics /B2- C Program /B3-Maths Lab",
-                        "13:00": "No_Class",
-                        "13:30": "BPHYS202",
-                        "14:30": "BPOPS203",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "SAT": {
-                        "08:30": "BPWSK206",
-                        "09:30": "BESCK204D",
-                        "10:30": "No_Class",
-                        "11:00": "B1-Physics /B2- C Program /B3-Maths Lab",
-                        "12:00": "B1-Physics /B2- C Program /B3-Maths Lab",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FACULTY": {
-                        "No_Class": [
-                            "No_Class",
-                            "No_Class"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "BMATS201": [
-                            "Mathematics for CSE stream",
-                            "Mr. Akshay Patil"
-                        ],
-                        "BPHYS202": [
-                            "Physics for CSE stream",
-                            "Mr. Sushant S K"
-                        ],
-                        "BPOPS203": [
-                            "Principles of  Programming using C",
-                            "Dr. Shridhar Allagi"
-                        ],
-                        "BESCK204D": [
-                            "Introduction to Mechanical Engineering",
-                            "Mr. Shridhar H B"
-                        ],
-                        "BETCK205J": [
-                            "Introduction to Embedded System",
-                            "Mrs. Aishwarya P"
-                        ],
-                        "BPWSK206": [
-                            "Professional Writing skills in  English",
-                            "Ms. Gloria A"
-                        ],
-                        "BICOK207": [
-                            "Indian Constitution",
-                            "Mrs. Anupama"
-                        ],
-                        "BSFHK208": [
-                            "Scientific Foundations of Health",
-                            "Ms. Gloria A"
-                        ],
-                        "B1-Physics /B2- C Program /B3-Maths Lab": [
-                            "B1-Physics /B2- C Program /B3-Maths Lab",
-                            "Mr. Sushant S K/Dr. Shridhar Allagi/Mr. Akshay Patil"
-                        ]
-                    }
-                },
-                "FSYP_CycleSEMC": {
-                    "LH": "2/3",
-                    "MON": {
-                        "08:30": "No_Class",
-                        "09:30": "BMATS201",
-                        "10:30": "No_Class",
-                        "11:00": "C1-Physics/C2- C Program/C3-Mat Lab",
-                        "12:00": "C1-Physics/C2- C Program/C3-Mat Lab",
-                        "13:00": "No_Class",
-                        "13:30": "BPOPS203",
-                        "14:30": "BETCK205J",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "TUE": {
-                        "08:30": "No_Class",
-                        "09:30": "BMATS201",
-                        "10:30": "No_Class",
-                        "11:00": "C1-Physics/C2- C Program/C3-Mat Lab",
-                        "12:00": "C1-Physics/C2- C Program/C3-Mat Lab",
-                        "13:00": "No_Class",
-                        "13:30": "BPWSK206",
-                        "14:30": "BPHYS202",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "WED": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "C1-Physics/C2- C Program/C3-Mat Lab",
-                        "12:00": "C1-Physics/C2- C Program/C3-Mat Lab",
-                        "13:00": "No_Class",
-                        "13:30": "BPHYS202",
-                        "14:30": "BESCK204D",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "THU": {
-                        "08:30": "BPHYS202",
-                        "09:30": "BPOPS203",
-                        "10:30": "No_Class",
-                        "11:00": "BMATS201",
-                        "12:00": "BETCK205J",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FRI": {
-                        "08:30": "BICOK207",
-                        "09:30": "BPOPS203",
-                        "10:30": "No_Class",
-                        "11:00": "BETCK205J",
-                        "12:00": "BESCK204D",
-                        "13:00": "No_Class",
-                        "13:30": "BMATS201",
-                        "14:30": "BSFHK208",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "SAT": {
-                        "08:30": "No_Class",
-                        "09:30": "BPHYS202",
-                        "10:30": "No_Class",
-                        "11:00": "BPWSK206",
-                        "12:00": "BESCK204D",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FACULTY": {
-                        "No_Class": [
-                            "No_Class",
-                            "No_Class"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "BMATS201": [
-                            "Mathematics for CSE stream",
-                            "Mr. N.S Sapare"
-                        ],
-                        "BPHYS202": [
-                            "Physics for CSE stream",
-                            "Mr. Sushant S K"
-                        ],
-                        "BPOPS203": [
-                            "Principles of  Programming using C",
-                            "Mrs. Shanta K"
-                        ],
-                        "BESCK204D": [
-                            "Introduction to Mechanical Engineering",
-                            "Mr. Sucheet G"
-                        ],
-                        "BETCK205J": [
-                            "Introduction to Embedded System",
-                            "Mrs. Jyoti C.K"
-                        ],
-                        "BPWSK206": [
-                            "Professional Writing skills in  English",
-                            "Ms. Gloria A"
-                        ],
-                        "BICOK207": [
-                            "Indian Constitution",
-                            "Mr.L.D Kulkarni"
-                        ],
-                        "BSFHK208": [
-                            "Scientific Foundations of Health",
-                            "Mr. Sushant S K"
-                        ],
-                        "C1-Physics/C2- C Program/C3-Mat Lab": [
-                            "C1-Physics/C2- C Program/C3-Mat Lab",
-                            "Mr. Sushant S K/Mrs. Shanta K/Mr. N.S Sapare"
-                        ]
-                    }
-                }
-            },
-            "FSYC_CycleSEM": {
-                "FSYC_CycleSEME": {
-                    "LH": "LH1",
-                    "MON": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "BREAK",
-                        "11:00": "E1BCHE202/E2BCEDK203/E3BMAT201",
-                        "12:00": "E1BCHE202/E2BCEDK203/E3BMAT201",
-                        "13:00": "LUNCH",
-                        "13:30": "BCHEE202",
-                        "14:30": "BESCK201A",
-                        "15:30": "BETCK205E",
-                        "16:30": "No_Class"
-                    },
-                    "TUE": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "BREAK",
-                        "11:00": "E2BCHE202/E3BCEDK203/E1BMAT201",
-                        "12:00": "E2BCHE202/E3BCEDK203/E1BMAT201",
-                        "13:00": "LUNCH",
-                        "13:30": "BCHEE202",
-                        "14:30": "BMATE201",
-                        "15:30": "BETCK205E",
-                        "16:30": "No_Class"
-                    },
-                    "WED": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "BREAK",
-                        "11:00": "E3BCHE202/E1BCEDK203/E2BMAT201",
-                        "12:00": "E3BCHE202/E1BCEDK203/E2BMAT201",
-                        "13:00": "LUNCH",
-                        "13:30": "BESCK201A",
-                        "14:30": "BPWKS206 ",
-                        "15:30": "BCEDK203 ",
-                        "16:30": "No_Class"
-                    },
-                    "THU": {
-                        "08:30": "BKSKK207",
-                        "09:30": "BMATE201",
-                        "10:30": "BREAK",
-                        "11:00": "BIDTK258",
-                        "12:00": "BCEDK203 ",
-                        "13:00": "LUNCH",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FRI": {
-                        "08:30": "BESCK201A",
-                        "09:30": "BMATE201",
-                        "10:30": "BREAK",
-                        "11:00": "BCEDK203 ",
-                        "12:00": "BCHEE202",
-                        "13:00": "LUNCH",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "SAT": {
-                        "08:30": "BCHEE202",
-                        "09:30": "BMATE201",
-                        "10:30": "BREAK",
-                        "11:00": "BETCK205E",
-                        "12:00": "BPWKS206 ",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FACULTY": {
-                        "No_Class": [
-                            "No_Class",
-                            "No_Class"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "BMATE201": [
-                            "Mathematics",
-                            "Dr. V. T. Hosamath"
-                        ],
-                        "BCHEE202": [
-                            "Chemistry",
-                            "Dr. G. B. Bagihalli"
-                        ],
-                        "BCEDK203 ": [
-                            "Computer-Aided Engineering Drawing",
-                            "Mr. Manjunath P"
-                        ],
-                        "BESCK201A": [
-                            "Introduction to Civil Engineering",
-                            "Mr. Rajath K"
-                        ],
-                        "BETCK205E": [
-                            "Renewable Energy Sources",
-                            "Mr. Prakash Nayak"
-                        ],
-                        "BPWKS206 ": [
-                            "Professional Writing Skills in English",
-                            "Mr. Prateek P"
-                        ],
-                        "BKSKK207": [
-                            "Samskrutika Kannada",
-                            "Mrs. Roopa M"
-                        ],
-                        "BIDTK258": [
-                            " Innovation and Design Thinking",
-                            "Mr. Kotresh K."
-                        ],
-                        "E1BCHE202/E2BCEDK203/E3BMAT201": [
-                            "E1BCHE202/E2BCEDK203/E3BMAT201",
-                            "Dr. G. B. Bagihalli/Mr. Manjunath p./Dr. V. T. Hosamath"
-                        ],
-                        "E2BCHE202/E3BCEDK203/E1BMAT201": [
-                            "E2BCHE202/E3BCEDK203/E1BMAT201",
-                            "Dr. G. B. Bagihalli/Mr. Manjunath p./Dr. V. T. Hosamath"
-                        ],
-                        "E3BCHE202/E1BCEDK203/E2BMAT201": [
-                            "E3BCHE202/E1BCEDK203/E2BMAT201",
-                            "Dr. G. B. Bagihalli/Mr. Manjunath p./Dr. V. T. Hosamath"
-                        ]
-                    }
-                },
-                "FSYC_CycleSEMF": {
-                    "LH": "LH1/5",
-                    "MON": {
-                        "08:30": "No_Class",
-                        "09:30": "BMATE201 ",
-                        "10:30": "BREAK",
-                        "11:00": "BCHEE202 ",
-                        "12:00": "BCEDK203 ",
-                        "13:00": "LUNCH",
-                        "13:30": "F1BCHE202/F2BCEDK203",
-                        "14:30": "F1BCHE202/F2BCEDK203",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "TUE": {
-                        "08:30": "BMATE201 ",
-                        "09:30": "BESCK201A",
-                        "10:30": "BREAK",
-                        "11:00": "BCEDK203 ",
-                        "12:00": "BPWKS206",
-                        "13:00": "LUNCH",
-                        "13:30": "F2BCHE202/F3BCEDK203",
-                        "14:30": "F2BCHE202/F3BCEDK203",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "WED": {
-                        "08:30": "No_Class",
-                        "09:30": "BMATE201 ",
-                        "10:30": "BREAK",
-                        "11:00": "BETCK205E",
-                        "12:00": "BCHEE202 ",
-                        "13:00": "LUNCH",
-                        "13:30": "F3BCHE202/F1BCEDK203",
-                        "14:30": "F3BCHE202/F1BCEDK203",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "THU": {
-                        "08:30": "No_Class",
-                        "09:30": "BETCK205E",
-                        "10:30": "BREAK",
-                        "11:00": "BPWKS206",
-                        "12:00": "BESCK201A",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FRI": {
-                        "08:30": "BKSKK207",
-                        "09:30": "BIDTK258",
-                        "10:30": "BREAK",
-                        "11:00": "BESCK201A",
-                        "12:00": "BETCK205E",
-                        "13:00": "LUNCH",
-                        "13:30": "BMATE201 ",
-                        "14:30": "BCHEE202 ",
-                        "15:30": "F2BMAT201",
-                        "16:30": "F2BMAT201"
-                    },
-                    "SAT": {
-                        "08:30": "F1BMAT201",
-                        "09:30": "F1BMAT201",
-                        "10:30": "BREAK",
-                        "11:00": "BCEDK203 ",
-                        "12:00": "BCHEE202 ",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FACULTY": {
-                        "No_Class": [
-                            "No_Class",
-                            "No_Class"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "BMATE201 ": [
-                            "Mathematics",
-                            "Dr. V. T. Hosamath"
-                        ],
-                        "BCHEE202 ": [
-                            "Chemistry ",
-                            "Dr. Shikandar D. B."
-                        ],
-                        "BCEDK203 ": [
-                            "Computer-Aided Engineering Drawing",
-                            "Dr. Sandeep D"
-                        ],
-                        "BESCK201A": [
-                            "Introduction to Civil Engineering",
-                            "Dr. V. B. Karikatti"
-                        ],
-                        "BETCK205E": [
-                            "Renewable Energy Sources",
-                            "Mr. Keerthikumar S. H."
-                        ],
-                        "BPWKS206": [
-                            "Professional Writing Skills in English",
-                            "Mr. Prateek P"
-                        ],
-                        "BKSKK207": [
-                            "Samskrutika Kannada",
-                            "Mrs. Roopa M"
-                        ],
-                        "BIDTK258": [
-                            "Innovation and Design Thinking",
-                            "Mr. Kotresh K."
-                        ],
-                        "F1BCHE202/F2BCEDK203": [
-                            "F1BCHE202/F2BCEDK203",
-                            "Mr. Bojappa G./Dr. Sandeep D."
-                        ],
-                        "F2BCHE202/F3BCEDK203": [
-                            "F2BCHE202/F3BCEDK203",
-                            "Mr. Bojappa G./Dr. Sandeep D."
-                        ],
-                        "F3BCHE202/F1BCEDK203": [
-                            "F3BCHE202/F1BCEDK203",
-                            "Mr. Bojappa G./Dr. Sandeep D."
-                        ],
-                        "F2BMAT201": [
-                            "F2BMAT201",
-                            "Mr. V. G. Hiremath"
-                        ],
-                        "F1BMAT201": [
-                            "F1BMAT201",
-                            "Mr. V. G. Hiremath"
-                        ]
-                    }
-                },
-                "FSYC_CycleSEMG": {
-                    "LH": "LH5",
-                    "MON": {
-                        "08:30": "No_Class",
-                        "09:30": "BPWKS206 ",
-                        "10:30": "BREAK",
-                        "11:00": "BMATE201 ",
-                        "12:00": "BCHEE202",
-                        "13:00": "LUNCH",
-                        "13:30": "BCEDK203",
-                        "14:30": "BIDTK258",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "TUE": {
-                        "08:30": "No_Class",
-                        "09:30": "No_Class",
-                        "10:30": "No_Class",
-                        "11:00": "BCHEE202",
-                        "12:00": "BMATE201 ",
-                        "13:00": "LUNCH",
-                        "13:30": "BPLCK205B",
-                        "14:30": "BPWKS206 ",
-                        "15:30": "G2BMAT201",
-                        "16:30": "G2BMAT201"
-                    },
-                    "WED": {
-                        "08:30": "BKSKK207",
-                        "09:30": "BESCK201A",
-                        "10:30": "BREAK",
-                        "11:00": "BCEDK203",
-                        "12:00": "BPLCK205B",
-                        "13:00": "LUNCH",
-                        "13:30": "BMATE201 ",
-                        "14:30": "BCHEE202",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "THU": {
-                        "08:30": "G1BCHE202/G2BPLCK205B /G3BMAT201",
-                        "09:30": "G1BCHE202/G2BPLCK205B /G3BMAT201",
-                        "10:30": "BREAK",
-                        "11:00": "BCHEE202",
-                        "12:00": "BESCK201A",
-                        "13:00": "LUNCH",
-                        "13:30": "G2BCEDK203",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FRI": {
-                        "08:30": "G2BCHE202/G3BPLCK205B/G1BMAT201",
-                        "09:30": "G2BCHE202/G3BPLCK205B/G1BMAT201",
-                        "10:30": "BREAK",
-                        "11:00": "BCEDK203",
-                        "12:00": "BMATE201 ",
-                        "13:00": "LUNCH",
-                        "13:30": "BESCK201A",
-                        "14:30": "G3BCEDK203",
-                        "15:30": "G3BCEDK203",
-                        "16:30": "No_Class"
-                    },
-                    "SAT": {
-                        "08:30": "G3BCHE202/G1BPLCK205B",
-                        "09:30": "G3BCHE202/G1BPLCK205B",
-                        "10:30": "BREAK",
-                        "11:00": "G1BCEDK203",
-                        "12:00": "G1BCEDK203",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FACULTY": {
-                        "No_Class": [
-                            "No_Class",
-                            "No_Class"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "BMATE201 ": [
-                            "Mathematics",
-                            "Mr. Naveen S Sapare"
-                        ],
-                        "BCHEE202": [
-                            "Chemistry",
-                            "Dr. G. B. Bagihalli"
-                        ],
-                        "BCEDK203": [
-                            "Computer-Aided Engineering Drawing",
-                            "Mr. Shivaprakash M. V."
-                        ],
-                        "BESCK201A": [
-                            "Introduction to Civil Engineering",
-                            "Mr. Rajath Vaidya"
-                        ],
-                        "BPLCK205B": [
-                            "Introduction to Python Programming",
-                            "Mrs. Suman A"
-                        ],
-                        "BPWKS206 ": [
-                            "Professional Writing Skills in English",
-                            "Mr. Pratheek P"
-                        ],
-                        "BKSKK207": [
-                            "Samskrutika Kannada",
-                            "Mrs. Roopa M"
-                        ],
-                        "BIDTK258": [
-                            " Innovation and Design Thinking",
-                            "Dr. Kumarswamy"
-                        ],
-                        "G1BCHE202/G2BPLCK205B /G3BMAT201": [
-                            "G1BCHE202/G2BPLCK205B /G3BMAT201",
-                            "Dr. G. B. Bagihalli/Mrs. Suman A/Mr. Naveen S Sapare"
-                        ],
-                        "G2BCHE202/G3BPLCK205B/G1BMAT201": [
-                            "G2BCHE202/G3BPLCK205B/G1BMAT201",
-                            "Dr. G. B. Bagihalli/Mrs. Suman A/Mr. Naveen S Sapare"
-                        ],
-                        "G3BCHE202/G1BPLCK205B": [
-                            "G3BCHE202/G1BPLCK205B",
-                            "Dr. G. B. Bagihalli/Mrs. Suman A"
-                        ],
-                        "G2BMAT201": [
-                            "G2BMAT201",
-                            "Mr. Naveen S Sapare"
-                        ],
-                        "G2BCEDK203": [
-                            "G2BCEDK203",
-                            "Mr. Shivaprakash M. V. "
-                        ],
-                        "G3BCEDK203": [
-                            "G3BCEDK203",
-                            "Mr. Shivaprakash M. V. "
-                        ],
-                        "G1BCEDK203": [
-                            "G1BCEDK203",
-                            "Mr. Shivaprakash M. V. "
-                        ]
-                    }
-                },
-                "FSYC_CycleSEMH": {
-                    "LH": "LH6",
-                    "MON": {
-                        "08:30": "No_Class",
-                        "09:30": "BCEDK203",
-                        "10:30": "BREAK",
-                        "11:00": "BMATE201",
-                        "12:00": "BCHEE202 ",
-                        "13:00": "LUNCH",
-                        "13:30": "BPWKS206",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "TUE": {
-                        "08:30": "BKSKK207",
-                        "09:30": "BCEDK203",
-                        "10:30": "BREAK",
-                        "11:00": "BPLCK205B",
-                        "12:00": "BMATE201",
-                        "13:00": "LUNCH",
-                        "13:30": "BESCK204C",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "WED": {
-                        "08:30": "No_Class",
-                        "09:30": "BIDTK258",
-                        "10:30": "BREAK",
-                        "11:00": "BPLCK205B",
-                        "12:00": "BESCK204C",
-                        "13:00": "LUNCH",
-                        "13:30": "BMATE201",
-                        "14:30": "BCHEE202 ",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "THU": {
-                        "08:30": "No_Class",
-                        "09:30": "BESCK204C",
-                        "10:30": "BREAK",
-                        "11:00": "BCHEE202 ",
-                        "12:00": "BCEDK203",
-                        "13:00": "LUNCH",
-                        "13:30": "HBPLCK205B",
-                        "14:30": "HBPLCK205B",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FRI": {
-                        "08:30": "No_Class",
-                        "09:30": "BCHEE202 ",
-                        "10:30": "BREAK",
-                        "11:00": "BMATE201",
-                        "12:00": "BPWKS206",
-                        "13:00": "LUNCH",
-                        "13:30": "HBMAT201",
-                        "14:30": "HBMAT201",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "SAT": {
-                        "08:30": "HBCEDK203",
-                        "09:30": "HBCEDK203",
-                        "10:30": "BREAK",
-                        "11:00": "HBCHE202",
-                        "12:00": "HBCHE202",
-                        "13:00": "No_Class",
-                        "13:30": "No_Class",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "No_Class"
-                    },
-                    "FACULTY": {
-                        "No_Class": [
-                            "No_Class",
-                            "No_Class"
-                        ],
-                        "BREAK": [
-                            "BREAK",
-                            "BREAK"
-                        ],
-                        "LUNCH": [
-                            "LUNCH",
-                            "LUNCH"
-                        ],
-                        "BMATE201": [
-                            "Mathematics",
-                            "Mr. V. G. Hiremath"
-                        ],
-                        "BCHEE202 ": [
-                            "Chemistry ",
-                            "Mr. Bojappa G."
-                        ],
-                        "BCEDK203": [
-                            "Computer-Aided Engineering Drawing",
-                            "Mr. Shivaprakash M. V."
-                        ],
-                        "BESCK204C": [
-                            " Introduction to Electronics Engineering",
-                            "Mr. Santhosh H."
-                        ],
-                        "BPLCK205B": [
-                            "Introduction to Python Programming",
-                            "Mr. Vishwanth"
-                        ],
-                        "BPWKS206": [
-                            "Professional Writing Skills in English",
-                            "Mr. Prateek P"
-                        ],
-                        "BKSKK207": [
-                            "Samskrutika Kannada",
-                            "Mrs. Roopa M"
-                        ],
-                        "BIDTK258": [
-                            "Innovation and Design Thinking",
-                            "Mr. Manjunath P"
-                        ],
-                        "HBCHE202": [
-                            "HBCHE202",
-                            "Mr. Bojappa G"
-                        ],
-                        "HBMAT201": [
-                            "HBMAT201",
-                            "Mr. V. G. Hiremath"
-                        ],
-                        "HBCEDK203": [
-                            "HBCEDK203",
-                            "Dr. Sandeep D"
-                        ],
-                        "HBPLCK205B": [
-                            "HBPLCK205B",
-                            "Mr. Vishwanath "
-                        ]
-                    }
-                }
-            }
+            "FSYP_CycleSEM": {},
+            "FSYC_CycleSEM": {}
         }
     }
 }
