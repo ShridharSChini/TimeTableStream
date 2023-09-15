@@ -256,6 +256,246 @@
                         ]
                     }
                 }
+            },
+            "CSE7SEM": {
+                "CSE7SEMA": {
+                    "LH": "LH 06",
+                    "MON": {
+                        "08:30": "AIML",
+                        "09:30": "BDA",
+                        "10:30": "BREAK",
+                        "11:00": "UID",
+                        "12:00": "PAP/Dot Net",
+                        "13:00": "LUNCH",
+                        "13:30": "DIP/NLP",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "BDA",
+                        "09:30": "UID",
+                        "10:30": "BREAK",
+                        "11:00": "AIML",
+                        "12:00": "PAP/Dot Net",
+                        "13:00": "LUNCH",
+                        "13:30": "PW",
+                        "14:30": "PW",
+                        "15:30": "PW",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "BDA",
+                        "12:00": "PAP/Dot Net",
+                        "13:00": "No_Class",
+                        "13:30": "AIML",
+                        "14:30": "UID",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "AIML Lab",
+                        "10:30": "AIML Lab",
+                        "11:00": "AIML Lab",
+                        "12:00": "DIP/NLP",
+                        "13:00": "No_Class",
+                        "13:30": "BDA",
+                        "14:30": "UID",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "AIML Lab",
+                        "10:30": "AIML Lab",
+                        "11:00": "AIML Lab",
+                        "12:00": "DIP/NLP",
+                        "13:00": "No_Class",
+                        "13:30": "AIML",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "No_Class",
+                        "09:30": "AIML Lab",
+                        "10:30": "AIML Lab",
+                        "11:00": "AIML Lab",
+                        "12:00": "DIP/NLP",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "AIML": [
+                            "Artificial Intelligence and Machine Learning",
+                            "Mrs. Malathi S. Y."
+                        ],
+                        "BDA": [
+                            "Big Data Analytics",
+                            "Dr. Geetha Baramgouder"
+                        ],
+                        "UID": [
+                            "User Interface Design ",
+                            "Mr. Shridhar Chini"
+                        ],
+                        "DIP/NLP": [
+                            "Digital Image Processing / Natural Language Processing",
+                            "Dr. Mahantesh Sajjan/ Mrs. Shanta Kallur"
+                        ],
+                        "PAP/Dot Net": [
+                            "Python Application Programming/Dot Net",
+                            "Mr. Girish Saunshi / Dr. Mahantesh Sajjan"
+                        ],
+                        "AIML Lab": [
+                            "AIML Lab",
+                            "Dr. Rajesh S. Y."
+                        ],
+                        "PW": [
+                            "Project Work Phase - 1",
+                            "Dr. Mahantesh Sajjan"
+                        ],
+                        "INT ": [
+                            "Internship",
+                            "Mrs. Malathi S. Y."
+                        ]
+                    }
+                },
+                "CSE7SEMB": {
+                    "LH": "LH 06",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "AIML Lab",
+                        "10:30": "AIML Lab",
+                        "11:00": "AIML Lab",
+                        "12:00": "PAP / Dot Net",
+                        "13:00": "No_Class",
+                        "13:30": "PAP / Dot Net",
+                        "14:30": "AIML",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "AIML Lab",
+                        "10:30": "AIML Lab",
+                        "11:00": "AIML Lab",
+                        "12:00": "PAP / Dot Net",
+                        "13:00": "No_Class",
+                        "13:30": "BDA",
+                        "14:30": "UID",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "No_Class",
+                        "12:00": "PAP / Dot Net",
+                        "13:00": "No_Class",
+                        "13:30": "AIML Lab",
+                        "14:30": "AIML Lab",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "UID",
+                        "09:30": "AIML",
+                        "10:30": "No_Class",
+                        "11:00": "BDA",
+                        "12:00": "DIP/NLP",
+                        "13:00": "No_Class",
+                        "13:30": "PW",
+                        "14:30": "PW",
+                        "15:30": "PW",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "BDA",
+                        "09:30": "AIML",
+                        "10:30": "No_Class",
+                        "11:00": "UID",
+                        "12:00": "DIP/NLP",
+                        "13:00": "No_Class",
+                        "13:30": "PW",
+                        "14:30": "PW",
+                        "15:30": "PW",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "UID",
+                        "09:30": "BDA",
+                        "10:30": "No_Class",
+                        "11:00": "AIML",
+                        "12:00": "DIP/NLP",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "AIML": [
+                            "Artificial Intelligence and Machine Learning",
+                            "Mr. Balachandra G. C."
+                        ],
+                        "BDA": [
+                            "Big Data Analytics",
+                            "Dr. Shridhar Allagi"
+                        ],
+                        "UID": [
+                            "User Interface Design",
+                            "Mrs. Shobha Hiremath"
+                        ],
+                        "DIP/NLP": [
+                            "Digital Image Processing / Natural Language Processing",
+                            "Dr. Mahantesh Sajjan / Mrs. Shanta Kallur"
+                        ],
+                        "PAP / Dot Net": [
+                            "Python Application Programming / Introduction to Dot Net framework for Application Development ",
+                            "Mr. Girish Saunshi / Dr. Mahantesh Sajjan"
+                        ],
+                        "AIML Lab": [
+                            "Artificial Intelligence and Machine Learning Laboratory",
+                            "Mr. Balachandra G. C."
+                        ],
+                        "PW": [
+                            "Project Work Phase - 1",
+                            "Dr. Mahantesh Sajjan"
+                        ]
+                    }
+                }
             }
         },
         "MEC": {
