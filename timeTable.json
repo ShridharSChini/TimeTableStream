@@ -539,30 +539,30 @@
         "ECE": {
             "ECE7SEM": {
                 "ECE7SEMA": {
-                    "LH": "LH3",
+                    "LH": "",
                     "MON": {
-                        "08:30": "No_Class",
+                        "08:30": "PE3",
                         "09:30": "VLSI",
+                        "10:30": "BREAK",
+                        "11:00": "PE2",
+                        "12:00": "OE",
+                        "13:00": "LUNCH",
+                        "13:30": "CN",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "PE3",
                         "10:30": "BREAK",
                         "11:00": "CN",
                         "12:00": "OE",
                         "13:00": "LUNCH",
-                        "13:30": "AE/ML",
-                        "14:30": "RTS / SC",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
                         "15:30": "No_Class",
-                        "16:30": "WT"
-                    },
-                    "TUE": {
-                        "08:30": "No_Class",
-                        "09:30": "CN",
-                        "10:30": "BREAK",
-                        "11:00": "VLSI",
-                        "12:00": "OE",
-                        "13:00": "LUNCH",
-                        "13:30": "AE/ML",
-                        "14:30": "RTS / SC",
-                        "15:30": "No_Class",
-                        "16:30": "WT"
+                        "16:30": "No_Class"
                     },
                     "WED": {
                         "08:30": "No_Class",
@@ -571,41 +571,41 @@
                         "11:00": "CN",
                         "12:00": "OE",
                         "13:00": "LUNCH",
-                        "13:30": "RTS / SC",
-                        "14:30": "No_Class",
-                        "15:30": "No_Class",
-                        "16:30": "WT"
+                        "13:30": "CCN Lab / VLSI Lab",
+                        "14:30": "CCN Lab / VLSI Lab",
+                        "15:30": "CCN Lab / VLSI Lab",
+                        "16:30": "No_Class"
                     },
                     "THU": {
-                        "08:30": "CCNL/VLSIL",
-                        "09:30": "CCNL/VLSIL",
+                        "08:30": "PE2",
+                        "09:30": "CN",
                         "10:30": "BREAK",
-                        "11:00": "CCNL/VLSIL",
-                        "12:00": "AE/ML",
+                        "11:00": "VLSI",
+                        "12:00": "PE3",
                         "13:00": "LUNCH",
-                        "13:30": "CN",
-                        "14:30": "VLSI",
-                        "15:30": "No_Class",
-                        "16:30": "WT"
+                        "13:30": "CCN Lab / VLSI Lab",
+                        "14:30": "CCN Lab / VLSI Lab",
+                        "15:30": "CCN Lab / VLSI Lab",
+                        "16:30": "No_Class"
                     },
                     "FRI": {
-                        "08:30": "CCNL/VLSIL",
-                        "09:30": "CCNL/VLSIL",
+                        "08:30": "CCN Lab / VLSI Lab",
+                        "09:30": "CCN Lab / VLSI Lab",
                         "10:30": "BREAK",
-                        "11:00": "CCNL/VLSIL",
-                        "12:00": "AE/ML",
+                        "11:00": "CCN Lab / VLSI Lab",
+                        "12:00": "PE2",
                         "13:00": "LUNCH",
                         "13:30": "PA",
                         "14:30": "PA",
-                        "15:30": "No_Class",
-                        "16:30": "WT"
+                        "15:30": "Pheonix",
+                        "16:30": "Pheonix"
                     },
                     "SAT": {
-                        "08:30": "CCNL/VLSIL",
-                        "09:30": "CCNL/VLSIL",
+                        "08:30": "No_Class",
+                        "09:30": "VLSI",
                         "10:30": "BREAK",
-                        "11:00": "CCNL/VLSIL",
-                        "12:00": "RTS / SC",
+                        "11:00": "PE3",
+                        "12:00": "PE2",
                         "13:00": "No_Class",
                         "13:30": "No_Class",
                         "14:30": "No_Class",
@@ -626,112 +626,108 @@
                             "LUNCH"
                         ],
                         "CN": [
-                            "Computer Network",
-                            "Ms Supriya P "
+                            "Computer Networks",
+                            "Supriya P"
                         ],
                         "VLSI": [
-                            "VLSI  Design",
-                            "Mrs Tejashwini Kulkarni"
+                            "VLSI Design",
+                            "Tejaswini Kulkarni"
                         ],
-                        "RTS / SC": [
-                            "Real Time System/Satellite Communication",
-                            "Mr Chetan V S/Mrs Madhu G"
+                        "PE2": [
+                            "RTS/SC",
+                            "Chethan S / Madhu G"
+                        ],
+                        "PE3": [
+                            "AE/MC",
+                            "KBK / Chethan S"
                         ],
                         "OE": [
-                            "NA",
-                            "NA"
+                            "Open Elective",
+                            "-"
                         ],
-                        "AE/ML": [
-                            "Automotive Electronics/Multimedia Communication ",
-                            "Mr.Kotresh B K/Mrs Jyothi C K"
+                        "CCN Lab / VLSI Lab": [
+                            "CCN Lab / VLSI Lab",
+                            "Supriya P / Tejaswini Kulkarni"
                         ],
-                        "CCNL/VLSIL": [
-                            "CCN Lab/VLSI Lab",
-                            "Mr Chetan V S/Mrs Tejashwini Kulkarni"
-                        ],
-                        "Pheonix Activity ": [
+                        "Pheonix": [
                             "Pheonix Activity ",
-                            "Mrs.Jyothi C K and  Mrs. Tejashwini "
+                            "Supriya P / Tejaswini Kulkarni"
                         ],
                         "PA": [
-                            "Placement Activity ",
-                            "Mr. Manjunath N."
-                        ],
-                        "WT": [
-                            "Wipro Training ",
-                            "Mrs. Anusha A. M."
+                            "Placement Activity",
+                            "Manjunath N"
                         ]
                     }
                 },
                 "ECE7SEMB": {
-                    "LH": "LH3",
+                    "LH": "LH2",
                     "MON": {
-                        "08:30": "CCNL/VLSIL",
-                        "09:30": "CCNL/VLSIL",
-                        "10:30": "BREAK",
-                        "11:00": "CCNL/VLSIL",
-                        "12:00": "OE",
-                        "13:00": "LUNCH",
-                        "13:30": "AE /ML",
-                        "14:30": "RTS/SC",
-                        "15:30": "VLSI",
-                        "16:30": "WT"
-                    },
-                    "TUE": {
-                        "08:30": "CCNL/VLSIL",
-                        "09:30": "CCNL/VLSIL",
-                        "10:30": "BREAK",
-                        "11:00": "No_Class",
-                        "12:00": "OE",
-                        "13:00": "LUNCH",
-                        "13:30": "AE /ML",
-                        "14:30": "RTS/SC",
-                        "15:30": "No_Class",
-                        "16:30": "WT"
-                    },
-                    "WED": {
-                        "08:30": "CCNL/VLSIL",
-                        "09:30": "CCNL/VLSIL",
-                        "10:30": "BREAK",
-                        "11:00": "CCNL/VLSIL",
-                        "12:00": "OE",
-                        "13:00": "LUNCH",
-                        "13:30": "RTS/SC",
-                        "14:30": "CN",
-                        "15:30": "No_Class",
-                        "16:30": "WT"
-                    },
-                    "THU": {
-                        "08:30": "No_Class",
+                        "08:30": "PE3",
                         "09:30": "VLSI",
                         "10:30": "BREAK",
-                        "11:00": "CN",
-                        "12:00": "AE /ML",
+                        "11:00": "PE2",
+                        "12:00": "OE",
+                        "13:00": "LUNCH",
+                        "13:30": "CCN Lab/ VLSI Lab",
+                        "14:30": "CCN Lab/ VLSI Lab",
+                        "15:30": "CCN Lab/ VLSI Lab",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "PE3",
+                        "10:30": "BREAK",
+                        "11:00": "CN ",
+                        "12:00": "OE",
+                        "13:00": "LUNCH",
+                        "13:30": "CCN Lab/ VLSI Lab",
+                        "14:30": "CCN Lab/ VLSI Lab",
+                        "15:30": "CCN Lab/ VLSI Lab",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "CCN Lab/ VLSI Lab",
+                        "09:30": "CCN Lab/ VLSI Lab",
+                        "10:30": "BREAK",
+                        "11:00": "CCN Lab/ VLSI Lab",
+                        "12:00": "OE",
                         "13:00": "LUNCH",
                         "13:30": "No_Class",
                         "14:30": "No_Class",
                         "15:30": "No_Class",
-                        "16:30": "WT"
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "PE2",
+                        "09:30": "CN ",
+                        "10:30": "BREAK",
+                        "11:00": "VLSI",
+                        "12:00": "PE3",
+                        "13:00": "LUNCH",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
                     },
                     "FRI": {
                         "08:30": "No_Class",
-                        "09:30": "CN",
-                        "10:30": "BREAK",
-                        "11:00": "VLSI",
-                        "12:00": "AE /ML",
-                        "13:00": "LUNCH",
-                        "13:30": "PA",
-                        "14:30": "PA",
-                        "15:30": "No_Class",
-                        "16:30": "WT"
-                    },
-                    "SAT": {
-                        "08:30": "No_Class",
                         "09:30": "VLSI",
                         "10:30": "BREAK",
-                        "11:00": "CN",
-                        "12:00": "RTS/SC",
-                        "13:00": "No_Class",
+                        "11:00": "CN ",
+                        "12:00": "PE2",
+                        "13:00": "LUNCH",
+                        "13:30": "PA ",
+                        "14:30": "PA ",
+                        "15:30": "Pheonix",
+                        "16:30": "Pheonix"
+                    },
+                    "SAT": {
+                        "08:30": "VLSI",
+                        "09:30": "CN ",
+                        "10:30": "BREAK",
+                        "11:00": "PE3",
+                        "12:00": "PE2",
+                        "13:00": "LUNCH",
                         "13:30": "No_Class",
                         "14:30": "No_Class",
                         "15:30": "No_Class",
@@ -750,41 +746,37 @@
                             "LUNCH",
                             "LUNCH"
                         ],
-                        "CN": [
-                            "Computer Network",
-                            "Mr Santosh H"
+                        "CN ": [
+                            "Computer Networks",
+                            "Sontosh H"
                         ],
                         "VLSI": [
-                            "VLSI  Design",
-                            "Mr Rakesh H M"
+                            "VLSI Design",
+                            "Rakesh H M"
                         ],
-                        "RTS/SC": [
-                            "Real Time System /Satellite Communication",
-                            "Mr Chetan V S /Mrs Madhu G"
+                        "PE2": [
+                            "RTS/SC ",
+                            "Madhu G"
                         ],
                         "OE": [
-                            "NA",
-                            "NA"
+                            "Open Elective",
+                            "-"
                         ],
-                        "AE /ML": [
-                            "Automotive Electronics /Multimedia Communication",
-                            "Mr.Kotresh B K/Mrs Jyothi C K"
+                        "PE3": [
+                            "AE/MC",
+                            "Kotresh B K / Chethan S"
                         ],
-                        "CCNL/VLSIL": [
-                            "CCN Lab / VLSI Lab",
-                            "Mr Santosh H S /Mr Rakesh H M"
+                        "CCN Lab/ VLSI Lab": [
+                            "CCN Lab/ VLSI Lab",
+                            "Sontosh H / Rakesh H M"
                         ],
-                        "Pheonix Activity ": [
-                            "Pheonix Activity ",
-                            "Mrs.Jyothi C K and Mrs. Tejashwini K."
+                        "Pheonix": [
+                            "Pheonix Activity",
+                            "Supriya P / Tejeswini K "
                         ],
-                        "WT": [
-                            "Wipro Training ",
-                            "Mrs. Anusha A. M."
-                        ],
-                        "PA": [
-                            "Placement Activity ",
-                            "Mr. Manjunath N."
+                        "PA ": [
+                            "Placement Activity",
+                            "Manjunath N"
                         ]
                     }
                 }
