@@ -534,6 +534,153 @@
                         ]
                     }
                 }
+            },
+            "MEC3SEM": {
+                "MEC3SEMA": {
+                    "LH": "CVCL001(LH-01)",
+                    "MON": {
+                        "08:30": "E&HVT (Tutorial)",
+                        "09:30": "MSE",
+                        "10:30": "BREAK",
+                        "11:00": "BTD",
+                        "12:00": "MOM",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "BTD",
+                        "09:30": "MOM",
+                        "10:30": "BREAK",
+                        "11:00": "MP",
+                        "12:00": "E & HVT",
+                        "13:00": "LUNCH",
+                        "13:30": "ASSOCIATION ACTIVITY",
+                        "14:30": "ASSOCIATION ACTIVITY",
+                        "15:30": "APP- B1-LAB",
+                        "16:30": "APP- B1-LAB"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "MSE-B1-LAB",
+                        "10:30": "MSE-B1-LAB",
+                        "11:00": "MSE-B1-LAB",
+                        "12:00": "MSE-B1-LAB",
+                        "13:00": "LUNCH",
+                        "13:30": "E & HVT",
+                        "14:30": "MSE",
+                        "15:30": "MP",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "IM & DM- B1-LAB",
+                        "10:30": "IM & DM- B1-LAB",
+                        "11:00": "IM & DM- B1-LAB",
+                        "12:00": "IM & DM- B1-LAB",
+                        "13:00": "LUNCH",
+                        "13:30": "MSE",
+                        "14:30": "MOM",
+                        "15:30": "BTD",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "SCR",
+                        "09:30": "SCR",
+                        "10:30": "MP- B1-LAB",
+                        "11:00": "MP- B1-LAB",
+                        "12:00": "IM & DM- B1-LAB",
+                        "13:00": "LUNCH",
+                        "13:30": "MP",
+                        "14:30": "MSE",
+                        "15:30": "MOM",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "MOM",
+                        "09:30": "BTD",
+                        "10:30": "BREAK",
+                        "11:00": "E & HVT",
+                        "12:00": "MP",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "MOM": [
+                            "Mechanics of Materials",
+                            "Mr.Shivaprakash M. V"
+                        ],
+                        "MP": [
+                            "Manufacturing Process",
+                            "Mr.Anilkumar.C.K"
+                        ],
+                        "MSE": [
+                            "Material Science and Engineering",
+                            "Dr.Basukumar H K"
+                        ],
+                        "BTD": [
+                            "Basic Thermodynamics",
+                            "Mr.Pradeep.S.G"
+                        ],
+                        "IM & DM": [
+                            "Introduction to Modelling and Design for  Manufacturing",
+                            "Dr.Sandeep.C.D"
+                        ],
+                        "E & HVT": [
+                            "Electric and Hybrid Vehicle Technology",
+                            "Mr.Sushrut S. H"
+                        ],
+                        "SCR": [
+                            "SCR",
+                            "SCR"
+                        ],
+                        "APP": [
+                            "Advanced Python Programming",
+                            "Mr.Vishwanath Savadatti"
+                        ],
+                        "E&HVT (Tutorial)": [
+                            "E&HVT (Tutorial)",
+                            "E&HVT (Tutorial)"
+                        ],
+                        "ASSOCIATION ACTIVITY": [
+                            "ASSOCIATION ACTIVITY",
+                            "ASSOCIATION ACTIVITY"
+                        ],
+                        "APP- B1-LAB": [
+                            "APP- B1-LAB",
+                            "APP- B1-LAB"
+                        ],
+                        "MSE-B1-LAB": [
+                            "MSE-B1-LAB",
+                            "MSE-B1-LAB"
+                        ],
+                        "IM & DM- B1-LAB": [
+                            "IM & DM- B1-LAB",
+                            "IM & DM- B1-LAB"
+                        ],
+                        "MP- B1-LAB": [
+                            "MP- B1-LAB",
+                            "MP- B1-LAB"
+                        ]
+                    }
+                }
             }
         },
         "ECE": {
