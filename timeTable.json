@@ -681,6 +681,282 @@
                         ]
                     }
                 }
+            },
+            "MEC5SEM": {
+                "MEC5SEMA": {
+                    "LH": "MECL001(LH-1)",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "TFE",
+                        "12:00": "RM & IP",
+                        "13:00": "LUNCH",
+                        "13:30": "TOM",
+                        "14:30": "MM & AM",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "TOM (Tutorial)",
+                        "09:30": "MM & AM",
+                        "10:30": "BREAK",
+                        "11:00": "FEA",
+                        "12:00": "RM & IP",
+                        "13:00": "LUNCH",
+                        "13:30": "ASSOSIATION ACTIVITY",
+                        "14:30": "ASSOSIATION ACTIVITY",
+                        "15:30": "ES",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "MM & AM",
+                        "10:30": "BREAK",
+                        "11:00": "TFE",
+                        "12:00": "FEA",
+                        "13:00": "LUNCH",
+                        "13:30": "TOM",
+                        "14:30": "MAT Lab A2/ TFE- Lab A1",
+                        "15:30": "MAT Lab A2/ TFE- Lab A1",
+                        "16:30": "MAT Lab A2/ TFE- Lab A1"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "FEA",
+                        "12:00": "TFE",
+                        "13:00": "LUNCH",
+                        "13:30": "TOM",
+                        "14:30": "Design Lab A1/ FEA- Lab A2",
+                        "15:30": "Design Lab A1/ FEA- Lab A2",
+                        "16:30": "Design Lab A1/ FEA- Lab A2"
+                    },
+                    "FRI": {
+                        "08:30": "MAT Lab A1/  TFE - Lab  A2",
+                        "09:30": "MAT Lab A1/  TFE - Lab  A2",
+                        "10:30": "MAT Lab A1/  TFE - Lab  A2",
+                        "11:00": "MAT Lab A1/  TFE - Lab  A2",
+                        "12:00": "FEA",
+                        "13:00": "LUNCH",
+                        "13:30": "TOM",
+                        "14:30": "TFE",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "Design Lab A2/ FEA- Lab A1",
+                        "09:30": "Design Lab A2/ FEA- Lab A1",
+                        "10:30": "Design Lab A2/ FEA- Lab A1",
+                        "11:00": "MM & AM",
+                        "12:00": "TOM",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "TOM": [
+                            "Theory of Machines",
+                            "Dr.S.C.Sajjan"
+                        ],
+                        "TFE": [
+                            "Thermo-fluids Engineering",
+                            "Mr.Sushrut S. H"
+                        ],
+                        "FEA": [
+                            "Finite Element Analysis",
+                            "Dr. Anand S.Reddy"
+                        ],
+                        "MM & AM": [
+                            "Modern Mobility and Automotive Mechanics",
+                            "Dr.V.R.Hiremath "
+                        ],
+                        "RM & IP": [
+                            "Research Methodology & Intellectual Property",
+                            "Mr.Pradeep.S.G"
+                        ],
+                        "ES": [
+                            "Environmental Studies",
+                            "Mr.D.R.Kulkarni."
+                        ],
+                        "TOM (Tutorial)": [
+                            "TOM (Tutorial)",
+                            "Dr.S.C.Sajjan"
+                        ],
+                        "ASSOSIATION ACTIVITY": [
+                            "ASSOSIATION ACTIVITY",
+                            "Dr.S.C.Sajjan"
+                        ],
+                        "MAT Lab A2/ TFE- Lab A1": [
+                            "MAT Lab A2/ TFE- Lab A1",
+                            "Mr.Pradeep.S.G/Mr.Sushrut S. H"
+                        ],
+                        "Design Lab A1/ FEA- Lab A2": [
+                            "Design Lab A1/ FEA- Lab A2",
+                            "Mr.Shridhar.H.B/Dr. Anand S.Reddy"
+                        ],
+                        "MAT Lab A1/  TFE - Lab  A2": [
+                            "MAT Lab A1/  TFE - Lab  A2",
+                            "Mr.Pradeep.S.G/Mr.Sushrut S. H"
+                        ],
+                        "Design Lab A2/ FEA- Lab A1": [
+                            "Design Lab A2/ FEA- Lab A1",
+                            "Mr.Shridhar.H.B/Dr. Anand S.Reddy"
+                        ]
+                    }
+                },
+                "MEC5SEMB": {
+                    "LH": "MECL001(LH-1)",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "Design Lab B1/ FEA- Lab B2",
+                        "11:00": "Design Lab B1/ FEA- Lab B2",
+                        "12:00": "Design Lab B1/ FEA- Lab B2",
+                        "13:00": "LUNCH",
+                        "13:30": "TOM",
+                        "14:30": "TFE",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "MAT Lab B2/  TFE- Lab B1",
+                        "11:00": "MAT Lab B2/  TFE- Lab B1",
+                        "12:00": "MAT Lab B2/  TFE- Lab B1",
+                        "13:00": "LUNCH",
+                        "13:30": "ASSOSIATION ACTIVITY",
+                        "14:30": "ASSOSIATION ACTIVITY",
+                        "15:30": "ES",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "TOM (Tutorial)",
+                        "09:30": "Design Lab B2/ MAT Lab B1",
+                        "10:30": "Design Lab B2/ MAT Lab B1",
+                        "11:00": "MAT Lab B2/  TFE- Lab B1",
+                        "12:00": "FEA",
+                        "13:00": "LUNCH",
+                        "13:30": "TFE",
+                        "14:30": "MM & AM",
+                        "15:30": "RM & IP",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "FEA- Lab B1  / TFE- Lab B2",
+                        "10:30": "FEA- Lab B1  / TFE- Lab B2",
+                        "11:00": "FEA- Lab B1  / TFE- Lab B2",
+                        "12:00": "FEA",
+                        "13:00": "LUNCH",
+                        "13:30": "TOM",
+                        "14:30": "MM & AM",
+                        "15:30": "TFE",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "FEA",
+                        "09:30": "TOM",
+                        "10:30": "BREAK",
+                        "11:00": "TFE",
+                        "12:00": "MM & AM",
+                        "13:00": "LUNCH",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "MM & AM",
+                        "09:30": "FEA",
+                        "10:30": "BREAK",
+                        "11:00": "TOM",
+                        "12:00": "RM & IP",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "TOM": [
+                            "Theory of Machines",
+                            "Dr. Anand S.Reddy"
+                        ],
+                        "TFE": [
+                            "Thermo-fluids Engineering",
+                            "Mr.Manjunath.G.P"
+                        ],
+                        "FEA": [
+                            "Finite Element Analysis",
+                            "Dr.Basukumar H K "
+                        ],
+                        "MM & AM": [
+                            "Modern Mobility and Automotive Mechanics",
+                            "Dr.V.R.Hiremath "
+                        ],
+                        "RM & IP": [
+                            "Research Methodology & Intellectual Property",
+                            "Mr.Pradeep.S.G"
+                        ],
+                        "ES": [
+                            "Environmental Studies",
+                            "Mr.D.R.Kulkarni."
+                        ],
+                        "TOM (Tutorial)": [
+                            "TOM (Tutorial)",
+                            "Dr. Anand S.Reddy"
+                        ],
+                        "Design Lab B1/ FEA- Lab B2": [
+                            "Design Lab B1/ FEA- Lab B2",
+                            "Mr.Srinivas.N.T/Dr.Basukumar H K "
+                        ],
+                        "MAT Lab B2/  TFE- Lab B1": [
+                            "MAT Lab B2/  TFE- Lab B1",
+                            "Dr. Anand S.Reddy/Mr.Manjunath.G.P"
+                        ],
+                        "Design Lab B2/ MAT Lab B1": [
+                            "Design Lab B2/ MAT Lab B1",
+                            "Mr.Srinivas.N.T/Dr. Anand S.Reddy"
+                        ],
+                        "FEA- Lab B1  / TFE- Lab B2": [
+                            "FEA- Lab B1  / TFE- Lab B2",
+                            "Dr.Basukumar H K /Mr.Manjunath.G.P"
+                        ],
+                        "ASSOSIATION ACTIVITY": [
+                            "ASSOSIATION ACTIVITY",
+                            "Dr.S.C.Sajjan"
+                        ]
+                    }
+                }
             }
         },
         "ECE": {
@@ -927,6 +1203,510 @@
                         ]
                     }
                 }
+            },
+            "ECE3SEM": {
+                "ECE3SEMA": {
+                    "LH": "LH1",
+                    "MON": {
+                        "08:30": "EPC ",
+                        "09:30": "M-3",
+                        "10:30": "BREAK",
+                        "11:00": "NA",
+                        "12:00": "DSDV",
+                        "13:00": "LUNCH",
+                        "13:30": "DSDV Lab / ADSD Lab",
+                        "14:30": "DSDV Lab / ADSD Lab",
+                        "15:30": "ADSD Lab",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "LABVIEW Lab / EPC Lab",
+                        "09:30": "LABVIEW Lab / EPC Lab",
+                        "10:30": "BREAK",
+                        "11:00": "COA",
+                        "12:00": "EPC ",
+                        "13:00": "LUNCH",
+                        "13:30": "DSDV Lab / ADSD Lab",
+                        "14:30": "DSDV Lab / ADSD Lab",
+                        "15:30": "ADSD Lab",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "COA",
+                        "09:30": "DSDV",
+                        "10:30": "BREAK",
+                        "11:00": "EPC ",
+                        "12:00": "NA",
+                        "13:00": "LUNCH",
+                        "13:30": "DSDV Lab / ADSD Lab",
+                        "14:30": "DSDV Lab / ADSD Lab",
+                        "15:30": "ADSD Lab",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "BREAK",
+                        "11:00": "LABVIEW Lab / EPC Lab",
+                        "12:00": "LABVIEW Lab / EPC Lab",
+                        "13:00": "LUNCH",
+                        "13:30": "DSDV",
+                        "14:30": "M-3",
+                        "15:30": "COA",
+                        "16:30": "SCR"
+                    },
+                    "FRI": {
+                        "08:30": "DSDV",
+                        "09:30": "SCR",
+                        "10:30": "BREAK",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "LUNCH",
+                        "13:30": "COA",
+                        "14:30": "EPC ",
+                        "15:30": "NA",
+                        "16:30": "M-3"
+                    },
+                    "SAT": {
+                        "08:30": "M-3",
+                        "09:30": "NA",
+                        "10:30": "BREAK",
+                        "11:00": "LABVIEW Lab / EPC Lab",
+                        "12:00": "LABVIEW Lab / EPC Lab",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "M-3": [
+                            "Mathematics-3",
+                            "Dr. V T Hosmath"
+                        ],
+                        "DSDV": [
+                            "Digital System Design ",
+                            "Mr. Mahaveer Chougala"
+                        ],
+                        "EPC ": [
+                            "Electronic Principles and Circuits",
+                            "Mrs. Anusha Reddy"
+                        ],
+                        "NA": [
+                            "Network Analysis ",
+                            "Mr. Prashanth H"
+                        ],
+                        "COA": [
+                            "Computer Organization and Architecture",
+                            "Mr. Pramod V Rampur"
+                        ],
+                        "DSDV Lab / ADSD Lab": [
+                            "DSDV Lab / ADSD Lab",
+                            "Mr. Mahaveer Chougala / Mr. Prashanth H"
+                        ],
+                        "ADSD Lab": [
+                            "ADSD Lab",
+                            "Mr. Prashanth H"
+                        ],
+                        "LABVIEW Lab / EPC Lab": [
+                            "LABVIEW Lab / EPC Lab",
+                            "Mr. Pramod V Rampur / Mrs. Anusha Reddy"
+                        ],
+                        "SCR": [
+                            "Social Connect and Responsibility",
+                            "New Faculty"
+                        ]
+                    }
+                },
+                "ECE3SEMB": {
+                    "LH": "LH2",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "BREAK",
+                        "11:00": "LABVIEW Lab / EPC Lab",
+                        "12:00": "LABVIEW Lab / EPC Lab",
+                        "13:00": "LUNCH",
+                        "13:30": "EPC",
+                        "14:30": "COA",
+                        "15:30": "M-3",
+                        "16:30": "M-3"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "DSDV Lab / ADSD Lab",
+                        "10:30": "BREAK",
+                        "11:00": "DSDV Lab / ADSD Lab",
+                        "12:00": "ADSD Lab",
+                        "13:00": "LUNCH",
+                        "13:30": "COA",
+                        "14:30": "EPC",
+                        "15:30": "M-3",
+                        "16:30": "DSDV"
+                    },
+                    "WED": {
+                        "08:30": "NA",
+                        "09:30": "NA",
+                        "10:30": "BREAK",
+                        "11:00": "DSDV",
+                        "12:00": "No_Class",
+                        "13:00": "LUNCH",
+                        "13:30": "EPC",
+                        "14:30": "COA",
+                        "15:30": "M-3",
+                        "16:30": "SCR"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "DSDV Lab / ADSD Lab",
+                        "10:30": "BREAK",
+                        "11:00": "DSDV Lab / ADSD Lab",
+                        "12:00": "ADSD Lab",
+                        "13:00": "LUNCH",
+                        "13:30": "COA",
+                        "14:30": "NA",
+                        "15:30": "DSDV",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "NA",
+                        "09:30": "EPC",
+                        "10:30": "BREAK",
+                        "11:00": "No_Class",
+                        "12:00": "No_Class",
+                        "13:00": "LUNCH",
+                        "13:30": "DSDV",
+                        "14:30": "SCR",
+                        "15:30": "LABVIEW Lab / EPC Lab",
+                        "16:30": "LABVIEW Lab / EPC Lab"
+                    },
+                    "SAT": {
+                        "08:30": "LABVIEW Lab / EPC Lab",
+                        "09:30": "LABVIEW Lab / EPC Lab",
+                        "10:30": "BREAK",
+                        "11:00": "DSDV Lab / ADSD Lab",
+                        "12:00": "DSDV Lab / ADSD Lab",
+                        "13:00": "ADSD Lab",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "M-3": [
+                            "Mathematics - 3",
+                            "Mr. Naveen N"
+                        ],
+                        "DSDV": [
+                            "Digital System Design Using Verilog",
+                            "Mr. Mahaveer Chougala"
+                        ],
+                        "EPC": [
+                            "Electronic Principles and Corcuits",
+                            "Mrs. Anusha Reddy"
+                        ],
+                        "NA": [
+                            "Network Analysis",
+                            "Mr. Prashanth H"
+                        ],
+                        "COA": [
+                            "Computer Organization and Architecture",
+                            "Mr. Pramod V Rampur"
+                        ],
+                        "DSDV Lab / ADSD Lab": [
+                            "DSDV Lab / ADSD Lab",
+                            "Mr. Mahaveer Chougala / Mr. Rakesh B Shetter"
+                        ],
+                        "ADSD Lab": [
+                            "ADSD Lab",
+                            "Mr. Rakesh B Shetter"
+                        ],
+                        "LABVIEW Lab / EPC Lab": [
+                            "LABVIEW Lab / EPC Lab",
+                            "Mr. Pramod V Rampur / Mrs. Anusha Reddy"
+                        ],
+                        "SCR": [
+                            "Social Connect and Responsibility ",
+                            "New Faculty"
+                        ]
+                    }
+                }
+            },
+            "ECE5SEM": {
+                "ECE5SEMA": {
+                    "LH": "LH4",
+                    "MON": {
+                        "08:30": "DC",
+                        "09:30": "CCN",
+                        "10:30": "BREAK",
+                        "11:00": "COARM Lab / CST Lab",
+                        "12:00": "COARM Lab / CST Lab",
+                        "13:00": "LUNCH",
+                        "13:30": "Communication Lab II",
+                        "14:30": "Communication Lab II",
+                        "15:30": "Communication Lab II",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "RM & IPR",
+                        "09:30": "CCN",
+                        "10:30": "BREAK",
+                        "11:00": "COARM",
+                        "12:00": "DC",
+                        "13:00": "LUNCH",
+                        "13:30": "PHEONIX",
+                        "14:30": "PHEONIX",
+                        "15:30": "PHEONIX",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "Communication Lab II",
+                        "10:30": "BREAK",
+                        "11:00": "Communication Lab II",
+                        "12:00": "Communication Lab II",
+                        "13:00": "LUNCH",
+                        "13:30": "CCN",
+                        "14:30": "COARM",
+                        "15:30": "EW",
+                        "16:30": "RM & IPR"
+                    },
+                    "THU": {
+                        "08:30": "COARM Lab / CST Lab",
+                        "09:30": "COARM Lab / CST Lab",
+                        "10:30": "BREAK",
+                        "11:00": "COARM",
+                        "12:00": "ES",
+                        "13:00": "LUNCH",
+                        "13:30": "CCN",
+                        "14:30": "DC",
+                        "15:30": "EW",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "BREAK",
+                        "11:00": "EW",
+                        "12:00": "COARM",
+                        "13:00": "LUNCH",
+                        "13:30": "Communication Lab II",
+                        "14:30": "Communication Lab II",
+                        "15:30": "Communication Lab II",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "COARM Lab / CST Lab",
+                        "09:30": "COARM Lab / CST Lab",
+                        "10:30": "BREAK",
+                        "11:00": "DC",
+                        "12:00": "EW",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "DC": [
+                            "Digital Communication ",
+                            "Ms. Sarala S"
+                        ],
+                        "COARM": [
+                            "Computer Organization & ARM Microcontroller (IPCC)",
+                            "Dr. Kumar Swamy V"
+                        ],
+                        "CCN": [
+                            "Computer Communication Networks",
+                            "Ms. Supriya P"
+                        ],
+                        "EW": [
+                            "Electromagnetic Waves",
+                            "Mr. Rakesh B Shetter"
+                        ],
+                        "RM & IPR": [
+                            "Research Methodology & Intellectual Property Rights ",
+                            "Ms. Sarala S"
+                        ],
+                        "PHEONIX": [
+                            "PHEONIX",
+                            "Ms. Supriya P / Mr. Ramachandra T"
+                        ],
+                        "ES": [
+                            "Environmental Studies  ",
+                            "Mr. Sujay K"
+                        ],
+                        "COARM Lab / CST Lab": [
+                            "COARM Lab / CST Lab",
+                            "Dr. Kumar Swamy V / Ms. Sarala S"
+                        ],
+                        "Communication Lab II": [
+                            "Communication Lab II",
+                            "Mr. Chetan V S"
+                        ]
+                    }
+                },
+                "ECE5SEMB": {
+                    "LH": "LH4",
+                    "MON": {
+                        "08:30": "COARM Lab / CST Lab",
+                        "09:30": "COARM Lab / CST Lab",
+                        "10:30": "BREAK",
+                        "11:00": "DC",
+                        "12:00": "EW",
+                        "13:00": "LUNCH",
+                        "13:30": "COARM",
+                        "14:30": "CCN",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "COARM Lab / CST Lab",
+                        "09:30": "COARM Lab / CST Lab",
+                        "10:30": "BREAK",
+                        "11:00": "DC",
+                        "12:00": "CCN",
+                        "13:00": "LUNCH",
+                        "13:30": "PHEONIX",
+                        "14:30": "PHEONIX",
+                        "15:30": "PHEONIX",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "CCN",
+                        "09:30": "EW",
+                        "10:30": "BREAK",
+                        "11:00": "COARM",
+                        "12:00": "RM & IPR",
+                        "13:00": "LUNCH",
+                        "13:30": "Communication Lab II",
+                        "14:30": "Communication Lab II",
+                        "15:30": "Communication Lab II",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "DC",
+                        "10:30": "BREAK",
+                        "11:00": "CCN",
+                        "12:00": "ES",
+                        "13:00": "LUNCH",
+                        "13:30": "Communication Lab II",
+                        "14:30": "Communication Lab II",
+                        "15:30": "Communication Lab II",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "RM & IPR",
+                        "09:30": "Communication Lab II",
+                        "10:30": "BREAK",
+                        "11:00": "Communication Lab II",
+                        "12:00": "Communication Lab II",
+                        "13:00": "LUNCH",
+                        "13:30": "COARM",
+                        "14:30": "EW",
+                        "15:30": "COARM Lab / CST Lab",
+                        "16:30": "COARM Lab / CST Lab"
+                    },
+                    "SAT": {
+                        "08:30": "No_Class",
+                        "09:30": "EW",
+                        "10:30": "BREAK",
+                        "11:00": "COARM",
+                        "12:00": "DC",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "DC": [
+                            "Digital Communication ",
+                            "Mr. K B Koralahalli"
+                        ],
+                        "COARM": [
+                            "Computer Organization & ARM Microcontroller (IPCC)",
+                            "Dr. Kumar Swamy V"
+                        ],
+                        "CCN": [
+                            "Computer Communication Networks",
+                            "Ms. Supriya P"
+                        ],
+                        "EW": [
+                            "Electromagnetic Waves",
+                            "Mr. Rakesh B Shetter"
+                        ],
+                        "RM & IPR": [
+                            "Research Methodology & Intellectual Property Rights ",
+                            "Ms. Sarala S"
+                        ],
+                        "ES": [
+                            "Environmental Studies  ",
+                            "Mr. Sujay K"
+                        ],
+                        "PHEONIX": [
+                            "PHEONIX",
+                            "Ms. Supriya P / Mr. Ramachandra T"
+                        ],
+                        "COARM Lab / CST Lab": [
+                            "COARM Lab / CST Lab",
+                            "Dr. Kumar Swamy V / Mrs. Madhu G"
+                        ],
+                        "Communication Lab II": [
+                            "Communication Lab II",
+                            "Mr. K B Koralahalli"
+                        ]
+                    }
+                }
             }
         },
         "EEE": {
@@ -1053,6 +1833,133 @@
                         "Relay and HV  Laboratory": [
                             "KSH_HV lab",
                             "Mr. Keertikumar S H"
+                        ]
+                    }
+                }
+            },
+            "EEE3SEM": {
+                "EEE3SEMA": {
+                    "LH": "02",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "Electric Circuit Analysis lab",
+                        "10:30": "No_Class",
+                        "11:00": "Transformers and Generators",
+                        "12:00": "Ability Enhancement Course-III",
+                        "13:00": "No_Class",
+                        "13:30": "Analog Electronic Circuits",
+                        "14:30": "Engineering Mathematics   for EEE",
+                        "15:30": "Digital Logic Circuits",
+                        "16:30": "Electric Circuit Analysis"
+                    },
+                    "TUE": {
+                        "08:30": "Transformers and Generators",
+                        "09:30": "Engineering Mathematics   for EEE",
+                        "10:30": "No_Class",
+                        "11:00": "Electric Circuit Analysis lab",
+                        "12:00": "Ability Enhancement Course-III",
+                        "13:00": "No_Class",
+                        "13:30": "Analog Electronic Circuits",
+                        "14:30": "Electric Circuit Analysis",
+                        "15:30": "Social Connect and Responsibility",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "Analog Electronic Circuits",
+                        "12:00": "Analog Electronic Circuits",
+                        "13:00": "No_Class",
+                        "13:30": "Digital Logic Circuits",
+                        "14:30": "Electric Circuit Analysis",
+                        "15:30": "Transformers and Generators",
+                        "16:30": "Analog Electronic Circuits"
+                    },
+                    "THU": {
+                        "08:30": "Electric Circuit Analysis",
+                        "09:30": "Transformers and Generators",
+                        "10:30": "No_Class",
+                        "11:00": "Analog Electronic Circuits",
+                        "12:00": "Digital Logic Circuits",
+                        "13:00": "No_Class",
+                        "13:30": "Electric Circuit Analysis",
+                        "14:30": "Engineering Mathematics   for EEE",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "Engineering Mathematics   for EEE",
+                        "12:00": "Digital Logic Circuits",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "Analog Electronic Circuits",
+                        "09:30": "Analog Electronic Circuits",
+                        "10:30": "No_Class",
+                        "11:00": "Transformers and Generators",
+                        "12:00": "Electric Circuit Analysis",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "Engineering Mathematics   for EEE": [
+                            "Mrs.Bhuvaneshwari _Engineering Mathematics   for EEE",
+                            "Mrs.Bhuvaneshwari "
+                        ],
+                        "Electric Circuit Analysis": [
+                            "Electric Circuit Analysis_Dr.Vinoda S.",
+                            "Dr.Vinoda S."
+                        ],
+                        "Electric Circuit Analysis lab": [
+                            "Electric Circuit Analysis lab_Mr Keerthikumar S H",
+                            "Mr Keerthikumar S H"
+                        ],
+                        "Analog Electronic Circuits": [
+                            "Analog Electronic Circuits_Dr.Prakash Kerur ",
+                            "Dr.Prakash Kerur "
+                        ],
+                        "Transformers and Generators": [
+                            "Transformers and Generators_Mr.V M Soppimath",
+                            "Mr.V M Soppimath"
+                        ],
+                        "Mr.V M Soppimath lab": [
+                            "Mr.V M Soppimath_Mr.V M Soppimath",
+                            "Mr.V M Soppimath"
+                        ],
+                        "Digital Logic Circuits": [
+                            "Digital Logic Circuits_Mrs Sarita U",
+                            "Mrs Sarita U"
+                        ],
+                        "Social Connect and Responsibility": [
+                            "Social Connect and Responsibility_Dr.Prakash K",
+                            "Dr.Prakash K"
+                        ],
+                        "Ability Enhancement Course-III": [
+                            "Ability Enhancement Course-III_Dr.Manjunath R",
+                            "Dr.Manjunath R"
                         ]
                     }
                 }
@@ -1202,6 +2109,137 @@
                         "AS/AA": [
                             "Seminar Activities/AICTE Activities",
                             "DRK/SVP"
+                        ]
+                    }
+                }
+            },
+            "CIV3SEM": {
+                "CIV3SEMA": {
+                    "LH": "1",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "DA",
+                        "12:00": "ES",
+                        "13:00": "No_Class",
+                        "13:30": "CAD BPD LAB",
+                        "14:30": "ES",
+                        "15:30": "ESC",
+                        "16:30": "WS & WWE"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "WS & WWE",
+                        "10:30": "No_Class",
+                        "11:00": "CAD BPD LAB",
+                        "12:00": "EG LAB",
+                        "13:00": "No_Class",
+                        "13:30": "SC & R",
+                        "14:30": "SC & R",
+                        "15:30": "ES",
+                        "16:30": "WS & WWE"
+                    },
+                    "WED": {
+                        "08:30": "EG",
+                        "09:30": "ES",
+                        "10:30": "No_Class",
+                        "11:00": "ESC",
+                        "12:00": "SOM",
+                        "13:00": "No_Class",
+                        "13:30": "EG",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "WS & WWE",
+                        "09:30": "SOM",
+                        "10:30": "No_Class",
+                        "11:00": "ESC",
+                        "12:00": "SOM",
+                        "13:00": "No_Class",
+                        "13:30": "EG LAB",
+                        "14:30": "CAD BPD LAB",
+                        "15:30": "ES LAB",
+                        "16:30": "DA"
+                    },
+                    "FRI": {
+                        "08:30": "ES",
+                        "09:30": "SOM",
+                        "10:30": "No_Class",
+                        "11:00": "ESC",
+                        "12:00": "EG",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "EG",
+                        "09:30": "CAD BPD LAB",
+                        "10:30": "No_Class",
+                        "11:00": "ES LAB",
+                        "12:00": "DA",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "SOM": [
+                            "Strength of Materials",
+                            "Prof. P.M Topalakatti"
+                        ],
+                        "ES": [
+                            "Engineering Survey",
+                            "Prof. S.V Patil"
+                        ],
+                        "EG": [
+                            "Engineering Geology",
+                            "Prof. Sujay. K"
+                        ],
+                        "WS & WWE": [
+                            "Water Supply & Waste Water Engineering",
+                            "Prof. M.S Dhaduti"
+                        ],
+                        "ESC": [
+                            "ESC \u2013 Sustainable Design Concept for Building Services",
+                            "Prof. S.S Huggi"
+                        ],
+                        "DA": [
+                            "Ability Enhancement Course \u2013 Data Analytics with Excel",
+                            "Prof.  Rajat Khodanpur"
+                        ],
+                        "SC & R": [
+                            "Social Connect and Responsibility",
+                            "Prof. Sujay. K"
+                        ],
+                        "ES LAB": [
+                            "Engineering Survey Lab",
+                            "Prof. S.V Patil"
+                        ],
+                        "EG LAB": [
+                            "Engineering Geology Lab",
+                            "Prof. Sujay. K"
+                        ],
+                        "CAD BPD LAB": [
+                            "Computer Aided Building Planning and Drawing",
+                            "Prof. S.S Huggi"
                         ]
                     }
                 }
