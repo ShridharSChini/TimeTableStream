@@ -62,7 +62,7 @@ day = days[datetime.today().weekday() + 1]
 Departments =["All_DEPT", "FSY", "CSE","ECE","EEE", "MCA", "CIV","MEC"]
 # sem = ['ALL_SEM','3','6','8']#,'C_Cycle','P_Cycle']
 # sem = ['ALL_SEM','4','6','P_Cycle','C_Cycle']
-sem = ['ALL_SEM','7','P_Cycle','C_Cycle']
+sem = ['ALL_SEM','7','3','5','P_Cycle','C_Cycle']
 divisions = ['ALL_DIV','A','B','C','D','E','F','G','H']
 
 # divisions = ['ALL_DIV','A','B','P_Cycle_A','P_Cycle_B','P_Cycle_C','P_Cycle_D','C_Cycle_E','C_Cycle_F','C_Cycle_G','C_Cycle_H']
