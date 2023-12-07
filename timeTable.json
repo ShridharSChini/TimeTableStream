@@ -240,6 +240,615 @@
                         ]
                     }
                 }
+            },
+            "CSE5SEM": {
+                "CSE5SEMA": {
+                    "LH": "LH 01",
+                    "MON": {
+                        "08:30": "AIML",
+                        "09:30": "ATC",
+                        "10:30": "No_Class",
+                        "11:00": "DBMS",
+                        "12:00": "CN",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "AIML",
+                        "09:30": "ATC",
+                        "10:30": "No_Class",
+                        "11:00": "CN",
+                        "12:00": "DBMS",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "ATC",
+                        "10:30": "No_Class",
+                        "11:00": "AIML",
+                        "12:00": "DBMS",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "CN Lab/DBMS Lab/Angular JS",
+                        "12:00": "CN Lab/DBMS Lab/Angular JS",
+                        "13:00": "No_Class",
+                        "13:30": "AIML",
+                        "14:30": "DBMS",
+                        "15:30": "CN",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "ES",
+                        "10:30": "No_Class",
+                        "11:00": "CN Lab/DBMS Lab/Angular JS",
+                        "12:00": "CN Lab/DBMS Lab/Angular JS",
+                        "13:00": "No_Class",
+                        "13:30": "RM",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "ATC",
+                        "09:30": "CN",
+                        "10:30": "No_Class",
+                        "11:00": "CN Lab/DBMS Lab/Angular JS",
+                        "12:00": "CN Lab/DBMS Lab/Angular JS",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "ATC": [
+                            "Automata Theory and compiler",
+                            "Dr. Vishwanath K."
+                        ],
+                        "CN": [
+                            "Computer Networks",
+                            "Dr. Geetha B."
+                        ],
+                        "CN Lab/DBMS Lab/Angular JS": [
+                            "CN Lab/DBMS Lab/Angular JS",
+                            "Dr. Geetha B./Mrs. Malathi S. Y./Mr. Shridhar  C."
+                        ],
+                        "DBMS": [
+                            "Database Management Systems",
+                            "Mrs. Malathi S. Y."
+                        ],
+                        "AIML": [
+                            "Artificial Intelligence and Machine Learning",
+                            "Balachandra C."
+                        ],
+                        "RM": [
+                            "Research Methodology ",
+                            "All Faculties"
+                        ],
+                        "ES": [
+                            "Environmental Studies",
+                            "Mr. Sujay K."
+                        ]
+                    }
+                },
+                "CSE5SEMB": {
+                    "LH": "LH 01",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "Angular JS",
+                        "10:30": "Angular JS",
+                        "11:00": "Angular JS",
+                        "12:00": "ATC",
+                        "13:00": "No_Class",
+                        "13:30": "CN Lab/DBMS Lab",
+                        "14:30": "CN Lab/DBMS Lab",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "Angular JS",
+                        "10:30": "Angular JS",
+                        "11:00": "Angular JS",
+                        "12:00": "ATC",
+                        "13:00": "No_Class",
+                        "13:30": "CN Lab/DBMS Lab",
+                        "14:30": "CN Lab/DBMS Lab",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "Angular JS",
+                        "10:30": "Angular JS",
+                        "11:00": "Angular JS",
+                        "12:00": "ATC",
+                        "13:00": "No_Class",
+                        "13:30": "DBMS",
+                        "14:30": "AIML",
+                        "15:30": " CN Lab/DBMS Lab",
+                        "16:30": " CN Lab/DBMS Lab"
+                    },
+                    "THU": {
+                        "08:30": "CN",
+                        "09:30": "ES",
+                        "10:30": "No_Class",
+                        "11:00": "DBMS",
+                        "12:00": "AIML",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "RM",
+                        "09:30": "DBMS",
+                        "10:30": "No_Class",
+                        "11:00": "CN",
+                        "12:00": "AIML",
+                        "13:00": "No_Class",
+                        "13:30": "ATC",
+                        "14:30": "IBOCS ",
+                        "15:30": "IBOCS ",
+                        "16:30": "IBOCS "
+                    },
+                    "SAT": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "DBMS",
+                        "12:00": "CN",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "ATC": [
+                            "Automata Theory and compiler",
+                            "Dr. Vishwanath K."
+                        ],
+                        "CN": [
+                            "Computer Networks",
+                            "Mrs. Vinoda D."
+                        ],
+                        "Angular JS": [
+                            "Angular JS",
+                            "Mr. Gurusiddappa Hugar"
+                        ],
+                        "CN Lab/DBMS Lab": [
+                            "CN Lab/DBMS Lab",
+                            "Mrs. Vinoda D./Dr. Vishwanath K."
+                        ],
+                        "DBMS": [
+                            "Database Management Systems",
+                            "Mr.  Pradeep S."
+                        ],
+                        "AIML": [
+                            "Artificial Intelligence and Machine",
+                            "Mrs. Swati  Sajjan"
+                        ],
+                        "RM": [
+                            "Research Methodology ",
+                            "All Faculties"
+                        ],
+                        "ES": [
+                            "Environmental Studies",
+                            "Mr. Sujay K."
+                        ],
+                        "IBOCS ": [
+                            "IBOCS Activity",
+                            "IBOCS Activity"
+                        ]
+                    }
+                }
+            },
+            "CSE3SEM": {
+                "CSE3SEMA": {
+                    "LH": "LH 02",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "DVP",
+                        "10:30": "No_Class",
+                        "11:00": "OS",
+                        "12:00": "MCS",
+                        "13:00": "No_Class",
+                        "13:30": "DSA",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "OOP",
+                        "10:30": "No_Class",
+                        "11:00": "DSA",
+                        "12:00": "OS",
+                        "13:00": "No_Class",
+                        "13:30": "MCS",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "DDCO",
+                        "09:30": "OOP",
+                        "10:30": "No_Class",
+                        "11:00": "OS",
+                        "12:00": "DSA",
+                        "13:00": "No_Class",
+                        "13:30": "MCS",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "OOP",
+                        "09:30": "MCS",
+                        "10:30": "No_Class",
+                        "11:00": "DSA",
+                        "12:00": "DDCO",
+                        "13:00": "No_Class",
+                        "13:30": "OS Lab/DSA Lab/OOP Lab",
+                        "14:30": "OS Lab/DSA Lab/OOP Lab",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "OS",
+                        "10:30": "No_Class",
+                        "11:00": "DDCO",
+                        "12:00": "DVP",
+                        "13:00": "No_Class",
+                        "13:30": "OS Lab/DSA Lab/OOP Lab",
+                        "14:30": "OS Lab/DSA Lab/OOP Lab",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "OS Lab/DSA Lab/OOP Lab",
+                        "09:30": "OS Lab/DSA Lab/OOP Lab",
+                        "10:30": "No_Class",
+                        "11:00": "DDCO",
+                        "12:00": "OOP",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "MCS": [
+                            "Mathematics for Computer Science",
+                            "Mr. Akshaykumar Patil"
+                        ],
+                        "DDCO": [
+                            "Digital Design & Computer Organization",
+                            "Mr. Gurusidappa Hugar"
+                        ],
+                        "OS": [
+                            "Operating Systems",
+                            "Mrs. Shanta Kallur"
+                        ],
+                        "OS Lab/DSA Lab/OOP Lab": [
+                            "OS Lab/DSA Lab/OOP Lab",
+                            "Mrs. Shanta Kallur/Mrs. Swati Sajjan/Mr.  Pradeep Surasura"
+                        ],
+                        "DSA": [
+                            "Data Structures and Applications",
+                            "Mrs. Swati Sajjan"
+                        ],
+                        "OOP": [
+                            "Object Oriented Programming with Java",
+                            "Mr.  Pradeep Surasura"
+                        ],
+                        "SCR": [
+                            "Social Connect and Responsibility",
+                            "All faculty"
+                        ],
+                        "DVP": [
+                            "Data Visualization with Python",
+                            "Mrs. Suman Yeligar"
+                        ]
+                    }
+                },
+                "CSE3SEMB": {
+                    "LH": "LH 03",
+                    "MON": {
+                        "08:30": "DSA",
+                        "09:30": "OS",
+                        "10:30": "No_Class",
+                        "11:00": "MCS",
+                        "12:00": "OOP",
+                        "13:00": "No_Class",
+                        "13:30": "OS Lab/DSA Lab/OOP Lab",
+                        "14:30": "OS Lab/DSA Lab/OOP Lab",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "OOP",
+                        "09:30": "DSA",
+                        "10:30": "No_Class",
+                        "11:00": "MCS",
+                        "12:00": "OS",
+                        "13:00": "No_Class",
+                        "13:30": "OS Lab/DSA Lab/OOP Lab",
+                        "14:30": "OS Lab/DSA Lab/OOP Lab",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "MCS",
+                        "10:30": "No_Class",
+                        "11:00": "DDCO",
+                        "12:00": "OOP",
+                        "13:00": "No_Class",
+                        "13:30": "OS Lab/DSA Lab/OOP Lab",
+                        "14:30": "OS Lab/DSA Lab/OOP Lab",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "DDCO",
+                        "12:00": "OS",
+                        "13:00": "No_Class",
+                        "13:30": "DVP",
+                        "14:30": "DSA",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "No_Class",
+                        "09:30": "MCS",
+                        "10:30": "No_Class",
+                        "11:00": "OS",
+                        "12:00": "DDCO",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "DVP",
+                        "09:30": "DDCO",
+                        "10:30": "No_Class",
+                        "11:00": "DSA",
+                        "12:00": "OOP",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "MCS": [
+                            "Mathematics for Computer Science",
+                            "Mr. Akshaykumar Patil"
+                        ],
+                        "DDCO": [
+                            "Digital Design & Computer Organization",
+                            "Mr. Rajesh Y"
+                        ],
+                        "OS": [
+                            "Operating Systems",
+                            "Mr. Prasanna B"
+                        ],
+                        "OS Lab/DSA Lab/OOP Lab": [
+                            "OS Lab/DSA Lab/OOP Lab",
+                            "Mr. Prasanna B/Mr. Girish Saunshi/Mr. Shridhar Chini"
+                        ],
+                        "DSA": [
+                            "Data Structures and Applications",
+                            "Mr. Girish Saunshi"
+                        ],
+                        "OOP": [
+                            "Object Oriented Programming with Java",
+                            "Mrs. Pavitra Gadar"
+                        ],
+                        "SCR": [
+                            "Social Connect and Responsibility",
+                            "All faculty"
+                        ],
+                        "DVP": [
+                            "Data Visualization with Python",
+                            "Mrs. Suman Yeligar"
+                        ]
+                    }
+                },
+                "CSE3SEMC": {
+                    "LH": "LH 04",
+                    "MON": {
+                        "08:30": "No_Class",
+                        "09:30": "OS",
+                        "10:30": "OS Lab/DSA Lab/OOP Lab",
+                        "11:00": "OS Lab/DSA Lab/OOP Lab",
+                        "12:00": "MCS",
+                        "13:00": "No_Class",
+                        "13:30": "OS Lab/DSA Lab/OOP Lab",
+                        "14:30": "OOP",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "TUE": {
+                        "08:30": "No_Class",
+                        "09:30": "OS Lab/DSA Lab/OOP Lab",
+                        "10:30": "OS Lab/DSA Lab/OOP Lab",
+                        "11:00": "OS Lab/DSA Lab/OOP Lab",
+                        "12:00": "DSA",
+                        "13:00": "No_Class",
+                        "13:30": "DVP",
+                        "14:30": "OOP",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "WED": {
+                        "08:30": "No_Class",
+                        "09:30": "OS Lab/DSA Lab/OOP Lab",
+                        "10:30": "OS Lab/DSA Lab/OOP Lab",
+                        "11:00": "OS Lab/DSA Lab/OOP Lab",
+                        "12:00": "OS",
+                        "13:00": "No_Class",
+                        "13:30": "DDCO",
+                        "14:30": "DVP",
+                        "15:30": "MCS",
+                        "16:30": "No_Class"
+                    },
+                    "THU": {
+                        "08:30": "No_Class",
+                        "09:30": "No_Class",
+                        "10:30": "No_Class",
+                        "11:00": "MCS",
+                        "12:00": "OOP",
+                        "13:00": "No_Class",
+                        "13:30": "DDCO",
+                        "14:30": "DSA",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FRI": {
+                        "08:30": "DDCO",
+                        "09:30": "OS",
+                        "10:30": "No_Class",
+                        "11:00": "OOP",
+                        "12:00": "DSA",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "SAT": {
+                        "08:30": "DDCO",
+                        "09:30": "DSA",
+                        "10:30": "No_Class",
+                        "11:00": "MCS",
+                        "12:00": "OS",
+                        "13:00": "No_Class",
+                        "13:30": "No_Class",
+                        "14:30": "No_Class",
+                        "15:30": "No_Class",
+                        "16:30": "No_Class"
+                    },
+                    "FACULTY": {
+                        "No_Class": [
+                            "No_Class",
+                            "No_Class"
+                        ],
+                        "BREAK": [
+                            "BREAK",
+                            "BREAK"
+                        ],
+                        "LUNCH": [
+                            "LUNCH",
+                            "LUNCH"
+                        ],
+                        "MCS": [
+                            "Mathematics for Computer Science",
+                            "Dr.  Naveen S."
+                        ],
+                        "DDCO": [
+                            "Digital Design & Computer Organization",
+                            "Dr.  Yerriswamy T."
+                        ],
+                        "OS": [
+                            "Operating Systems",
+                            "Mrs. Shobha Hiremath"
+                        ],
+                        "OS Lab/DSA Lab/OOP Lab": [
+                            "OS Lab/DSA Lab/OOP Lab",
+                            "Mrs. Shobha Hiremath/Mrs. Vinoda/Mrs.  Pavitra "
+                        ],
+                        "DSA": [
+                            "Data Structures and Applications",
+                            "Mrs. Vijeeta Patil"
+                        ],
+                        "OOP": [
+                            "Object Oriented Programming with Java",
+                            "Mrs.  Pavitra"
+                        ],
+                        "SCR": [
+                            "Social Connect and Responsibility",
+                            "All faculty"
+                        ],
+                        "DVP": [
+                            "Data Visualization with Python",
+                            "Mrs. Suman Yeligar"
+                        ]
+                    }
+                }
             }
         },
         "MEC": {
